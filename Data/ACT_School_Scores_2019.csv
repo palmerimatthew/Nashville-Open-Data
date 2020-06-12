@@ -1,0 +1,1690 @@
+﻿District,District Name,School,School Name,Subgroup,Valid Tests,Participation Rate,Average English Score,Average Math Score,Average Reading Score,Average Science Score,Average Composite Score,Number Scoring 21 or Higher,Percent Scoring 21 or Higher,Number Scoring Below 19,Percent Scoring Below 19
+10,Anderson County,2,Anderson County High School,All Students,269,100,19.8,19.4,20.7,20.1,20.1,115,42.8,115,42.8
+10,Anderson County,2,Anderson County High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+10,Anderson County,2,Anderson County High School,Economically Disadvantaged,72,100,17.5,17.5,19.1,18.5,18.3,18,25,42,58.3
+10,Anderson County,2,Anderson County High School,Students with Disabilities,32,100,12.5,15.2,14.4,14.8,14.4,**,**,**,**
+10,Anderson County,25,Clinton High School,All Students,258,100,18.3,18,19.1,19.1,18.8,83,32.2,139,53.9
+10,Anderson County,25,Clinton High School,Black/Hispanic/Native American,13,100,17,17.2,16.6,17.9,17.2,4,30.8,8,61.5
+10,Anderson County,25,Clinton High School,Economically Disadvantaged,117,99,16.9,16.9,18.3,17.9,17.7,25,21.4,76,65
+10,Anderson County,25,Clinton High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+10,Anderson County,25,Clinton High School,Students with Disabilities,44,100,12.5,15.8,14.6,15.2,14.7,**,**,**,**
+12,Oak Ridge,35,Oak Ridge High School,All Students,272,97,23,22.2,24.2,23.2,23.3,175,64.3,65,23.9
+12,Oak Ridge,35,Oak Ridge High School,Black/Hispanic/Native American,72,99,19.7,18.7,21.1,20,20.1,29,40.3,31,43.1
+12,Oak Ridge,35,Oak Ridge High School,Economically Disadvantaged,64,96,20.7,19.4,22.4,21.1,21,33,51.6,21,32.8
+12,Oak Ridge,35,Oak Ridge High School,English Learners,7,*,*,*,*,*,*,*,*,*,*
+12,Oak Ridge,35,Oak Ridge High School,Students with Disabilities,24,75,16.9,17.8,18.7,19.4,18.4,6,25,14,58.3
+20,Bedford County,13,Cascade High School,All Students,111,99,20.7,19.5,21.3,21.1,20.8,52,46.8,38,34.2
+20,Bedford County,13,Cascade High School,Black/Hispanic/Native American,16,100,18.2,18.5,18.4,18.6,18.6,4,25,10,62.5
+20,Bedford County,13,Cascade High School,Economically Disadvantaged,31,97,18.2,17.5,18.5,19,18.5,10,32.3,14,45.2
+20,Bedford County,13,Cascade High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+20,Bedford County,13,Cascade High School,Students with Disabilities,14,100,13.4,14.8,14.9,14.8,14.6,1,7.1,13,92.9
+20,Bedford County,20,Shelbyville Central High School,All Students,331,96,17.3,18.1,18.5,18.5,18.3,92,27.8,207,62.5
+20,Bedford County,20,Shelbyville Central High School,Black/Hispanic/Native American,144,95,15.1,16.8,16.6,16.8,16.5,17,11.8,114,79.2
+20,Bedford County,20,Shelbyville Central High School,Economically Disadvantaged,155,97,15.4,16.8,17.3,17.3,16.9,26,16.8,113,72.9
+20,Bedford County,20,Shelbyville Central High School,English Learners,28,93,11.8,15,14.1,15.3,14.3,**,**,**,**
+20,Bedford County,20,Shelbyville Central High School,Students with Disabilities,41,98,12.2,14.8,14.2,14.9,14.2,**,**,**,**
+20,Bedford County,35,Community High School,All Students,115,98,18.5,17.9,19.6,19.4,19,40,34.8,61,53
+20,Bedford County,35,Community High School,Black/Hispanic/Native American,20,100,15.7,16,17.3,17,16.7,2,10,17,85
+20,Bedford County,35,Community High School,Economically Disadvantaged,43,98,16.3,16.6,17.7,17.7,17.2,10,23.3,30,69.8
+20,Bedford County,35,Community High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+20,Bedford County,35,Community High School,Students with Disabilities,10,91,11.4,14.1,13,15.4,13.7,**,**,**,**
+30,Benton County,10,Big Sandy School,All Students,20,100,16.1,17.7,17.9,19,17.9,5,25,11,55
+30,Benton County,10,Big Sandy School,Economically Disadvantaged,12,100,13.8,16.4,16.3,17.3,16.3,1,8.3,9,75
+30,Benton County,10,Big Sandy School,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+30,Benton County,25,Camden Central High School,All Students,128,97,18.2,18.6,19.5,19.9,19.2,37,28.9,68,53.1
+30,Benton County,25,Camden Central High School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+30,Benton County,25,Camden Central High School,Economically Disadvantaged,61,94,16.8,17.5,17.8,18.8,17.9,10,16.4,43,70.5
+30,Benton County,25,Camden Central High School,Students with Disabilities,23,96,13.3,15.2,14.6,16.8,15.1,**,**,**,**
+40,Bledsoe County,5,Bledsoe County High School,All Students,108,96,17.7,18,18.5,18.5,18.3,32,29.6,62,57.4
+40,Bledsoe County,5,Bledsoe County High School,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+40,Bledsoe County,5,Bledsoe County High School,Economically Disadvantaged,49,100,15.8,17.3,16.1,17.4,16.7,8,16.3,36,73.5
+40,Bledsoe County,5,Bledsoe County High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+40,Bledsoe County,5,Bledsoe County High School,Students with Disabilities,24,92,12.6,15.5,14.5,15.9,14.6,**,**,**,**
+50,Blount County,63,Heritage High School,All Students,320,100,18.6,18.5,19,18.7,18.8,103,32.2,165,51.6
+50,Blount County,63,Heritage High School,Black/Hispanic/Native American,29,100,15.2,16.5,15.3,15.5,15.7,3,10.3,24,82.8
+50,Blount County,63,Heritage High School,Economically Disadvantaged,105,99,16.4,17.3,17.2,17.1,17.1,20,19,68,64.8
+50,Blount County,63,Heritage High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+50,Blount County,63,Heritage High School,Students with Disabilities,36,97,11.6,15.3,13.8,14.5,13.8,**,**,**,**
+50,Blount County,123,Samuel Everett School of Innovation,All Students,1,*,*,*,*,*,*,*,*,*,*
+50,Blount County,155,William Blount High School,All Students,405,97,19.6,19.6,20.2,19.9,19.9,167,41.2,190,46.9
+50,Blount County,155,William Blount High School,Black/Hispanic/Native American,19,95,16.2,18.2,18,18.3,17.8,4,21.1,12,63.2
+50,Blount County,155,William Blount High School,Economically Disadvantaged,120,98,16.7,17.7,18,17.8,17.6,25,20.8,77,64.2
+50,Blount County,155,William Blount High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+50,Blount County,155,William Blount High School,Students with Disabilities,40,87,13.4,15.7,15.2,15.4,15.1,4,10,36,90
+51,Alcoa,10,Alcoa High School,All Students,170,100,21.1,20,21.6,20.9,21.1,91,53.5,56,32.9
+51,Alcoa,10,Alcoa High School,Black/Hispanic/Native American,73,100,18.9,18.3,19.2,19.4,19.1,28,38.4,33,45.2
+51,Alcoa,10,Alcoa High School,Economically Disadvantaged,65,100,18.2,18,18.7,18.5,18.6,19,29.2,38,58.5
+51,Alcoa,10,Alcoa High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+51,Alcoa,10,Alcoa High School,Students with Disabilities,16,100,12.4,14.5,14.3,15.2,14.4,**,**,**,**
+52,Maryville,15,Maryville High School,All Students,394,99,23.6,22.8,23.6,23.3,23.5,276,70.1,80,20.3
+52,Maryville,15,Maryville High School,Black/Hispanic/Native American,36,97,17.7,18.7,18.4,19.9,18.9,13,36.1,22,61.1
+52,Maryville,15,Maryville High School,Economically Disadvantaged,63,98,20.2,19.6,20.9,20.8,20.5,31,49.2,26,41.3
+52,Maryville,15,Maryville High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+52,Maryville,15,Maryville High School,Students with Disabilities,48,100,16.8,17.7,18,19.4,18.2,12,25,27,56.3
+60,Bradley County,20,Bradley Central High School,All Students,356,99,19.1,18.5,19.9,19.3,19.3,140,39.3,169,47.5
+60,Bradley County,20,Bradley Central High School,Black/Hispanic/Native American,26,96,17.1,17.9,18.9,18.3,18.2,7,26.9,13,50
+60,Bradley County,20,Bradley Central High School,Economically Disadvantaged,142,98,18,17.7,19.3,18.5,18.5,41,28.9,80,56.3
+60,Bradley County,20,Bradley Central High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+60,Bradley County,20,Bradley Central High School,Students with Disabilities,34,97,13.5,15.6,14.4,15.6,14.9,3,8.8,31,91.2
+60,Bradley County,53,North Cleveland GOAL Academy,All Students,38,100,13.7,15.4,14.5,15.1,14.8,3,7.9,35,92.1
+60,Bradley County,53,North Cleveland GOAL Academy,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+60,Bradley County,53,North Cleveland GOAL Academy,Economically Disadvantaged,26,100,13.5,15.4,14.3,14.8,14.7,**,**,**,**
+60,Bradley County,53,North Cleveland GOAL Academy,English Learners,1,*,*,*,*,*,*,*,*,*,*
+60,Bradley County,53,North Cleveland GOAL Academy,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+60,Bradley County,78,Walker Valley High School,All Students,364,100,21.6,20.9,22.4,21.3,21.7,209,57.4,111,30.5
+60,Bradley County,78,Walker Valley High School,Black/Hispanic/Native American,33,100,19.5,19.7,20.7,19.9,20.1,15,45.5,15,45.5
+60,Bradley County,78,Walker Valley High School,Economically Disadvantaged,74,100,19,18.9,19.7,19.5,19.4,27,36.5,37,50
+60,Bradley County,78,Walker Valley High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+60,Bradley County,78,Walker Valley High School,Students with Disabilities,26,100,16,16.3,17.3,16.6,16.7,3,11.5,17,65.4
+60,Bradley County,105,Bradley County Virtual School,All Students,14,100,19.1,18.1,21.4,19.6,19.7,8,57.1,6,42.9
+60,Bradley County,105,Bradley County Virtual School,Economically Disadvantaged,4,*,*,*,*,*,*,*,*,*,*
+61,Cleveland,20,Cleveland High,All Students,354,96,19.9,19.6,21.3,20.7,20.5,161,45.5,152,42.9
+61,Cleveland,20,Cleveland High,Black/Hispanic/Native American,131,96,17.1,17.5,18.3,18.4,17.9,34,26,80,61.1
+61,Cleveland,20,Cleveland High,Economically Disadvantaged,147,96,16.7,17.4,18.6,18.4,17.9,36,24.5,90,61.2
+61,Cleveland,20,Cleveland High,English Learners,20,100,13.1,15.8,14.9,16.2,15.1,1,5,17,85
+61,Cleveland,20,Cleveland High,Students with Disabilities,37,88,12.9,15,15,15.2,14.7,**,**,**,**
+61,Cleveland,40,F.I. Denning Center of Technology and Careers,All Students,2,*,*,*,*,*,*,*,*,*,*
+61,Cleveland,40,F.I. Denning Center of Technology and Careers,Economically Disadvantaged,1,*,*,*,*,*,*,*,*,*,*
+61,Cleveland,40,F.I. Denning Center of Technology and Careers,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+70,Campbell County,3,Campbell County Comprehensive High School,All Students,287,100,17.8,17.6,19.2,18,18.3,85,29.6,159,55.4
+70,Campbell County,3,Campbell County Comprehensive High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+70,Campbell County,3,Campbell County Comprehensive High School,Economically Disadvantaged,135,99,16.6,16.9,18,16.9,17.2,29,21.5,90,66.7
+70,Campbell County,3,Campbell County Comprehensive High School,Students with Disabilities,34,97,12.6,14.2,13.1,13.6,13.6,**,**,**,**
+70,Campbell County,75,Jellico High School,All Students,83,100,16.8,16.8,18.4,17.4,17.5,17,20.5,51,61.4
+70,Campbell County,75,Jellico High School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+70,Campbell County,75,Jellico High School,Economically Disadvantaged,53,100,16.3,16.2,18,16.6,17,9,17,35,66
+70,Campbell County,75,Jellico High School,Students with Disabilities,10,100,14.6,14.7,16.3,15.6,15.5,1,10,8,80
+80,Cannon County,16,Cannon County High School,All Students,125,95,17.5,18.1,19,19.3,18.7,39,31.2,65,52
+80,Cannon County,16,Cannon County High School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+80,Cannon County,16,Cannon County High School,Economically Disadvantaged,39,93,16.6,17.7,18.5,18.7,18,11,28.2,24,61.5
+80,Cannon County,16,Cannon County High School,Students with Disabilities,16,94,11.8,14.6,14.3,16.3,14.5,**,**,**,**
+92,Hollow Rock - Bruceton,10,Central High School,All Students,42,98,18.5,18.4,18.7,19,18.8,13,31,22,52.4
+92,Hollow Rock - Bruceton,10,Central High School,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+92,Hollow Rock - Bruceton,10,Central High School,Economically Disadvantaged,18,95,18.4,18.8,17.9,18.9,18.8,6,33.3,8,44.4
+92,Hollow Rock - Bruceton,10,Central High School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+93,Huntingdon Special School District,10,Huntingdon High School,All Students,78,100,20.5,20.1,21,20.8,20.7,38,48.7,29,37.2
+93,Huntingdon Special School District,10,Huntingdon High School,Black/Hispanic/Native American,13,100,14.7,16.6,15.9,17.5,16.4,1,7.7,11,84.6
+93,Huntingdon Special School District,10,Huntingdon High School,Economically Disadvantaged,34,100,18.7,18.9,19.6,19.4,19.3,14,41.2,17,50
+93,Huntingdon Special School District,10,Huntingdon High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+94,McKenzie,10,McKenzie High School,All Students,109,100,20.3,19.5,21,20.6,20.5,52,47.7,44,40.4
+94,McKenzie,10,McKenzie High School,Black/Hispanic/Native American,23,100,16.2,16.4,17.9,18.3,17.4,4,17.4,17,73.9
+94,McKenzie,10,McKenzie High School,Economically Disadvantaged,42,100,17.1,17.3,18.2,18,17.8,8,19,28,66.7
+94,McKenzie,10,McKenzie High School,Students with Disabilities,13,100,12.7,15.1,15.1,15.5,14.7,**,**,**,**
+95,South Carroll,5,Clarksburg School,All Students,17,100,20.6,19.3,19.8,21.4,20.4,8,47.1,6,35.3
+95,South Carroll,5,Clarksburg School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+95,South Carroll,5,Clarksburg School,Economically Disadvantaged,4,*,*,*,*,*,*,*,*,*,*
+95,South Carroll,5,Clarksburg School,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+97,West Carroll Sp Dist,5,West Carroll Junior/Senior High School,All Students,65,100,20.1,18.3,19.6,19.2,19.5,24,36.9,30,46.2
+97,West Carroll Sp Dist,5,West Carroll Junior/Senior High School,Black/Hispanic/Native American,6,*,*,*,*,*,*,*,*,*,*
+97,West Carroll Sp Dist,5,West Carroll Junior/Senior High School,Economically Disadvantaged,27,100,17.4,16.6,17.7,18.3,17.7,6,22.2,19,70.4
+97,West Carroll Sp Dist,5,West Carroll Junior/Senior High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+100,Carter County,15,Cloudland High School,All Students,41,100,18.5,19.1,19.4,19.3,19.2,16,39,19,46.3
+100,Carter County,15,Cloudland High School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+100,Carter County,15,Cloudland High School,Economically Disadvantaged,18,100,16.8,17.6,17.8,17.4,17.5,4,22.2,13,72.2
+100,Carter County,15,Cloudland High School,Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+100,Carter County,30,Hampton High School,All Students,99,100,16.9,17.9,18.6,18.5,18.1,25,25.3,59,59.6
+100,Carter County,30,Hampton High School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+100,Carter County,30,Hampton High School,Economically Disadvantaged,53,100,15.6,16.8,17.9,17.4,17,9,17,37,69.8
+100,Carter County,30,Hampton High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+100,Carter County,40,Happy Valley High School,All Students,99,96,18,17.4,18.7,18.3,18.3,30,30.3,52,52.5
+100,Carter County,40,Happy Valley High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+100,Carter County,40,Happy Valley High School,Economically Disadvantaged,38,93,15.8,16.4,16.7,17.1,16.7,9,23.7,25,65.8
+100,Carter County,40,Happy Valley High School,Students with Disabilities,13,87,13.1,15.4,15.8,16.2,15.2,1,7.7,11,84.6
+100,Carter County,90,Unaka High School,All Students,83,100,17.6,17.7,19,18.5,18.4,28,33.7,44,53
+100,Carter County,90,Unaka High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+100,Carter County,90,Unaka High School,Economically Disadvantaged,41,100,15,16.6,16.8,17.1,16.5,8,19.5,29,70.7
+100,Carter County,90,Unaka High School,Students with Disabilities,19,100,13.2,15.6,13.9,16.3,14.8,1,5.3,18,94.7
+101,Elizabethton,15,Elizabethton High School,All Students,175,99,20.7,19.9,21.8,20,20.8,88,50.3,62,35.4
+101,Elizabethton,15,Elizabethton High School,Black/Hispanic/Native American,15,100,20.4,18.3,21.2,18.5,19.7,6,40,8,53.3
+101,Elizabethton,15,Elizabethton High School,Economically Disadvantaged,58,98,18.7,17.9,20,18.5,18.9,19,32.8,30,51.7
+101,Elizabethton,15,Elizabethton High School,Students with Disabilities,14,100,13.4,14.6,15.1,15,14.6,**,**,**,**
+110,Cheatham County,10,Cheatham Co Central,All Students,130,97,18.1,18.5,19.2,18.8,18.8,42,32.3,72,55.4
+110,Cheatham County,10,Cheatham Co Central,Black/Hispanic/Native American,14,93,15.8,16.3,17.1,16.6,16.6,2,14.3,11,78.6
+110,Cheatham County,10,Cheatham Co Central,Economically Disadvantaged,52,96,17.5,17.7,18.9,18.1,18.2,14,26.9,30,57.7
+110,Cheatham County,10,Cheatham Co Central,English Learners,1,*,*,*,*,*,*,*,*,*,*
+110,Cheatham County,10,Cheatham Co Central,Students with Disabilities,15,100,14.4,16.7,16,16.3,16.1,3,20,12,80
+110,Cheatham County,19,Harpeth High School,All Students,123,98,19.6,19.4,21.5,20.4,20.4,56,45.5,49,39.8
+110,Cheatham County,19,Harpeth High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+110,Cheatham County,19,Harpeth High School,Economically Disadvantaged,33,94,17.2,18.4,19.3,19.4,18.7,11,33.3,15,45.5
+110,Cheatham County,19,Harpeth High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+110,Cheatham County,19,Harpeth High School,Students with Disabilities,11,92,12.2,15.7,15.4,16.3,15,**,**,**,**
+110,Cheatham County,33,Sycamore High School,All Students,143,98,19,18.9,20,19.8,19.6,55,38.5,62,43.4
+110,Cheatham County,33,Sycamore High School,Black/Hispanic/Native American,12,100,16.7,17.8,16.9,18.8,17.8,4,33.3,7,58.3
+110,Cheatham County,33,Sycamore High School,Economically Disadvantaged,31,94,18,17.6,19.2,19.2,18.7,12,38.7,18,58.1
+110,Cheatham County,33,Sycamore High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+110,Cheatham County,33,Sycamore High School,Students with Disabilities,18,95,14.2,16.8,16.2,17,16.2,2,11.1,14,77.8
+110,Cheatham County,40,Riverside Academy,All Students,1,*,*,*,*,*,*,*,*,*,*
+110,Cheatham County,40,Riverside Academy,Economically Disadvantaged,1,*,*,*,*,*,*,*,*,*,*
+120,Chester County,8,Chester County High School,All Students,199,95,20.1,19.7,20.3,20.1,20.2,76,38.2,79,39.7
+120,Chester County,8,Chester County High School,Black/Hispanic/Native American,29,100,17.8,18,16.7,18,17.9,8,27.6,17,58.6
+120,Chester County,8,Chester County High School,Economically Disadvantaged,64,90,17.2,17.9,17.6,18,17.9,16,25,37,57.8
+120,Chester County,8,Chester County High School,Students with Disabilities,17,94,13.9,15.9,14.8,14.6,15.1,**,**,**,**
+130,Claiborne County,93,Cumberland Gap High School,All Students,113,94,18.5,19.2,19.3,19.5,19.3,36,31.9,55,48.7
+130,Claiborne County,93,Cumberland Gap High School,Black/Hispanic/Native American,0,0,,,,,,0,,0,
+130,Claiborne County,93,Cumberland Gap High School,Economically Disadvantaged,45,94,15.7,17.2,17.2,17.6,17,6,13.3,31,68.9
+130,Claiborne County,93,Cumberland Gap High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+130,Claiborne County,110,Claiborne High School,All Students,137,94,17.8,18,19,18.6,18.5,39,28.5,79,57.7
+130,Claiborne County,110,Claiborne High School,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+130,Claiborne County,110,Claiborne High School,Economically Disadvantaged,62,94,16.3,17.5,17.9,17.8,17.5,16,25.8,40,64.5
+130,Claiborne County,110,Claiborne High School,Students with Disabilities,15,100,13.3,15.1,13.5,16.5,14.7,**,**,**,**
+140,Clay County,12,Clay County High School,All Students,77,89,19,18.5,18.5,19.3,18.9,25,32.5,40,51.9
+140,Clay County,12,Clay County High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+140,Clay County,12,Clay County High School,Economically Disadvantaged,36,80,17.6,18,17.5,18.9,18.1,9,25,24,66.7
+140,Clay County,12,Clay County High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+150,Cocke County,15,Cocke Co High School,All Students,261,99,17.4,18.2,19.1,18.5,18.4,77,29.5,146,55.9
+150,Cocke County,15,Cocke Co High School,Black/Hispanic/Native American,14,100,15.9,17.3,18.1,18.5,17.7,4,28.6,9,64.3
+150,Cocke County,15,Cocke Co High School,Economically Disadvantaged,140,99,16,17.2,17.7,17.4,17.2,30,21.4,97,69.3
+150,Cocke County,15,Cocke Co High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+150,Cocke County,15,Cocke Co High School,Students with Disabilities,34,94,12,14.2,14.4,15,14.1,**,**,**,**
+150,Cocke County,27,Cosby High School,All Students,90,100,17.8,18,19.4,18.7,18.6,28,31.1,52,57.8
+150,Cocke County,27,Cosby High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+150,Cocke County,27,Cosby High School,Economically Disadvantaged,51,100,15.7,16.4,17.4,17.3,16.9,6,11.8,36,70.6
+150,Cocke County,27,Cosby High School,Students with Disabilities,11,100,11.9,14.3,13.9,15.1,14,**,**,**,**
+160,Coffee County,5,Coffee County Central High School,All Students,383,98,18.9,18.8,20,19.5,19.4,143,37.3,185,48.3
+160,Coffee County,5,Coffee County Central High School,Black/Hispanic/Native American,44,96,16.9,18.1,18.8,18.1,18.1,9,20.5,27,61.4
+160,Coffee County,5,Coffee County Central High School,Economically Disadvantaged,149,97,16.4,17.4,18,17.7,17.5,28,18.8,102,68.5
+160,Coffee County,5,Coffee County Central High School,English Learners,8,*,*,*,*,*,*,*,*,*,*
+160,Coffee County,5,Coffee County Central High School,Students with Disabilities,37,93,13,15.4,14.7,16.2,15.1,2,5.4,33,89.2
+162,Tullahoma,35,Tullahoma High School,All Students,224,98,19.8,20.1,20.5,20.4,20.4,97,43.3,97,43.3
+162,Tullahoma,35,Tullahoma High School,Black/Hispanic/Native American,39,95,16.6,18,18.1,18.3,17.9,11,28.2,25,64.1
+162,Tullahoma,35,Tullahoma High School,Economically Disadvantaged,58,95,16,17.4,17.6,17.8,17.4,11,19,42,72.4
+162,Tullahoma,35,Tullahoma High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+162,Tullahoma,35,Tullahoma High School,Students with Disabilities,13,100,11.7,15.1,14.4,14.8,14.2,**,**,**,**
+170,Crockett County,3,Crockett County High School,All Students,211,100,18.1,18.2,19.7,18.5,18.8,69,32.7,115,54.5
+170,Crockett County,3,Crockett County High School,Black/Hispanic/Native American,71,99,15.5,16.8,17.3,16.4,16.6,11,15.5,55,77.5
+170,Crockett County,3,Crockett County High School,Economically Disadvantaged,102,100,16.7,17.3,18.4,17.4,17.6,27,26.5,65,63.7
+170,Crockett County,3,Crockett County High School,English Learners,8,*,*,*,*,*,*,*,*,*,*
+170,Crockett County,3,Crockett County High School,Students with Disabilities,22,100,11.9,14.8,13.7,15,14.1,**,**,**,**
+180,Cumberland County,25,Cumberland County High School,All Students,199,100,20.4,19.8,21.3,20.5,20.7,94,47.2,75,37.7
+180,Cumberland County,25,Cumberland County High School,Black/Hispanic/Native American,15,100,16.2,17.9,18.3,17.9,17.7,2,13.3,10,66.7
+180,Cumberland County,25,Cumberland County High School,Economically Disadvantaged,61,100,18.1,18.3,18.6,18.4,18.5,19,31.1,36,59
+180,Cumberland County,25,Cumberland County High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+180,Cumberland County,25,Cumberland County High School,Students with Disabilities,24,100,15.5,16.4,16.1,16.1,16.3,2,8.3,20,83.3
+180,Cumberland County,79,Stone Memorial High School,All Students,211,100,20.3,20.2,21.7,21,20.9,100,47.4,73,34.6
+180,Cumberland County,79,Stone Memorial High School,Black/Hispanic/Native American,13,100,16.2,17.5,18.5,18.4,17.7,1,7.7,7,53.8
+180,Cumberland County,79,Stone Memorial High School,Economically Disadvantaged,61,100,18.7,19.4,20.3,20,19.7,22,36.1,26,42.6
+180,Cumberland County,79,Stone Memorial High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+180,Cumberland County,79,Stone Memorial High School,Students with Disabilities,19,100,14.2,16.4,16.4,16.8,16.2,2,10.5,14,73.7
+180,Cumberland County,85,The Phoenix School,All Students,51,100,14.9,16,15.6,15.4,15.5,3,5.9,46,90.2
+180,Cumberland County,85,The Phoenix School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+180,Cumberland County,85,The Phoenix School,Economically Disadvantaged,34,100,15.1,15.9,15.8,15.1,15.6,**,**,**,**
+180,Cumberland County,85,The Phoenix School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+180,Cumberland County,85,The Phoenix School,Students with Disabilities,10,100,12.5,15,13.3,13.4,13.7,**,**,**,**
+190,Davidson County,3,MNPS Virtual School,All Students,12,86,19.6,18.6,22,20.1,20.2,7,58.3,5,41.7
+190,Davidson County,3,MNPS Virtual School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,3,MNPS Virtual School,Economically Disadvantaged,4,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,20,Antioch High School,All Students,351,97,16.1,16.7,17.4,17,17,59,16.8,242,68.9
+190,Davidson County,20,Antioch High School,Black/Hispanic/Native American,236,96,15.6,16.2,16.8,16.5,16.4,28,11.9,175,74.2
+190,Davidson County,20,Antioch High School,Economically Disadvantaged,210,97,15.3,16.3,16.6,16.7,16.4,28,13.3,162,77.1
+190,Davidson County,20,Antioch High School,English Learners,67,96,12.6,15.4,14.3,15.7,14.7,**,**,**,**
+190,Davidson County,20,Antioch High School,Students with Disabilities,39,98,12.9,14.4,14.4,14.7,14.3,**,**,**,**
+190,Davidson County,53,Nashville Big Picture High School,All Students,26,100,21.3,18.6,20.8,20.7,20.5,10,38.5,14,53.8
+190,Davidson County,53,Nashville Big Picture High School,Black/Hispanic/Native American,16,100,16.8,16.7,16.4,17.5,17,2,12.5,12,75
+190,Davidson County,53,Nashville Big Picture High School,Economically Disadvantaged,14,100,18,17.6,17.9,18.9,18.2,4,28.6,9,64.3
+190,Davidson County,53,Nashville Big Picture High School,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,77,Cane Ridge High School,All Students,358,99,16,16.9,17.2,16.7,16.8,67,18.7,256,71.5
+190,Davidson County,77,Cane Ridge High School,Black/Hispanic/Native American,260,99,15.8,16.6,17,16.4,16.6,42,16.2,193,74.2
+190,Davidson County,77,Cane Ridge High School,Economically Disadvantaged,216,99,15.6,16.6,16.7,16.2,16.4,35,16.2,162,75
+190,Davidson County,77,Cane Ridge High School,English Learners,79,99,12.7,15.3,14.5,14.4,14.4,**,**,**,**
+190,Davidson County,77,Cane Ridge High School,Students with Disabilities,30,100,12.5,15.1,13.3,13.9,13.8,**,**,**,**
+190,Davidson County,203,East Nashville Magnet High School,All Students,140,100,17.6,17.8,19.2,18.6,18.5,35,25,77,55
+190,Davidson County,203,East Nashville Magnet High School,Black/Hispanic/Native American,132,100,17.4,17.7,19,18.5,18.3,31,23.5,74,56.1
+190,Davidson County,203,East Nashville Magnet High School,Economically Disadvantaged,77,100,17.6,17.7,19.4,18.4,18.5,20,26,45,58.4
+190,Davidson County,203,East Nashville Magnet High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,245,Glencliff High School,All Students,228,99,14.5,16.2,16.1,16.3,15.9,24,10.5,191,83.8
+190,Davidson County,245,Glencliff High School,Black/Hispanic/Native American,167,99,14.1,16,15.6,16,15.6,15,9,147,88
+190,Davidson County,245,Glencliff High School,Economically Disadvantaged,175,100,14.4,16.1,16,16.1,15.8,16,9.1,150,85.7
+190,Davidson County,245,Glencliff High School,English Learners,63,100,12.5,15.6,14.1,15.1,14.4,**,**,**,**
+190,Davidson County,245,Glencliff High School,Students with Disabilities,16,100,11.1,14.2,13.4,15,13.6,**,**,**,**
+190,Davidson County,335,Hillsboro High,All Students,253,99,19.6,18.7,20.9,19.7,19.9,104,41.1,111,43.9
+190,Davidson County,335,Hillsboro High,Black/Hispanic/Native American,154,99,16.8,17.1,18.5,17.9,17.7,29,18.8,95,61.7
+190,Davidson County,335,Hillsboro High,Economically Disadvantaged,102,98,16.2,16.7,18.1,17.6,17.3,18,17.6,70,68.6
+190,Davidson County,335,Hillsboro High,English Learners,9,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,335,Hillsboro High,Students with Disabilities,25,93,15.2,15.8,17.4,17.7,16.6,5,20,19,76
+190,Davidson County,340,Hillwood High,All Students,235,98,18.4,18.2,19.6,18.9,18.9,79,33.6,124,52.8
+190,Davidson County,340,Hillwood High,Black/Hispanic/Native American,114,99,15.9,17,17.4,17.4,17,20,17.5,76,66.7
+190,Davidson County,340,Hillwood High,Economically Disadvantaged,96,99,16.9,17.2,18.3,17.8,17.6,23,24,59,61.5
+190,Davidson County,340,Hillwood High,English Learners,16,100,13.4,16.8,16.3,16.6,15.8,3,18.8,13,81.3
+190,Davidson County,340,Hillwood High,Students with Disabilities,36,97,13.3,15.8,15.5,16,15.3,4,11.1,31,86.1
+190,Davidson County,355,Hume - Fogg High,All Students,208,100,29,26.6,29.3,27.2,28.2,**,**,**,**
+190,Davidson County,355,Hume - Fogg High,Black/Hispanic/Native American,63,100,26.8,24.5,27.8,25,26.2,**,**,**,**
+190,Davidson County,355,Hume - Fogg High,Economically Disadvantaged,26,100,26,25.2,27.2,25.1,26,**,**,**,**
+190,Davidson County,355,Hume - Fogg High,English Learners,1,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,355,Hume - Fogg High,Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,358,Hunters Lane High,All Students,324,100,15,16.1,16.2,16.2,16,33,10.2,271,83.6
+190,Davidson County,358,Hunters Lane High,Black/Hispanic/Native American,264,100,14.5,15.9,15.8,15.9,15.7,19,7.2,232,87.9
+190,Davidson County,358,Hunters Lane High,Economically Disadvantaged,217,100,14.4,15.9,15.8,15.8,15.6,17,7.8,187,86.2
+190,Davidson County,358,Hunters Lane High,English Learners,57,98,10.9,15,12.8,14.4,13.5,**,**,**,**
+190,Davidson County,358,Hunters Lane High,Students with Disabilities,31,100,11.8,14.4,13.3,14.4,13.6,**,**,**,**
+190,Davidson County,395,John Overton High,All Students,406,99,17.4,17.8,18.4,18.3,18.1,115,28.3,251,61.8
+190,Davidson County,395,John Overton High,Black/Hispanic/Native American,227,100,16.1,16.8,17.1,17.4,17,43,18.9,157,69.2
+190,Davidson County,395,John Overton High,Economically Disadvantaged,234,100,15.7,16.9,16.9,17.1,16.8,44,18.8,170,72.6
+190,Davidson County,395,John Overton High,English Learners,91,100,12.9,15.5,14.1,15.2,14.5,**,**,**,**
+190,Davidson County,395,John Overton High,Students with Disabilities,32,100,15.5,16.7,18,17.3,17,5,15.6,24,75
+190,Davidson County,437,Middle College High,All Students,23,100,23.8,22.1,23.7,22.5,23.3,17,73.9,5,21.7
+190,Davidson County,437,Middle College High,Black/Hispanic/Native American,10,100,22.4,20.4,20.8,20.3,21.2,6,60,3,30
+190,Davidson County,437,Middle College High,Economically Disadvantaged,7,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,437,Middle College High,English Learners,1,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,437,Middle College High,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,443,Cora Howe School,All Students,3,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,443,Cora Howe School,Economically Disadvantaged,1,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,443,Cora Howe School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,445,Maplewood High,All Students,170,98,13.6,15.6,15.3,15.6,15.2,9,5.3,149,87.6
+190,Davidson County,445,Maplewood High,Black/Hispanic/Native American,160,99,13.4,15.6,15.1,15.5,15,**,**,**,**
+190,Davidson County,445,Maplewood High,Economically Disadvantaged,139,99,13.6,15.7,15.2,15.5,15.1,8,5.8,124,89.2
+190,Davidson County,445,Maplewood High,English Learners,12,100,10.3,14.2,11.7,12.8,12.4,**,**,**,**
+190,Davidson County,445,Maplewood High,Students with Disabilities,26,96,10.8,15.1,12.4,14.1,13.2,**,**,**,**
+190,Davidson County,456,Martin Luther King Jr School,All Students,236,100,26.5,25,26.6,25,26,**,**,**,**
+190,Davidson County,456,Martin Luther King Jr School,Black/Hispanic/Native American,126,100,25.2,23.3,25.7,23.4,24.6,**,**,**,**
+190,Davidson County,456,Martin Luther King Jr School,Economically Disadvantaged,50,100,24.4,23.6,24.4,23.6,24.1,**,**,**,**
+190,Davidson County,456,Martin Luther King Jr School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,456,Martin Luther King Jr School,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,470,McGavock High,All Students,416,99,17.3,17.3,18.3,18.2,17.9,111,26.7,246,59.1
+190,Davidson County,470,McGavock High,Black/Hispanic/Native American,243,99,15.5,16.3,16.4,16.7,16.4,36,14.8,181,74.5
+190,Davidson County,470,McGavock High,Economically Disadvantaged,218,99,15.8,16.3,16.8,17,16.6,35,16.1,155,71.1
+190,Davidson County,470,McGavock High,English Learners,18,100,11.3,15,13.6,14.2,13.6,**,**,**,**
+190,Davidson County,470,McGavock High,Students with Disabilities,52,100,13,14.8,14.1,14.2,14.1,**,**,**,**
+190,Davidson County,512,Nashville School Of The Arts,All Students,106,100,22.7,18.7,24.2,20.7,21.8,59,55.7,25,23.6
+190,Davidson County,512,Nashville School Of The Arts,Black/Hispanic/Native American,56,100,21.6,18.4,22.9,20.3,21,25,44.6,19,33.9
+190,Davidson County,512,Nashville School Of The Arts,Economically Disadvantaged,28,100,21.3,18,22.6,20.6,20.8,11,39.3,10,35.7
+190,Davidson County,512,Nashville School Of The Arts,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,555,Pearl-Cohn High,All Students,100,97,13.6,15.7,15.1,15.7,15.2,**,**,**,**
+190,Davidson County,555,Pearl-Cohn High,Black/Hispanic/Native American,100,97,13.6,15.7,15.1,15.7,15.2,**,**,**,**
+190,Davidson County,555,Pearl-Cohn High,Economically Disadvantaged,84,98,13.5,15.7,15,15.5,15,**,**,**,**
+190,Davidson County,555,Pearl-Cohn High,English Learners,3,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,555,Pearl-Cohn High,Students with Disabilities,20,95,12.5,14.8,14,15.7,14.3,**,**,**,**
+190,Davidson County,612,The Academy at Opry Mills,All Students,67,96,16.1,16.8,17.4,17.4,17,13,19.4,50,74.6
+190,Davidson County,612,The Academy at Opry Mills,Black/Hispanic/Native American,45,96,15.4,16.6,16,16.1,16.2,7,15.6,37,82.2
+190,Davidson County,612,The Academy at Opry Mills,Economically Disadvantaged,40,98,15.4,16.6,15.8,16.6,16.2,6,15,32,80
+190,Davidson County,612,The Academy at Opry Mills,English Learners,4,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,612,The Academy at Opry Mills,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,614,The Academy at Old Cockrill,All Students,81,95,15.7,16.8,17.6,16.8,16.8,16,19.8,60,74.1
+190,Davidson County,614,The Academy at Old Cockrill,Black/Hispanic/Native American,55,95,13.4,15.6,15.2,15.1,14.9,3,5.5,49,89.1
+190,Davidson County,614,The Academy at Old Cockrill,Economically Disadvantaged,48,94,14.1,16,16.6,16.2,15.8,6,12.5,40,83.3
+190,Davidson County,614,The Academy at Old Cockrill,Students with Disabilities,12,92,17.3,16.8,20.8,17.3,18.2,4,33.3,5,41.7
+190,Davidson County,620,Stratford STEM Magnet School,All Students,154,97,16.1,16.7,17.3,17.1,16.9,29,18.8,109,70.8
+190,Davidson County,620,Stratford STEM Magnet School,Black/Hispanic/Native American,116,97,15.1,16.2,16.3,16.5,16.2,15,12.9,92,79.3
+190,Davidson County,620,Stratford STEM Magnet School,Economically Disadvantaged,115,97,15,16,16.3,16.3,16.1,16,13.9,92,80
+190,Davidson County,620,Stratford STEM Magnet School,English Learners,10,91,14.5,16.2,17,17.1,16.4,2,20,8,80
+190,Davidson County,620,Stratford STEM Magnet School,Students with Disabilities,26,93,12.1,14.9,14.1,14.5,14,**,**,**,**
+190,Davidson County,704,Whites Creek High,All Students,139,100,14.2,15.6,16,15.4,15.4,9,6.5,115,82.7
+190,Davidson County,704,Whites Creek High,Black/Hispanic/Native American,126,100,13.8,15.3,15.5,15,15.1,**,**,**,**
+190,Davidson County,704,Whites Creek High,Economically Disadvantaged,108,100,13.8,15.3,15.5,15,15.1,**,**,**,**
+190,Davidson County,704,Whites Creek High,English Learners,2,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,704,Whites Creek High,Students with Disabilities,20,100,10.8,14.4,14.3,13.7,13.5,**,**,**,**
+190,Davidson County,720,The Academy at Hickory Hollow,All Students,136,97,14.2,15.8,15.7,15.7,15.5,12,8.8,114,83.8
+190,Davidson County,720,The Academy at Hickory Hollow,Black/Hispanic/Native American,98,98,14,15.5,15.3,15.4,15.2,7,7.1,84,85.7
+190,Davidson County,720,The Academy at Hickory Hollow,Economically Disadvantaged,99,97,13.6,15.6,15.2,15.2,15,**,**,**,**
+190,Davidson County,720,The Academy at Hickory Hollow,English Learners,33,97,11.7,14.8,13.1,13.8,13.5,**,**,**,**
+190,Davidson County,720,The Academy at Hickory Hollow,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,8003,Lead Academy,All Students,76,100,17.9,18.4,19.5,19,18.9,20,26.3,42,55.3
+190,Davidson County,8003,Lead Academy,Black/Hispanic/Native American,69,100,18,18.3,19.8,19.1,18.9,19,27.5,38,55.1
+190,Davidson County,8003,Lead Academy,Economically Disadvantaged,50,100,17,18.3,18.9,18.8,18.3,12,24,30,60
+190,Davidson County,8003,Lead Academy,English Learners,12,100,13.3,17.5,16.3,17.8,16.4,1,8.3,10,83.3
+190,Davidson County,8003,Lead Academy,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,8011,KIPP Nashville Collegiate High School,All Students,47,100,21.6,20.6,20.9,20.6,21.1,27,57.4,13,27.7
+190,Davidson County,8011,KIPP Nashville Collegiate High School,Black/Hispanic/Native American,43,100,21.7,20.6,21,20.5,21.1,24,55.8,12,27.9
+190,Davidson County,8011,KIPP Nashville Collegiate High School,Economically Disadvantaged,28,100,21.5,19.4,20.1,20,20.5,14,50,10,35.7
+190,Davidson County,8011,KIPP Nashville Collegiate High School,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,8065,Knowledge Academies High School,All Students,65,100,17.5,17.2,18,18.6,17.9,14,21.5,41,63.1
+190,Davidson County,8065,Knowledge Academies High School,Black/Hispanic/Native American,56,100,17.2,16.9,17.5,18.3,17.6,10,17.9,38,67.9
+190,Davidson County,8065,Knowledge Academies High School,Economically Disadvantaged,43,100,17.6,17.5,17.8,18.6,18,10,23.3,29,67.4
+190,Davidson County,8065,Knowledge Academies High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,8065,Knowledge Academies High School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,8075,STEM Prep High School,All Students,94,100,19.3,19.8,19.5,20.2,19.9,41,43.6,36,38.3
+190,Davidson County,8075,STEM Prep High School,Black/Hispanic/Native American,72,100,19.3,19.6,19.3,20.1,19.8,29,40.3,27,37.5
+190,Davidson County,8075,STEM Prep High School,Economically Disadvantaged,63,100,17.9,18.9,18.1,19.5,18.8,20,31.7,31,49.2
+190,Davidson County,8075,STEM Prep High School,English Learners,22,100,13.7,16.4,15.8,17,15.9,**,**,**,**
+190,Davidson County,8075,STEM Prep High School,Students with Disabilities,16,100,14.3,15.4,16.4,15.9,15.7,2,12.5,13,81.3
+190,Davidson County,8100,RePublic High School,All Students,116,100,20.7,19.2,20.8,20,20.3,50,43.1,40,34.5
+190,Davidson County,8100,RePublic High School,Black/Hispanic/Native American,109,100,20.2,19,20.2,19.6,19.9,44,40.4,39,35.8
+190,Davidson County,8100,RePublic High School,Economically Disadvantaged,74,100,19.9,19,20,19.6,19.8,27,36.5,29,39.2
+190,Davidson County,8100,RePublic High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+190,Davidson County,8100,RePublic High School,Students with Disabilities,11,100,16.8,17.9,17.9,17.4,17.7,2,18.2,9,81.8
+200,Decatur County,3,Riverside High School,All Students,110,100,19.3,18.2,20.7,19.8,19.6,44,40,44,40
+200,Decatur County,3,Riverside High School,Black/Hispanic/Native American,10,100,16.5,15.6,17.7,15.7,16.4,1,10,8,80
+200,Decatur County,3,Riverside High School,Economically Disadvantaged,46,100,18.4,17.8,19.6,19,18.8,15,32.6,21,45.7
+200,Decatur County,3,Riverside High School,Students with Disabilities,20,100,12.9,15.4,14.1,15.9,14.7,1,5,18,90
+210,DeKalb County,25,De Kalb County High School,All Students,184,99,18.3,18,19.3,19.3,18.9,62,33.7,96,52.2
+210,DeKalb County,25,De Kalb County High School,Black/Hispanic/Native American,28,97,14.3,15.6,16,15.8,15.5,3,10.7,24,85.7
+210,DeKalb County,25,De Kalb County High School,Economically Disadvantaged,71,97,16.5,16.7,17.7,18.2,17.3,14,19.7,49,69
+210,DeKalb County,25,De Kalb County High School,English Learners,8,*,*,*,*,*,*,*,*,*,*
+210,DeKalb County,25,De Kalb County High School,Students with Disabilities,14,100,13.6,15,14.1,15.9,14.8,1,7.1,13,92.9
+220,Dickson County,17,Creek Wood High School,All Students,207,100,18.5,18.2,19.5,19.5,19,76,36.7,101,48.8
+220,Dickson County,17,Creek Wood High School,Black/Hispanic/Native American,11,100,18.1,18.3,19.3,19.2,18.7,3,27.3,7,63.6
+220,Dickson County,17,Creek Wood High School,Economically Disadvantaged,64,100,17,17.1,18.3,18.1,17.7,15,23.4,40,62.5
+220,Dickson County,17,Creek Wood High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+220,Dickson County,17,Creek Wood High School,Students with Disabilities,24,100,12.5,15.1,13.9,14.6,14.2,**,**,**,**
+220,Dickson County,25,Dickson County High School,All Students,353,99,20.2,19.1,20.6,20.4,20.2,148,41.9,148,41.9
+220,Dickson County,25,Dickson County High School,Black/Hispanic/Native American,63,98,17.7,17.9,18.2,18.5,18.2,13,20.6,39,61.9
+220,Dickson County,25,Dickson County High School,Economically Disadvantaged,97,96,18.1,18.1,18.3,19,18.5,25,25.8,55,56.7
+220,Dickson County,25,Dickson County High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+220,Dickson County,25,Dickson County High School,Students with Disabilities,24,100,14,15.6,15.3,15.4,15.2,2,8.3,22,91.7
+230,Dyer County,18,Dyer County High School,All Students,264,99,20.9,19.9,21,20.4,20.7,119,45.1,99,37.5
+230,Dyer County,18,Dyer County High School,Black/Hispanic/Native American,32,97,18.9,18.6,19,19.3,19.2,8,25,18,56.3
+230,Dyer County,18,Dyer County High School,Economically Disadvantaged,110,99,19,18.7,19.2,19.2,19.2,37,33.6,55,50
+230,Dyer County,18,Dyer County High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+230,Dyer County,18,Dyer County High School,Students with Disabilities,24,100,14,15.8,15.5,15.2,15.3,**,**,**,**
+231,Dyersburg,15,Dyersburg High School,All Students,169,99,20.6,20.6,20.7,20.5,20.8,79,46.7,73,43.2
+231,Dyersburg,15,Dyersburg High School,Black/Hispanic/Native American,73,99,17.1,18,16.9,17.9,17.7,13,17.8,50,68.5
+231,Dyersburg,15,Dyersburg High School,Economically Disadvantaged,76,99,16.8,17.9,16.9,17.6,17.5,14,18.4,55,72.4
+231,Dyersburg,15,Dyersburg High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+231,Dyersburg,15,Dyersburg High School,Students with Disabilities,25,96,11.9,15,13,15.5,14,**,**,**,**
+240,Fayette County Public Schools,26,Fayette Ware Comprehensive High School,All Students,184,95,16.4,16.6,17.8,17.5,17.2,34,18.5,133,72.3
+240,Fayette County Public Schools,26,Fayette Ware Comprehensive High School,Black/Hispanic/Native American,137,94,15.4,16.2,16.7,16.8,16.4,17,12.4,110,80.3
+240,Fayette County Public Schools,26,Fayette Ware Comprehensive High School,Economically Disadvantaged,104,94,15.2,16,16,16.3,16.1,10,9.6,85,81.7
+240,Fayette County Public Schools,26,Fayette Ware Comprehensive High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+240,Fayette County Public Schools,26,Fayette Ware Comprehensive High School,Students with Disabilities,26,96,12.2,14.9,13.8,14.8,14.2,**,**,**,**
+250,Fentress County,25,Clarkrange High School,All Students,70,99,19.5,19.3,19.8,20.5,20,32,45.7,24,34.3
+250,Fentress County,25,Clarkrange High School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+250,Fentress County,25,Clarkrange High School,Economically Disadvantaged,42,98,18.9,18.4,18.8,18.9,18.9,14,33.3,20,47.6
+250,Fentress County,25,Clarkrange High School,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+260,Franklin County,50,Franklin Co High School,All Students,260,97,19.3,18.4,20.3,19.6,19.6,96,36.9,129,49.6
+260,Franklin County,50,Franklin Co High School,Black/Hispanic/Native American,44,100,17.1,17.5,18.2,17.9,17.8,11,25,30,68.2
+260,Franklin County,50,Franklin Co High School,Economically Disadvantaged,87,99,17.1,17,18.9,17.4,17.8,20,23,54,62.1
+260,Franklin County,50,Franklin Co High School,Students with Disabilities,30,100,12.6,14.7,13.3,15,14.1,**,**,**,**
+260,Franklin County,65,Huntland School,All Students,67,96,18.3,18.8,19.2,18.9,19,24,35.8,33,49.3
+260,Franklin County,65,Huntland School,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+260,Franklin County,65,Huntland School,Economically Disadvantaged,12,86,17.3,18.3,17.8,17.3,17.8,3,25,8,66.7
+260,Franklin County,65,Huntland School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+260,Franklin County,65,Huntland School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+271,Humboldt City Schools,20,Humboldt Junior/Senior High School,All Students,44,98,16.7,17.1,17.7,17.3,17.4,8,18.2,29,65.9
+271,Humboldt City Schools,20,Humboldt Junior/Senior High School,Black/Hispanic/Native American,39,98,16.3,16.9,17.1,16.7,17,5,12.8,27,69.2
+271,Humboldt City Schools,20,Humboldt Junior/Senior High School,Economically Disadvantaged,24,96,15.5,16.5,16.6,16.1,16.4,2,8.3,19,79.2
+271,Humboldt City Schools,20,Humboldt Junior/Senior High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+272,Milan,10,Milan High School,All Students,141,99,19.4,19.9,20.4,20.3,20.2,61,43.3,56,39.7
+272,Milan,10,Milan High School,Black/Hispanic/Native American,43,96,15.9,17.9,18.2,17.8,17.7,11,25.6,28,65.1
+272,Milan,10,Milan High School,Economically Disadvantaged,61,98,16.7,17.7,18.3,18.3,17.9,15,24.6,37,60.7
+272,Milan,10,Milan High School,Students with Disabilities,22,96,12.4,15.1,15.2,15.6,14.8,**,**,**,**
+273,Trenton,5,Peabody High School,All Students,102,97,19.5,17.5,19.3,18.1,18.8,33,32.4,54,52.9
+273,Trenton,5,Peabody High School,Black/Hispanic/Native American,40,100,16.8,16.9,16.5,16.3,16.8,6,15,28,70
+273,Trenton,5,Peabody High School,Economically Disadvantaged,52,96,17.2,16.4,16.9,16.4,16.9,9,17.3,35,67.3
+273,Trenton,5,Peabody High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+273,Trenton,5,Peabody High School,Students with Disabilities,16,100,15,15.9,16.3,16.4,16.1,1,6.3,12,75
+274,Bradford,5,Bradford High School,All Students,37,97,21.1,22.2,22.4,20.6,21.8,23,62.2,11,29.7
+274,Bradford,5,Bradford High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+274,Bradford,5,Bradford High School,Economically Disadvantaged,11,100,18.3,21,20.8,19.9,20,5,45.5,4,36.4
+274,Bradford,5,Bradford High School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+275,Gibson Co Sp Dist,33,Gibson County High School,All Students,105,100,20.4,19.7,20.6,20.5,20.4,48,45.7,39,37.1
+275,Gibson Co Sp Dist,33,Gibson County High School,Black/Hispanic/Native American,16,100,18.1,17.8,18.4,18.7,18.4,5,31.3,9,56.3
+275,Gibson Co Sp Dist,33,Gibson County High School,Economically Disadvantaged,34,100,19.2,18.3,19.5,19.4,19.2,12,35.3,16,47.1
+275,Gibson Co Sp Dist,33,Gibson County High School,Students with Disabilities,13,100,13.2,15.7,15.8,15.6,15.2,**,**,**,**
+275,Gibson Co Sp Dist,37,South Gibson County High School,All Students,163,100,21.6,21.2,22.3,21.3,21.8,96,58.9,45,27.6
+275,Gibson Co Sp Dist,37,South Gibson County High School,Black/Hispanic/Native American,14,100,19.5,19.8,20.2,20.1,20.1,6,42.9,7,50
+275,Gibson Co Sp Dist,37,South Gibson County High School,Economically Disadvantaged,21,100,20.2,20.7,21.5,21.5,21.2,10,47.6,5,23.8
+275,Gibson Co Sp Dist,37,South Gibson County High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+275,Gibson Co Sp Dist,37,South Gibson County High School,Students with Disabilities,12,100,15.1,15.8,18,17,16.8,2,16.7,8,66.7
+280,Giles County,45,Giles Co High School,All Students,167,95,18.3,18.1,18.4,18.2,18.4,43,25.7,90,53.9
+280,Giles County,45,Giles Co High School,Black/Hispanic/Native American,39,93,15.8,16.8,16.4,16.8,16.6,3,7.7,30,76.9
+280,Giles County,45,Giles Co High School,Economically Disadvantaged,82,94,16.3,17.1,16.9,17,17,9,11,58,70.7
+280,Giles County,45,Giles Co High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+280,Giles County,45,Giles Co High School,Students with Disabilities,17,94,11.5,15.8,14.8,14.5,14.4,**,**,**,**
+280,Giles County,84,Richland School,All Students,84,100,19.6,19.3,21.3,20.2,20.3,40,47.6,36,42.9
+280,Giles County,84,Richland School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+280,Giles County,84,Richland School,Economically Disadvantaged,26,100,17.4,17.8,19.5,18.7,18.5,7,26.9,16,61.5
+280,Giles County,84,Richland School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+280,Giles County,84,Richland School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+290,Grainger County,8,Grainger High School,All Students,203,100,17.9,17.8,19.2,18.6,18.5,60,29.6,110,54.2
+290,Grainger County,8,Grainger High School,Black/Hispanic/Native American,14,100,13.5,16.2,15.6,16.7,15.6,**,**,**,**
+290,Grainger County,8,Grainger High School,Economically Disadvantaged,67,99,16.1,16.5,17.1,16.7,16.7,10,14.9,47,70.1
+290,Grainger County,8,Grainger High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+290,Grainger County,8,Grainger High School,Students with Disabilities,19,95,11.5,15.3,14.7,14.8,14.2,1,5.3,18,94.7
+290,Grainger County,30,Washburn School,All Students,40,95,15,16.7,16.9,17,16.6,6,15,31,77.5
+290,Grainger County,30,Washburn School,Economically Disadvantaged,15,88,13.2,16.4,15.7,15.4,15.3,**,**,**,**
+290,Grainger County,30,Washburn School,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+290,Grainger County,32,Grainger Academy,All Students,11,61,10.5,14.5,13,13.4,12.9,**,**,**,**
+290,Grainger County,32,Grainger Academy,Economically Disadvantaged,5,*,*,*,*,*,*,*,*,*,*
+300,Greene County,28,Chuckey Doak High School,All Students,152,100,18.5,18.5,19.4,19,19,53,34.9,74,48.7
+300,Greene County,28,Chuckey Doak High School,Black/Hispanic/Native American,12,100,17.7,17.7,18.8,18.2,18.3,2,16.7,7,58.3
+300,Greene County,28,Chuckey Doak High School,Economically Disadvantaged,53,100,16.5,17.3,17.4,17.9,17.5,8,15.1,34,64.2
+300,Greene County,28,Chuckey Doak High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+300,Greene County,28,Chuckey Doak High School,Students with Disabilities,21,100,14.7,15.8,15.5,16.6,15.8,2,9.5,17,81
+300,Greene County,70,North Greene High School,All Students,88,100,18.1,18.3,19,18.5,18.6,26,29.5,45,51.1
+300,Greene County,70,North Greene High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+300,Greene County,70,North Greene High School,Economically Disadvantaged,32,100,16.3,16.7,17.3,16.6,16.8,7,21.9,20,62.5
+300,Greene County,70,North Greene High School,Students with Disabilities,15,100,13.7,14.9,14.8,15.2,14.7,**,**,**,**
+300,Greene County,80,South Greene High School,All Students,109,100,19.9,19.2,20.2,20.1,20,46,42.2,47,43.1
+300,Greene County,80,South Greene High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+300,Greene County,80,South Greene High School,Economically Disadvantaged,40,100,18.1,17.5,18.9,18.8,18.4,13,32.5,22,55
+300,Greene County,80,South Greene High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+300,Greene County,80,South Greene High School,Students with Disabilities,21,100,15,15,15.4,16,15.5,2,9.5,18,85.7
+300,Greene County,95,West Greene High School,All Students,137,99,18.2,16.9,18.6,18.5,18.2,29,21.2,82,59.9
+300,Greene County,95,West Greene High School,Black/Hispanic/Native American,6,*,*,*,*,*,*,*,*,*,*
+300,Greene County,95,West Greene High School,Economically Disadvantaged,64,98,17.6,16.5,18.3,18.2,17.8,11,17.2,39,60.9
+300,Greene County,95,West Greene High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+301,Greeneville,20,Greeneville High School,All Students,224,100,21,21.8,22.6,21.5,21.9,137,61.2,61,27.2
+301,Greeneville,20,Greeneville High School,Black/Hispanic/Native American,30,100,18.4,19.3,20.1,19.4,19.5,14,46.7,12,40
+301,Greeneville,20,Greeneville High School,Economically Disadvantaged,63,100,19,20,20.4,19.4,19.8,27,42.9,27,42.9
+301,Greeneville,20,Greeneville High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+301,Greeneville,20,Greeneville High School,Students with Disabilities,33,100,15.4,17,16.8,16.5,16.7,6,18.2,24,72.7
+310,Grundy County,25,Grundy County High School,All Students,153,99,16,16.5,17.3,17.6,16.9,25,16.3,110,71.9
+310,Grundy County,25,Grundy County High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+310,Grundy County,25,Grundy County High School,Economically Disadvantaged,62,100,16.1,16.6,17.7,18,17.2,13,21,42,67.7
+310,Grundy County,25,Grundy County High School,Students with Disabilities,29,97,12.5,14.9,15.3,15.7,14.6,**,**,**,**
+320,Hamblen County,42,Morristown East High,All Students,340,100,18.9,19.9,19.8,19.1,19.6,137,40.3,161,47.4
+320,Hamblen County,42,Morristown East High,Black/Hispanic/Native American,91,100,17.3,19,18.5,18,18.4,29,31.9,53,58.2
+320,Hamblen County,42,Morristown East High,Economically Disadvantaged,127,100,16.4,18.1,17.8,17.6,17.6,29,22.8,83,65.4
+320,Hamblen County,42,Morristown East High,English Learners,17,100,13,15.8,13.6,15.5,14.6,**,**,**,**
+320,Hamblen County,42,Morristown East High,Students with Disabilities,52,100,12.5,15.8,14.2,14.9,14.5,4,7.7,48,92.3
+320,Hamblen County,45,Morristown West High,All Students,385,97,19.8,20.1,21,20.2,20.5,185,48.1,147,38.2
+320,Hamblen County,45,Morristown West High,Black/Hispanic/Native American,103,95,17,18.5,18.5,18.4,18.3,28,27.2,59,57.3
+320,Hamblen County,45,Morristown West High,Economically Disadvantaged,138,96,17.3,18.3,18.2,18.2,18.2,39,28.3,75,54.3
+320,Hamblen County,45,Morristown West High,English Learners,17,94,10.7,15.4,12.8,13.6,13.2,**,**,**,**
+320,Hamblen County,45,Morristown West High,Students with Disabilities,28,78,13.4,15.8,15.1,14.3,14.9,2,7.1,26,92.9
+330,Hamilton County,21,Brainerd High School,All Students,110,97,13,15.7,14.9,15.5,14.9,**,**,**,**
+330,Hamilton County,21,Brainerd High School,Black/Hispanic/Native American,106,98,12.8,15.7,14.8,15.4,14.8,**,**,**,**
+330,Hamilton County,21,Brainerd High School,Economically Disadvantaged,89,97,12.3,15.3,14.4,15.1,14.4,**,**,**,**
+330,Hamilton County,21,Brainerd High School,Students with Disabilities,14,100,11.2,14.9,14.3,14.1,13.6,**,**,**,**
+330,Hamilton County,40,Central High School,All Students,184,98,17.4,18,19.1,19,18.5,47,25.5,102,55.4
+330,Hamilton County,40,Central High School,Black/Hispanic/Native American,104,96,15.3,17,16.7,17.5,16.8,11,10.6,74,71.2
+330,Hamilton County,40,Central High School,Economically Disadvantaged,72,96,16,17.3,16.8,17.6,17,10,13.9,49,68.1
+330,Hamilton County,40,Central High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,40,Central High School,Students with Disabilities,20,95,12.7,15.2,14.8,14.8,14.5,1,5,19,95
+330,Hamilton County,45,Chatt High Center For Creative Arts,All Students,81,100,27.1,23.4,27.5,24.9,25.9,**,**,**,**
+330,Hamilton County,45,Chatt High Center For Creative Arts,Black/Hispanic/Native American,25,100,24.4,21.1,25.1,23.5,23.8,18,72,2,8
+330,Hamilton County,45,Chatt High Center For Creative Arts,Economically Disadvantaged,12,100,26.3,20.8,26.1,24.1,24.5,**,**,**,**
+330,Hamilton County,45,Chatt High Center For Creative Arts,English Learners,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,45,Chatt High Center For Creative Arts,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,46,Chattanooga School For Arts And Sciences Upper,All Students,109,100,23.7,22.7,24.1,22.8,23.5,76,69.7,16,14.7
+330,Hamilton County,46,Chattanooga School For Arts And Sciences Upper,Black/Hispanic/Native American,40,100,21.2,20.1,21.5,20.3,21,16,40,9,22.5
+330,Hamilton County,46,Chattanooga School For Arts And Sciences Upper,Economically Disadvantaged,18,100,22.6,21.6,23.7,22.8,22.8,12,66.7,4,22.2
+330,Hamilton County,46,Chattanooga School For Arts And Sciences Upper,Students with Disabilities,11,100,19.8,18.5,20.1,20.5,19.9,5,45.5,5,45.5
+330,Hamilton County,59,East Hamilton School,All Students,239,100,21.4,21.1,22.3,21.8,21.8,131,54.8,68,28.5
+330,Hamilton County,59,East Hamilton School,Black/Hispanic/Native American,58,100,18.7,19,19.7,19.9,19.5,20,34.5,32,55.2
+330,Hamilton County,59,East Hamilton School,Economically Disadvantaged,43,100,19.5,19.9,20.9,20.2,20.3,16,37.2,19,44.2
+330,Hamilton County,59,East Hamilton School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,59,East Hamilton School,Students with Disabilities,20,100,14.5,15.7,16,16.3,15.8,1,5,19,95
+330,Hamilton County,70,East Ridge High School,All Students,189,99,15.5,16.6,16.9,16.9,16.6,29,15.3,141,74.6
+330,Hamilton County,70,East Ridge High School,Black/Hispanic/Native American,126,99,14.6,16.1,16,16.2,15.9,12,9.5,102,81
+330,Hamilton County,70,East Ridge High School,Economically Disadvantaged,103,99,15.2,16.4,16.8,16.7,16.5,11,10.7,82,79.6
+330,Hamilton County,70,East Ridge High School,English Learners,29,100,12.4,14.6,13.5,14.9,14,**,**,**,**
+330,Hamilton County,70,East Ridge High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,86,Hamilton County Collegiate High at Chattanooga State,All Students,55,98,26.9,25.3,27.1,25.6,26.3,**,**,**,**
+330,Hamilton County,86,Hamilton County Collegiate High at Chattanooga State,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,86,Hamilton County Collegiate High at Chattanooga State,Economically Disadvantaged,2,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,95,Hamilton County High School,All Students,63,94,15.2,16.6,16.7,16.6,16.5,8,12.7,49,77.8
+330,Hamilton County,95,Hamilton County High School,Black/Hispanic/Native American,25,93,12.1,15.4,14.8,14.3,14.4,**,**,**,**
+330,Hamilton County,95,Hamilton County High School,Economically Disadvantaged,26,90,13.5,16,15.5,15.5,15.3,**,**,**,**
+330,Hamilton County,95,Hamilton County High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,95,Hamilton County High School,Students with Disabilities,14,100,15.1,16.1,17.1,15.4,16.1,2,14.3,11,78.6
+330,Hamilton County,128,Hixson High School,All Students,190,98,17.6,18.1,19.2,18.7,18.6,61,32.1,109,57.4
+330,Hamilton County,128,Hixson High School,Black/Hispanic/Native American,64,96,14.8,16.5,16.6,16.2,16.2,6,9.4,53,82.8
+330,Hamilton County,128,Hixson High School,Economically Disadvantaged,78,98,15.9,16.8,17.8,17.3,17.1,14,17.9,56,71.8
+330,Hamilton County,128,Hixson High School,English Learners,8,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,128,Hixson High School,Students with Disabilities,28,100,15.7,16.3,17.8,16.6,16.7,6,21.4,21,75
+330,Hamilton County,137,The Howard School,All Students,177,97,13.1,15.6,14.8,15,14.8,9,5.1,156,88.1
+330,Hamilton County,137,The Howard School,Black/Hispanic/Native American,174,97,12.9,15.6,14.7,14.9,14.7,**,**,**,**
+330,Hamilton County,137,The Howard School,Economically Disadvantaged,124,97,13.7,16.1,15.2,15.3,15.2,8,6.5,106,85.5
+330,Hamilton County,137,The Howard School,English Learners,45,98,10.9,14.5,12.6,13.7,13.1,**,**,**,**
+330,Hamilton County,137,The Howard School,Students with Disabilities,14,93,11.4,14.6,13.2,13.6,13.4,**,**,**,**
+330,Hamilton County,160,Ooltewah High School,All Students,321,98,18.8,18.6,20.7,19.8,19.6,120,37.4,143,44.5
+330,Hamilton County,160,Ooltewah High School,Black/Hispanic/Native American,118,98,16,17.1,18.5,17.5,17.4,20,16.9,75,63.6
+330,Hamilton County,160,Ooltewah High School,Economically Disadvantaged,107,100,16,16.9,18.3,17.5,17.3,19,17.8,68,63.6
+330,Hamilton County,160,Ooltewah High School,English Learners,7,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,160,Ooltewah High School,Students with Disabilities,32,100,12.7,15.3,14.5,15.4,14.8,**,**,**,**
+330,Hamilton County,165,Lookout Valley Middle / High School,All Students,39,100,19.4,18.6,20.3,19.7,19.6,17,43.6,18,46.2
+330,Hamilton County,165,Lookout Valley Middle / High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,165,Lookout Valley Middle / High School,Economically Disadvantaged,12,100,18.3,17.8,19.9,18.9,19,5,41.7,5,41.7
+330,Hamilton County,165,Lookout Valley Middle / High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,165,Lookout Valley Middle / High School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,175,Red Bank High School,All Students,171,98,17.6,18.1,19.4,19,18.7,51,29.8,96,56.1
+330,Hamilton County,175,Red Bank High School,Black/Hispanic/Native American,74,97,16.2,17.1,18.1,17.2,17.3,12,16.2,53,71.6
+330,Hamilton County,175,Red Bank High School,Economically Disadvantaged,75,97,16.6,17.6,18.6,18.3,17.9,15,20,49,65.3
+330,Hamilton County,175,Red Bank High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,175,Red Bank High School,Students with Disabilities,21,100,14.5,16.3,16.8,17.1,16.3,3,14.3,16,76.2
+330,Hamilton County,190,Sale Creek Middle / High School,All Students,81,99,18.6,19.3,20.7,20.3,19.9,31,38.3,30,37
+330,Hamilton County,190,Sale Creek Middle / High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,190,Sale Creek Middle / High School,Economically Disadvantaged,23,96,17.4,18.7,20.1,20.1,19.1,8,34.8,11,47.8
+330,Hamilton County,190,Sale Creek Middle / High School,Students with Disabilities,12,100,14,16,17.2,16.6,16.1,2,16.7,10,83.3
+330,Hamilton County,196,Sequoyah High School,All Students,85,99,14.8,15.7,16.4,15.8,15.8,6,7.1,70,82.4
+330,Hamilton County,196,Sequoyah High School,Black/Hispanic/Native American,6,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,196,Sequoyah High School,Economically Disadvantaged,34,97,15.2,16.2,17.4,16.6,16.5,4,11.8,25,73.5
+330,Hamilton County,196,Sequoyah High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,196,Sequoyah High School,Students with Disabilities,11,100,13.8,14.8,14.2,15.8,14.7,**,**,**,**
+330,Hamilton County,210,Signal Mountain Middle/High School,All Students,141,100,26.1,23.4,26.2,24.8,25.3,115,81.6,15,10.6
+330,Hamilton County,210,Signal Mountain Middle/High School,Black/Hispanic/Native American,10,100,25.4,22.4,25.8,24.1,24.6,6,60,1,10
+330,Hamilton County,210,Signal Mountain Middle/High School,Economically Disadvantaged,10,100,22.6,20.8,21.7,21.1,21.7,5,50,2,20
+330,Hamilton County,210,Signal Mountain Middle/High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,210,Signal Mountain Middle/High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,220,Soddy Daisy High School,All Students,265,100,20,20.9,22.2,21.1,21.2,134,50.6,87,32.8
+330,Hamilton County,220,Soddy Daisy High School,Black/Hispanic/Native American,19,100,19.5,18.8,19.9,19.6,19.6,7,36.8,10,52.6
+330,Hamilton County,220,Soddy Daisy High School,Economically Disadvantaged,74,100,17.4,19.1,19.8,18.7,18.9,19,25.7,35,47.3
+330,Hamilton County,220,Soddy Daisy High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,220,Soddy Daisy High School,Students with Disabilities,24,100,15.5,17,18.5,16.8,17.1,5,20.8,15,62.5
+330,Hamilton County,237,Tyner Academy,All Students,106,99,15.2,17.1,16.5,17.1,16.6,15,14.2,75,70.8
+330,Hamilton County,237,Tyner Academy,Black/Hispanic/Native American,103,99,15.2,17,16.4,17.1,16.6,15,14.6,73,70.9
+330,Hamilton County,237,Tyner Academy,Economically Disadvantaged,81,99,14.9,16.9,16,16.8,16.3,9,11.1,61,75.3
+330,Hamilton County,237,Tyner Academy,English Learners,3,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,237,Tyner Academy,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,275,Hamilton County Virtual School,All Students,4,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,275,Hamilton County Virtual School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,275,Hamilton County Virtual School,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,280,STEM School Chattanooga,All Students,58,100,22.8,22.7,24.8,23.6,23.6,39,67.2,10,17.2
+330,Hamilton County,280,STEM School Chattanooga,Black/Hispanic/Native American,18,100,17.5,19.6,20.7,19.7,19.6,5,27.8,8,44.4
+330,Hamilton County,280,STEM School Chattanooga,Economically Disadvantaged,10,100,16.8,20.6,20.3,19.4,19.5,5,50,4,40
+330,Hamilton County,280,STEM School Chattanooga,English Learners,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,280,STEM School Chattanooga,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,8001,Chattanooga Girls Leadership Academy,All Students,27,100,18.9,18.4,20.5,18.4,19.3,12,44.4,10,37
+330,Hamilton County,8001,Chattanooga Girls Leadership Academy,Black/Hispanic/Native American,27,100,18.9,18.4,20.5,18.4,19.3,12,44.4,10,37
+330,Hamilton County,8001,Chattanooga Girls Leadership Academy,Economically Disadvantaged,12,100,18.2,19.1,20.5,18.3,19.1,5,41.7,5,41.7
+330,Hamilton County,8001,Chattanooga Girls Leadership Academy,English Learners,2,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,8001,Chattanooga Girls Leadership Academy,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,8002,"Ivy Academy, Inc.",All Students,21,100,18.3,17.2,19.5,17.7,18.3,7,33.3,11,52.4
+330,Hamilton County,8002,"Ivy Academy, Inc.",Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,8002,"Ivy Academy, Inc.",Economically Disadvantaged,5,*,*,*,*,*,*,*,*,*,*
+330,Hamilton County,8002,"Ivy Academy, Inc.",Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+340,Hancock County,25,Hancock High School,All Students,74,100,17.6,16.8,18.2,17.4,17.7,17,23,46,62.2
+340,Hancock County,25,Hancock High School,Economically Disadvantaged,42,100,17.3,16.7,17.8,17.4,17.5,9,21.4,26,61.9
+340,Hancock County,25,Hancock High School,Students with Disabilities,17,100,13.3,14.4,14.3,13.6,14.1,1,5.9,16,94.1
+350,Hardeman County Schools,15,Central High School,All Students,170,97,17.4,17.8,17.8,17.8,17.9,43,25.3,99,58.2
+350,Hardeman County Schools,15,Central High School,Black/Hispanic/Native American,103,97,15.4,16.6,16.2,16.3,16.3,11,10.7,78,75.7
+350,Hardeman County Schools,15,Central High School,Economically Disadvantaged,83,95,15.5,16.9,16.4,16.7,16.6,12,14.5,59,71.1
+350,Hardeman County Schools,15,Central High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+350,Hardeman County Schools,15,Central High School,Students with Disabilities,16,100,12.2,14.9,12.9,14,13.6,**,**,**,**
+350,Hardeman County Schools,40,Middleton High School,All Students,58,97,16.2,17.3,17.8,17.8,17.4,8,13.8,42,72.4
+350,Hardeman County Schools,40,Middleton High School,Black/Hispanic/Native American,23,96,14.4,16,15.9,16.2,15.7,**,**,**,**
+350,Hardeman County Schools,40,Middleton High School,Economically Disadvantaged,32,97,16,16.8,17.5,17.4,17,4,12.5,24,75
+350,Hardeman County Schools,40,Middleton High School,English Learners,0,0,,,,,,0,,0,
+350,Hardeman County Schools,40,Middleton High School,Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+360,Hardin County,15,Hardin County High School,All Students,251,98,18.4,18.4,19.5,19.2,19,92,36.7,130,51.8
+360,Hardin County,15,Hardin County High School,Black/Hispanic/Native American,25,100,16.6,17.1,16.9,17.6,17.2,5,20,18,72
+360,Hardin County,15,Hardin County High School,Economically Disadvantaged,111,98,16.9,17.4,18.3,18,17.8,27,24.3,71,64
+360,Hardin County,15,Hardin County High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+360,Hardin County,15,Hardin County High School,Students with Disabilities,37,90,12,14.9,14.5,15.4,14.4,**,**,**,**
+370,Hawkins County,17,Cherokee High School,All Students,221,96,18.1,18.6,18.7,18.7,18.6,74,33.5,120,54.3
+370,Hawkins County,17,Cherokee High School,Black/Hispanic/Native American,11,92,15.7,17.2,16.8,17.5,16.9,2,18.2,8,72.7
+370,Hawkins County,17,Cherokee High School,Economically Disadvantaged,110,92,16.2,17.3,17.2,16.9,17.1,20,18.2,76,69.1
+370,Hawkins County,17,Cherokee High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+370,Hawkins County,17,Cherokee High School,Students with Disabilities,31,91,12.6,15.1,14.8,15.4,14.7,**,**,**,**
+370,Hawkins County,30,Clinch School,All Students,6,*,*,*,*,*,*,*,*,*,*
+370,Hawkins County,30,Clinch School,Economically Disadvantaged,2,*,*,*,*,*,*,*,*,*,*
+370,Hawkins County,105,Volunteer High School,All Students,241,96,19.1,18.7,20,19,19.3,86,35.7,122,50.6
+370,Hawkins County,105,Volunteer High School,Black/Hispanic/Native American,12,100,18.8,18.3,19.2,17.8,18.6,3,25,7,58.3
+370,Hawkins County,105,Volunteer High School,Economically Disadvantaged,91,93,17.3,17.5,18.9,17.4,17.9,24,26.4,58,63.7
+370,Hawkins County,105,Volunteer High School,Students with Disabilities,23,88,12.6,15.1,13.7,15.1,14.3,**,**,**,**
+380,Haywood County,40,Haywood High School,All Students,239,98,16.5,16.7,17.5,17.3,17.2,46,19.2,165,69
+380,Haywood County,40,Haywood High School,Black/Hispanic/Native American,183,98,15.6,16.2,16.9,16.6,16.5,23,12.6,138,75.4
+380,Haywood County,40,Haywood High School,Economically Disadvantaged,139,99,14.9,16,16.3,16.1,16,15,10.8,109,78.4
+380,Haywood County,40,Haywood High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+380,Haywood County,40,Haywood High School,Students with Disabilities,25,100,13.3,14.9,15,15.1,14.8,**,**,**,**
+390,Henderson County,15,Lexington High School,All Students,172,95,19.5,20.7,20.7,20.3,20.5,75,43.6,66,38.4
+390,Henderson County,15,Lexington High School,Black/Hispanic/Native American,32,97,16.7,18.6,18.4,18.3,18.2,6,18.8,18,56.3
+390,Henderson County,15,Lexington High School,Economically Disadvantaged,66,92,16.5,18.2,18,18.3,17.9,13,19.7,39,59.1
+390,Henderson County,15,Lexington High School,Students with Disabilities,24,86,13.6,16.4,16.3,15.7,15.6,3,12.5,21,87.5
+390,Henderson County,39,Scotts Hill High School,All Students,115,95,20.5,21,21.8,21,21.2,61,53,38,33
+390,Henderson County,39,Scotts Hill High School,Black/Hispanic/Native American,10,91,18.6,19,21,17.8,19.2,3,30,5,50
+390,Henderson County,39,Scotts Hill High School,Economically Disadvantaged,53,93,18.9,20.2,20.9,20,20.2,23,43.4,23,43.4
+390,Henderson County,39,Scotts Hill High School,English Learners,0,0,,,,,,0,,0,
+390,Henderson County,39,Scotts Hill High School,Students with Disabilities,13,87,14.3,16.9,16.2,16.6,16.2,2,15.4,11,84.6
+400,Henry County,25,Henry Co High School,All Students,289,100,20.1,19.9,21.5,20.6,20.7,140,48.4,108,37.4
+400,Henry County,25,Henry Co High School,Black/Hispanic/Native American,39,100,16.4,17.6,17.9,17.9,17.7,11,28.2,22,56.4
+400,Henry County,25,Henry Co High School,Economically Disadvantaged,103,100,18.7,18.8,20.4,19.3,19.5,38,36.9,46,44.7
+400,Henry County,25,Henry Co High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+400,Henry County,25,Henry Co High School,Students with Disabilities,29,100,14.2,16.3,17.3,16.9,16.2,4,13.8,23,79.3
+410,Hickman County,18,East Hickman High School,All Students,113,99,18.8,18.5,19.9,19,19.2,44,38.9,55,48.7
+410,Hickman County,18,East Hickman High School,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+410,Hickman County,18,East Hickman High School,Economically Disadvantaged,43,98,17.7,18,18.3,17.7,18.1,11,25.6,26,60.5
+410,Hickman County,18,East Hickman High School,Students with Disabilities,13,100,14,15.1,15.6,15.9,15.5,1,7.7,11,84.6
+410,Hickman County,30,Hickman Co Sr High School,All Students,120,98,17.9,17.9,19,19,18.6,35,29.2,67,55.8
+410,Hickman County,30,Hickman Co Sr High School,Black/Hispanic/Native American,10,83,19.4,19.7,21.8,19.8,20.4,5,50,5,50
+410,Hickman County,30,Hickman Co Sr High School,Economically Disadvantaged,61,98,16.7,17.7,18.3,18.6,17.9,16,26.2,38,62.3
+410,Hickman County,30,Hickman Co Sr High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+410,Hickman County,30,Hickman Co Sr High School,Students with Disabilities,18,100,13.6,16.1,14.7,15.9,15.4,2,11.1,16,88.9
+420,Houston County,13,Houston Co High School,All Students,108,97,18.6,18.2,18.9,18.1,18.6,33,30.6,55,50.9
+420,Houston County,13,Houston Co High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+420,Houston County,13,Houston Co High School,Economically Disadvantaged,36,97,17.6,18.3,17.6,16.5,17.6,11,30.6,20,55.6
+420,Houston County,13,Houston Co High School,Students with Disabilities,19,90,13.6,15.4,14.9,13.3,14.6,1,5.3,18,94.7
+430,Humphreys County,15,Mc Ewen High School,All Students,63,98,19.9,18.3,20.3,19,19.5,26,41.3,30,47.6
+430,Humphreys County,15,Mc Ewen High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+430,Humphreys County,15,Mc Ewen High School,Economically Disadvantaged,26,100,19.3,17.5,19.5,18.3,18.8,8,30.8,15,57.7
+430,Humphreys County,15,Mc Ewen High School,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+430,Humphreys County,20,Waverly Central High School,All Students,113,100,21.1,19.6,22.6,21,21.2,59,52.2,36,31.9
+430,Humphreys County,20,Waverly Central High School,Black/Hispanic/Native American,14,100,17.1,16.4,18.9,17.9,17.6,3,21.4,8,57.1
+430,Humphreys County,20,Waverly Central High School,Economically Disadvantaged,41,100,19.1,18.2,21.5,19.8,19.7,15,36.6,19,46.3
+430,Humphreys County,20,Waverly Central High School,Students with Disabilities,19,100,15.9,15.7,17.6,15.7,16.4,3,15.8,14,73.7
+440,Jackson County,5,Jackson County High School,All Students,105,100,18.1,18,19.3,19,18.7,29,27.6,56,53.3
+440,Jackson County,5,Jackson County High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+440,Jackson County,5,Jackson County High School,Economically Disadvantaged,56,100,16.4,16.9,17.8,17.9,17.4,11,19.6,36,64.3
+440,Jackson County,5,Jackson County High School,Students with Disabilities,16,100,14.1,15.9,16,16.3,15.8,2,12.5,14,87.5
+450,Jefferson County,20,Jefferson Co High School,All Students,458,97,19.5,19.9,20.4,20.2,20.1,215,46.9,185,40.4
+450,Jefferson County,20,Jefferson Co High School,Black/Hispanic/Native American,53,95,17.1,18.4,17.9,18.5,18.1,18,34,28,52.8
+450,Jefferson County,20,Jefferson Co High School,Economically Disadvantaged,206,96,17.4,18.8,18.5,18.8,18.6,67,32.5,109,52.9
+450,Jefferson County,20,Jefferson Co High School,English Learners,9,*,*,*,*,*,*,*,*,*,*
+450,Jefferson County,20,Jefferson Co High School,Students with Disabilities,46,88,12.5,15.7,14,15,14.5,**,**,**,**
+460,Johnson County,15,Johnson Co High School,All Students,123,95,17.6,17.9,19,18.3,18.4,35,28.5,72,58.5
+460,Johnson County,15,Johnson Co High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+460,Johnson County,15,Johnson Co High School,Economically Disadvantaged,52,91,16.3,16.7,17.1,17,16.9,11,21.2,34,65.4
+460,Johnson County,15,Johnson Co High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+460,Johnson County,15,Johnson Co High School,Students with Disabilities,20,83,11.8,14,13.1,13.9,13.3,**,**,**,**
+470,Knox County,9,Austin East High/Magnet,All Students,132,96,15,16.5,16.5,16.5,16.3,16,12.1,109,82.6
+470,Knox County,9,Austin East High/Magnet,Black/Hispanic/Native American,118,96,14.7,16.4,16.2,16.4,16.1,13,11,99,83.9
+470,Knox County,9,Austin East High/Magnet,Economically Disadvantaged,105,95,14.4,16.2,16,16,15.8,9,8.6,93,88.6
+470,Knox County,9,Austin East High/Magnet,English Learners,12,92,10.9,14.8,12.9,15.8,13.8,**,**,**,**
+470,Knox County,9,Austin East High/Magnet,Students with Disabilities,25,96,11.2,15,13.8,14,13.7,**,**,**,**
+470,Knox County,17,Bearden High School,All Students,457,98,23.2,22.1,23.5,23,23.1,294,64.3,104,22.8
+470,Knox County,17,Bearden High School,Black/Hispanic/Native American,76,100,18.2,18.3,19.8,19.7,19.1,23,30.3,41,53.9
+470,Knox County,17,Bearden High School,Economically Disadvantaged,78,99,18.4,18.4,19.9,19.5,19.2,29,37.2,42,53.8
+470,Knox County,17,Bearden High School,English Learners,21,95,14,17.4,15.3,17.7,16.2,3,14.3,18,85.7
+470,Knox County,17,Bearden High School,Students with Disabilities,39,98,15.6,16.6,17,18.1,17,8,20.5,27,69.2
+470,Knox County,35,Carter High School,All Students,181,100,18.2,18.3,19.2,19,18.8,58,32,98,54.1
+470,Knox County,35,Carter High School,Black/Hispanic/Native American,20,100,15.8,17.3,17.5,17.6,17.1,2,10,15,75
+470,Knox County,35,Carter High School,Economically Disadvantaged,64,100,17,18.2,18,18,18,16,25,43,67.2
+470,Knox County,35,Carter High School,Students with Disabilities,31,100,13.9,15.4,16.3,16.1,15.5,**,**,**,**
+470,Knox County,47,Central High School,All Students,207,97,19.6,19.4,20.7,19.8,20,89,43,88,42.5
+470,Knox County,47,Central High School,Black/Hispanic/Native American,68,97,16.2,17.8,17.9,17.5,17.5,14,20.6,41,60.3
+470,Knox County,47,Central High School,Economically Disadvantaged,80,96,17.6,18,18.8,18.6,18.4,25,31.3,42,52.5
+470,Knox County,47,Central High School,English Learners,11,100,14.5,17.6,13.5,17.4,15.9,1,9.1,8,72.7
+470,Knox County,47,Central High School,Students with Disabilities,24,96,14.6,16.1,15.2,16.7,15.8,**,**,**,**
+470,Knox County,65,South Doyle High School,All Students,205,98,17.9,18,19.4,19.1,18.7,60,29.3,113,55.1
+470,Knox County,65,South Doyle High School,Black/Hispanic/Native American,49,94,16.3,17.1,17.7,18.3,17.6,7,14.3,32,65.3
+470,Knox County,65,South Doyle High School,Economically Disadvantaged,81,96,16.2,17.2,17.6,18.2,17.4,13,16,58,71.6
+470,Knox County,65,South Doyle High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+470,Knox County,65,South Doyle High School,Students with Disabilities,31,94,14.4,15.1,16,16.7,15.8,4,12.9,26,83.9
+470,Knox County,80,Farragut High School,All Students,414,93,24.6,23.5,25.4,24,24.5,322,77.8,50,12.1
+470,Knox County,80,Farragut High School,Black/Hispanic/Native American,37,93,24.1,22.2,25.2,23.4,24,**,**,**,**
+470,Knox County,80,Farragut High School,Economically Disadvantaged,22,96,20.4,20.7,23.1,22.5,21.9,12,54.5,7,31.8
+470,Knox County,80,Farragut High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+470,Knox County,80,Farragut High School,Students with Disabilities,34,94,18.3,18.1,20.5,19.2,19.1,12,35.3,17,50
+470,Knox County,90,Fulton High School,All Students,180,97,16,16.8,17.2,17,17,36,20,129,71.7
+470,Knox County,90,Fulton High School,Black/Hispanic/Native American,123,97,15.4,16.5,16.8,16.8,16.6,17,13.8,95,77.2
+470,Knox County,90,Fulton High School,Economically Disadvantaged,111,98,15.4,16.5,16.5,16.6,16.4,16,14.4,86,77.5
+470,Knox County,90,Fulton High School,English Learners,17,100,13.5,15,13.5,15.9,14.7,1,5.9,16,94.1
+470,Knox County,90,Fulton High School,Students with Disabilities,34,94,12.1,15,13,14.6,13.9,**,**,**,**
+470,Knox County,100,Gibbs High School,All Students,210,100,19.6,19,20.3,19.9,19.8,82,39,91,43.3
+470,Knox County,100,Gibbs High School,Black/Hispanic/Native American,12,100,18.7,17.3,19.3,18.9,18.7,4,33.3,7,58.3
+470,Knox County,100,Gibbs High School,Economically Disadvantaged,48,100,17.7,17.5,19,18.1,18.2,10,20.8,27,56.3
+470,Knox County,100,Gibbs High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+470,Knox County,100,Gibbs High School,Students with Disabilities,22,100,14.6,15.3,15.6,17,15.8,2,9.1,18,81.8
+470,Knox County,115,Halls High School,All Students,246,96,21.3,20.7,22.6,21.7,21.8,145,58.9,75,30.5
+470,Knox County,115,Halls High School,Black/Hispanic/Native American,18,100,19.1,18.4,21.2,19.7,19.7,7,38.9,9,50
+470,Knox County,115,Halls High School,Economically Disadvantaged,48,98,19.8,18.9,20.9,20.3,20.1,20,41.7,23,47.9
+470,Knox County,115,Halls High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+470,Knox County,115,Halls High School,Students with Disabilities,22,96,13.6,15.5,15.6,15.5,15.3,2,9.1,19,86.4
+470,Knox County,126,Hardin Valley Academy,All Students,457,99,22.2,21.4,23.6,22.7,22.6,293,64.1,100,21.9
+470,Knox County,126,Hardin Valley Academy,Black/Hispanic/Native American,73,100,19.8,19.4,21.9,20.9,20.6,34,46.6,25,34.2
+470,Knox County,126,Hardin Valley Academy,Economically Disadvantaged,51,98,19.6,19.4,21,20,20.1,23,45.1,20,39.2
+470,Knox County,126,Hardin Valley Academy,English Learners,11,100,15.9,18.2,18.5,19.9,18.2,1,9.1,8,72.7
+470,Knox County,126,Hardin Valley Academy,Students with Disabilities,40,100,14.9,16.2,17.9,17.3,16.7,5,12.5,28,70
+470,Knox County,150,Karns High School,All Students,272,99,19.8,19.1,20.2,19.9,19.9,113,41.5,123,45.2
+470,Knox County,150,Karns High School,Black/Hispanic/Native American,55,96,15.7,16.9,17.2,17.1,16.8,10,18.2,42,76.4
+470,Knox County,150,Karns High School,Economically Disadvantaged,68,99,17.3,17.5,18.5,18,18,17,25,43,63.2
+470,Knox County,150,Karns High School,English Learners,11,100,12.1,14.8,14.9,15,14.3,**,**,**,**
+470,Knox County,150,Karns High School,Students with Disabilities,31,97,14.5,15.6,15.6,15.6,15.5,2,6.5,28,90.3
+470,Knox County,158,Knox Adaptive Education Center,All Students,3,*,*,*,*,*,*,*,*,*,*
+470,Knox County,158,Knox Adaptive Education Center,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+470,Knox County,158,Knox Adaptive Education Center,Economically Disadvantaged,2,*,*,*,*,*,*,*,*,*,*
+470,Knox County,158,Knox Adaptive Education Center,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+470,Knox County,185,Powell High School,All Students,279,93,19.2,19.2,20.5,19.7,19.8,113,40.5,124,44.4
+470,Knox County,185,Powell High School,Black/Hispanic/Native American,44,86,15.3,16.4,16.4,17.4,16.5,4,9.1,33,75
+470,Knox County,185,Powell High School,Economically Disadvantaged,70,81,16,16.9,17.6,17,17,10,14.3,51,72.9
+470,Knox County,185,Powell High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+470,Knox County,185,Powell High School,Students with Disabilities,28,62,13.8,15.3,15.2,15.3,15,2,7.1,26,92.9
+470,Knox County,305,West High School,All Students,276,95,22.2,20.7,23.6,21.8,22.1,150,54.3,91,33
+470,Knox County,305,West High School,Black/Hispanic/Native American,100,92,18,17.9,19.8,18.8,18.7,28,28,56,56
+470,Knox County,305,West High School,Economically Disadvantaged,85,94,17.6,17.5,19.3,18.1,18.2,21,24.7,51,60
+470,Knox County,305,West High School,English Learners,11,85,12.5,16.2,15.5,17.9,15.6,1,9.1,9,81.8
+470,Knox County,305,West High School,Students with Disabilities,19,83,16.3,16.7,17,15.9,16.6,4,21.1,14,73.7
+470,Knox County,332,Dr. Paul L. Kelley Volunteer Academy,All Students,127,88,14.8,15.6,15.7,15.7,15.6,15,11.8,104,81.9
+470,Knox County,332,Dr. Paul L. Kelley Volunteer Academy,Black/Hispanic/Native American,41,80,12.8,15.5,14.4,15.1,14.6,**,**,**,**
+470,Knox County,332,Dr. Paul L. Kelley Volunteer Academy,Economically Disadvantaged,57,84,13.9,15.3,15.1,14.8,14.9,3,5.3,52,91.2
+470,Knox County,332,Dr. Paul L. Kelley Volunteer Academy,English Learners,5,*,*,*,*,*,*,*,*,*,*
+470,Knox County,332,Dr. Paul L. Kelley Volunteer Academy,Students with Disabilities,31,89,13.5,14.6,14.3,15.3,14.6,3,9.7,28,90.3
+470,Knox County,334,L N STEM Academy,All Students,128,98,26.2,23.3,27.5,25.2,25.7,107,83.6,10,7.8
+470,Knox County,334,L N STEM Academy,Black/Hispanic/Native American,18,100,21.1,21.1,23.6,23.1,22.4,9,50,3,16.7
+470,Knox County,334,L N STEM Academy,Economically Disadvantaged,17,94,24.5,21.5,27.4,23.6,24.5,13,76.5,1,5.9
+470,Knox County,334,L N STEM Academy,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+470,Knox County,345,Career Magnet Academy,All Students,64,100,21.4,19.9,22.6,21.6,21.5,38,59.4,14,21.9
+470,Knox County,345,Career Magnet Academy,Black/Hispanic/Native American,13,100,19,20,20.5,19.6,20,6,46.2,4,30.8
+470,Knox County,345,Career Magnet Academy,Economically Disadvantaged,15,100,20.9,19.4,21.8,20.7,20.9,9,60,4,26.7
+470,Knox County,345,Career Magnet Academy,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+480,Lake County,5,Lake Co High School,All Students,42,98,19,17.5,19.4,18,18.7,14,33.3,23,54.8
+480,Lake County,5,Lake Co High School,Black/Hispanic/Native American,18,100,16.3,17.1,16.8,16.8,17,4,22.2,13,72.2
+480,Lake County,5,Lake Co High School,Economically Disadvantaged,27,96,17.9,17.1,18.5,17.6,18,8,29.6,15,55.6
+480,Lake County,5,Lake Co High School,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+490,Lauderdale County,23,Halls High School,All Students,100,100,18.6,18.8,19.1,19,19,38,38,56,56
+490,Lauderdale County,23,Halls High School,Black/Hispanic/Native American,31,100,14.8,16.4,15.6,16,15.8,3,9.7,27,87.1
+490,Lauderdale County,23,Halls High School,Economically Disadvantaged,47,100,16.5,17.7,17.6,17.7,17.5,13,27.7,33,70.2
+490,Lauderdale County,23,Halls High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+490,Lauderdale County,23,Halls High School,Students with Disabilities,10,100,11.6,15,14.1,14.1,13.7,**,**,**,**
+490,Lauderdale County,40,Ripley High School,All Students,170,100,15.9,16.7,17.4,17.5,17,29,17.1,118,69.4
+490,Lauderdale County,40,Ripley High School,Black/Hispanic/Native American,104,100,14.4,16.1,16.3,16.4,15.9,10,9.6,86,82.7
+490,Lauderdale County,40,Ripley High School,Economically Disadvantaged,97,100,14.1,15.9,15.7,16.1,15.6,7,7.2,82,84.5
+490,Lauderdale County,40,Ripley High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+490,Lauderdale County,40,Ripley High School,Students with Disabilities,23,100,11.7,14.5,13.6,14.5,13.8,**,**,**,**
+500,Lawrence County,40,Lawrence Co High School,All Students,270,95,19.3,18.9,19.8,20,19.7,101,37.4,116,43
+500,Lawrence County,40,Lawrence Co High School,Black/Hispanic/Native American,24,96,15.7,17,17.5,18,17.3,6,25,17,70.8
+500,Lawrence County,40,Lawrence Co High School,Economically Disadvantaged,111,93,17.3,17.6,17.9,18.4,18,21,18.9,63,56.8
+500,Lawrence County,40,Lawrence Co High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+500,Lawrence County,40,Lawrence Co High School,Students with Disabilities,25,89,12.3,15,14.6,14.9,14.4,**,**,**,**
+500,Lawrence County,65,Loretto High School,All Students,132,99,19.3,18.6,19.9,19.5,19.5,47,35.6,60,45.5
+500,Lawrence County,65,Loretto High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+500,Lawrence County,65,Loretto High School,Economically Disadvantaged,56,98,18.3,17.2,18.8,18.8,18.4,14,25,32,57.1
+500,Lawrence County,65,Loretto High School,Students with Disabilities,16,89,12.4,15.1,15.5,14.5,14.6,**,**,**,**
+500,Lawrence County,95,Summertown High School,All Students,122,99,18,17.7,18.7,18.6,18.4,35,28.7,72,59
+500,Lawrence County,95,Summertown High School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+500,Lawrence County,95,Summertown High School,Economically Disadvantaged,47,100,16.9,17.1,17.7,17.3,17.4,11,23.4,34,72.3
+500,Lawrence County,95,Summertown High School,Students with Disabilities,19,95,13.2,14.8,15.1,15.4,14.7,**,**,**,**
+510,Lewis County,10,Lewis Co High School,All Students,106,97,18.7,17.7,20.1,19.3,19.1,36,34,51,48.1
+510,Lewis County,10,Lewis Co High School,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+510,Lewis County,10,Lewis Co High School,Economically Disadvantaged,43,96,17.9,17.3,19.2,18.8,18.5,12,27.9,22,51.2
+510,Lewis County,10,Lewis Co High School,Students with Disabilities,10,83,12.2,14.4,13.5,15.3,14.1,**,**,**,**
+520,Lincoln County,56,Lincoln County High School,All Students,249,99,20.3,19.3,20.3,19.7,20.1,113,45.4,104,41.8
+520,Lincoln County,56,Lincoln County High School,Black/Hispanic/Native American,24,96,16.5,17.8,17.5,17.3,17.4,7,29.2,17,70.8
+520,Lincoln County,56,Lincoln County High School,Economically Disadvantaged,78,99,17.8,17.6,17.6,17.8,17.8,21,26.9,47,60.3
+520,Lincoln County,56,Lincoln County High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+520,Lincoln County,56,Lincoln County High School,Students with Disabilities,25,96,13.3,15.3,14.6,15.3,14.8,**,**,**,**
+521,Fayetteville,10,Fayetteville High School,All Students,76,100,20.2,19.2,21.4,20.8,20.6,34,44.7,32,42.1
+521,Fayetteville,10,Fayetteville High School,Black/Hispanic/Native American,32,100,17.1,17,17.8,18.5,17.8,8,25,20,62.5
+521,Fayetteville,10,Fayetteville High School,Economically Disadvantaged,27,100,17.3,17.7,19.2,19,18.6,7,25.9,16,59.3
+521,Fayetteville,10,Fayetteville High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+521,Fayetteville,10,Fayetteville High School,Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+530,Loudon County,25,Greenback School,All Students,59,100,20.2,19.3,20.5,20.3,20.2,26,44.1,24,40.7
+530,Loudon County,25,Greenback School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+530,Loudon County,25,Greenback School,Economically Disadvantaged,13,100,18.8,17.5,20.5,19.5,19.2,5,38.5,7,53.8
+530,Loudon County,25,Greenback School,Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+530,Loudon County,40,Loudon High School,All Students,178,98,19.5,19.3,19.5,19.8,19.7,70,39.3,81,45.5
+530,Loudon County,40,Loudon High School,Black/Hispanic/Native American,35,97,16.5,18.2,16.8,18.1,17.6,7,20,23,65.7
+530,Loudon County,40,Loudon High School,Economically Disadvantaged,40,95,18.6,18.5,18.6,19.5,18.9,12,30,21,52.5
+530,Loudon County,40,Loudon High School,English Learners,10,100,12.7,16.6,14.1,16.1,15,**,**,**,**
+530,Loudon County,40,Loudon High School,Students with Disabilities,24,100,14.4,16.2,15,16.5,15.6,**,**,**,**
+531,Lenoir City,5,Lenoir City High School,All Students,250,98,19,19.8,20.5,20,20,99,39.6,109,43.6
+531,Lenoir City,5,Lenoir City High School,Black/Hispanic/Native American,47,98,14.6,17.4,16.7,17.1,16.6,5,10.6,34,72.3
+531,Lenoir City,5,Lenoir City High School,Economically Disadvantaged,73,96,16,17.7,18.3,17.7,17.6,13,17.8,44,60.3
+531,Lenoir City,5,Lenoir City High School,English Learners,14,93,11.1,16.2,13.5,15.7,14.3,**,**,**,**
+531,Lenoir City,5,Lenoir City High School,Students with Disabilities,30,100,13.1,15.4,16.6,16.5,15.6,3,10,26,86.7
+540,McMinn County,15,Central High School,All Students,155,95,19.3,18.3,19.9,19.2,19.3,55,35.5,74,47.7
+540,McMinn County,15,Central High School,Black/Hispanic/Native American,16,94,18.4,16.9,21.1,18.9,18.9,4,25,9,56.3
+540,McMinn County,15,Central High School,Economically Disadvantaged,63,97,17.5,17.5,17.9,18,17.9,12,19,38,60.3
+540,McMinn County,15,Central High School,English Learners,0,0,,,,,,0,,0,
+540,McMinn County,15,Central High School,Students with Disabilities,15,100,12.7,15.9,13.1,14.9,14.3,**,**,**,**
+540,McMinn County,45,McMinn High School,All Students,308,100,20.3,19.3,21.2,20.1,20.4,139,45.1,130,42.2
+540,McMinn County,45,McMinn High School,Black/Hispanic/Native American,40,98,17.7,17.8,18.5,17.7,18,11,27.5,25,62.5
+540,McMinn County,45,McMinn High School,Economically Disadvantaged,123,100,17,17.5,18,17.4,17.6,26,21.1,79,64.2
+540,McMinn County,45,McMinn High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+540,McMinn County,45,McMinn High School,Students with Disabilities,27,100,12.7,15,14.8,15.1,14.6,**,**,**,**
+550,McNairy County,10,Adamsville Junior / Senior High School,All Students,124,98,19.8,18.4,19.7,19,19.4,47,37.9,59,47.6
+550,McNairy County,10,Adamsville Junior / Senior High School,Black/Hispanic/Native American,11,100,17.5,17.7,19.1,17.5,18.2,4,36.4,6,54.5
+550,McNairy County,10,Adamsville Junior / Senior High School,Economically Disadvantaged,38,97,17.6,17.3,17.7,17.5,17.7,9,23.7,24,63.2
+550,McNairy County,10,Adamsville Junior / Senior High School,Students with Disabilities,13,100,15.1,14.7,15.4,16.5,15.6,**,**,**,**
+550,McNairy County,20,McNairy Central High School,All Students,174,98,18.8,19,19.9,19.3,19.4,69,39.7,84,48.3
+550,McNairy County,20,McNairy Central High School,Black/Hispanic/Native American,32,100,15.4,16.7,17,16.6,16.6,4,12.5,26,81.3
+550,McNairy County,20,McNairy Central High School,Economically Disadvantaged,103,97,17.2,17.9,18.4,18.2,18.1,27,26.2,63,61.2
+550,McNairy County,20,McNairy Central High School,Students with Disabilities,19,100,12.4,14.7,13.4,14.7,13.9,**,**,**,**
+560,Macon County,21,Macon County High School,All Students,210,99,19.6,19.1,19.8,19.4,19.6,86,41,105,50
+560,Macon County,21,Macon County High School,Black/Hispanic/Native American,17,94,16.3,17.4,17.3,17.2,17.1,4,23.5,12,70.6
+560,Macon County,21,Macon County High School,Economically Disadvantaged,80,98,18,18.2,18.9,18.3,18.5,27,33.8,47,58.8
+560,Macon County,21,Macon County High School,English Learners,7,*,*,*,*,*,*,*,*,*,*
+560,Macon County,21,Macon County High School,Students with Disabilities,21,100,12.8,15.4,13.9,14,14,**,**,**,**
+560,Macon County,30,Red Boiling Springs School,All Students,32,94,18.6,18.7,19.2,18.6,18.9,9,28.1,18,56.3
+560,Macon County,30,Red Boiling Springs School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+560,Macon County,30,Red Boiling Springs School,Economically Disadvantaged,14,100,19.9,19.2,21,19.2,19.9,6,42.9,5,35.7
+560,Macon County,30,Red Boiling Springs School,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+570,Madison County,22,Jackson Central-Merry Early College High,All Students,49,100,19.6,18.2,20.8,20,19.8,20,40.8,20,40.8
+570,Madison County,22,Jackson Central-Merry Early College High,Black/Hispanic/Native American,43,100,19.6,18.2,20.8,20,19.8,17,39.5,17,39.5
+570,Madison County,22,Jackson Central-Merry Early College High,Economically Disadvantaged,29,100,20.3,18.8,21.2,20.8,20.4,13,44.8,8,27.6
+570,Madison County,22,Jackson Central-Merry Early College High,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+570,Madison County,53,Liberty Technology Magnet High School,All Students,242,100,14.3,15.5,15.3,15.6,15.3,14,5.8,209,86.4
+570,Madison County,53,Liberty Technology Magnet High School,Black/Hispanic/Native American,203,100,13.5,15.1,14.5,15,14.7,**,**,**,**
+570,Madison County,53,Liberty Technology Magnet High School,Economically Disadvantaged,160,100,13.6,15.2,14.6,14.9,14.7,**,**,**,**
+570,Madison County,53,Liberty Technology Magnet High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+570,Madison County,53,Liberty Technology Magnet High School,Students with Disabilities,49,100,11.3,14.4,13.4,13.7,13.4,**,**,**,**
+570,Madison County,63,Madison Academic Magnet High School,All Students,116,100,26.6,23.2,26.7,24.6,25.5,**,**,**,**
+570,Madison County,63,Madison Academic Magnet High School,Black/Hispanic/Native American,41,100,24,21,24.1,22.1,23,**,**,**,**
+570,Madison County,63,Madison Academic Magnet High School,Economically Disadvantaged,15,100,25.1,22,25.8,23.1,24.2,**,**,**,**
+570,Madison County,63,Madison Academic Magnet High School,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+570,Madison County,71,North Side High School,All Students,175,100,15.8,16.4,17.1,17.3,16.8,23,13.1,132,75.4
+570,Madison County,71,North Side High School,Black/Hispanic/Native American,141,100,15.1,16.1,16.5,16.8,16.3,12,8.5,115,81.6
+570,Madison County,71,North Side High School,Economically Disadvantaged,79,100,15.4,16.1,17,16.7,16.5,7,8.9,62,78.5
+570,Madison County,71,North Side High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+570,Madison County,71,North Side High School,Students with Disabilities,16,100,11.5,14.3,12.9,14.7,13.4,**,**,**,**
+570,Madison County,105,South Side High School,All Students,185,100,16.4,17.5,18.2,17.3,17.5,47,25.4,119,64.3
+570,Madison County,105,South Side High School,Black/Hispanic/Native American,102,100,14.3,16.2,16.3,16,15.9,12,11.8,85,83.3
+570,Madison County,105,South Side High School,Economically Disadvantaged,100,100,14.6,16.2,16.8,16.1,16.1,16,16,78,78
+570,Madison County,105,South Side High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+570,Madison County,105,South Side High School,Students with Disabilities,19,100,12.8,14.9,15.6,14.5,14.6,1,5.3,17,89.5
+580,Marion County,25,Marion Co High School,All Students,117,100,19.9,19.5,20.2,20.2,20.1,52,44.4,50,42.7
+580,Marion County,25,Marion Co High School,Black/Hispanic/Native American,9,*,*,*,*,*,*,*,*,*,*
+580,Marion County,25,Marion Co High School,Economically Disadvantaged,47,100,18.3,18.8,19,19.1,19.1,16,34,26,55.3
+580,Marion County,25,Marion Co High School,Students with Disabilities,12,100,14.8,15.8,15.7,15.6,15.5,**,**,**,**
+580,Marion County,55,South Pittsburg High School,All Students,53,100,19.9,20,20.3,20,20.2,24,45.3,19,35.8
+580,Marion County,55,South Pittsburg High School,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+580,Marion County,55,South Pittsburg High School,Economically Disadvantaged,22,100,17.5,18.2,18.4,18,18.2,7,31.8,11,50
+580,Marion County,55,South Pittsburg High School,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+580,Marion County,70,Whitwell High School,All Students,79,98,18,17.4,19,19,18.6,23,29.1,42,53.2
+580,Marion County,70,Whitwell High School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+580,Marion County,70,Whitwell High School,Economically Disadvantaged,36,95,16.2,16.4,18.3,17.6,17.3,5,13.9,21,58.3
+580,Marion County,70,Whitwell High School,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+581,Richard City,5,Richard Hardy Memorial School,All Students,19,95,19.3,19.2,19.9,20.6,19.9,7,36.8,9,47.4
+581,Richard City,5,Richard Hardy Memorial School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+581,Richard City,5,Richard Hardy Memorial School,Economically Disadvantaged,10,100,19.7,19.5,20.6,20.1,20.1,5,50,4,40
+581,Richard City,5,Richard Hardy Memorial School,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+590,Marshall County,20,Cornersville School,All Students,83,100,21.3,21,22.2,22.3,21.9,49,59,19,22.9
+590,Marshall County,20,Cornersville School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+590,Marshall County,20,Cornersville School,Economically Disadvantaged,24,100,21,19.6,22,21.7,21.3,12,50,8,33.3
+590,Marshall County,20,Cornersville School,Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+590,Marshall County,30,Forrest School,All Students,113,100,20.5,20.7,20.5,20.8,20.8,61,54,39,34.5
+590,Marshall County,30,Forrest School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+590,Marshall County,30,Forrest School,Economically Disadvantaged,19,100,17,18.3,16.7,18.4,17.8,5,26.3,12,63.2
+590,Marshall County,30,Forrest School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+590,Marshall County,47,Marshall Co High School,All Students,198,100,19.8,19,20.3,20,19.9,80,40.4,86,43.4
+590,Marshall County,47,Marshall Co High School,Black/Hispanic/Native American,61,100,18.5,17.9,19.7,19.2,19,18,29.5,30,49.2
+590,Marshall County,47,Marshall Co High School,Economically Disadvantaged,76,100,17.7,17.6,18.7,18.3,18.2,20,26.3,46,60.5
+590,Marshall County,47,Marshall Co High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+590,Marshall County,47,Marshall Co High School,Students with Disabilities,13,100,13.3,14.8,14.6,16.3,14.9,**,**,**,**
+600,Maury County,15,Columbia Central High School,All Students,277,100,18.8,18.8,19.6,19.1,19.2,99,35.7,147,53.1
+600,Maury County,15,Columbia Central High School,Black/Hispanic/Native American,107,100,14.8,16.3,16.2,16.6,16.1,13,12.1,82,76.6
+600,Maury County,15,Columbia Central High School,Economically Disadvantaged,114,100,15.9,17.1,17.2,16.9,17,22,19.3,82,71.9
+600,Maury County,15,Columbia Central High School,English Learners,7,*,*,*,*,*,*,*,*,*,*
+600,Maury County,15,Columbia Central High School,Students with Disabilities,32,100,14.3,16.2,15.8,15.9,15.8,4,12.5,26,81.3
+600,Maury County,30,Culleoka Unit School,All Students,61,100,18.5,19,18.9,18.8,18.9,17,27.9,33,54.1
+600,Maury County,30,Culleoka Unit School,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+600,Maury County,30,Culleoka Unit School,Economically Disadvantaged,18,100,16.6,16.8,17.1,16.8,17,2,11.1,13,72.2
+600,Maury County,30,Culleoka Unit School,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+600,Maury County,40,Hampshire Unit School,All Students,24,96,19.7,19.2,20.6,19.2,19.8,12,50,9,37.5
+600,Maury County,40,Hampshire Unit School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+600,Maury County,40,Hampshire Unit School,Economically Disadvantaged,3,*,*,*,*,*,*,*,*,*,*
+600,Maury County,40,Hampshire Unit School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+600,Maury County,65,Mt Pleasant High School,All Students,75,99,19.5,18.5,19.8,19.2,19.4,28,37.3,35,46.7
+600,Maury County,65,Mt Pleasant High School,Black/Hispanic/Native American,16,100,15.7,15.6,16.3,16.4,16.3,2,12.5,13,81.3
+600,Maury County,65,Mt Pleasant High School,Economically Disadvantaged,36,100,17.7,17.1,18.5,17.5,17.9,10,27.8,20,55.6
+600,Maury County,65,Mt Pleasant High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+600,Maury County,65,Mt Pleasant High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+600,Maury County,85,Santa Fe Unit School,All Students,45,100,20.1,19.2,19.9,19.4,19.8,19,42.2,18,40
+600,Maury County,85,Santa Fe Unit School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+600,Maury County,85,Santa Fe Unit School,Economically Disadvantaged,17,100,18,18,18.7,18.9,18.5,4,23.5,9,52.9
+600,Maury County,85,Santa Fe Unit School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+600,Maury County,85,Santa Fe Unit School,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+600,Maury County,95,Spring Hill High School,All Students,281,99,19.6,19.7,20.8,20.1,20.2,108,38.4,112,39.9
+600,Maury County,95,Spring Hill High School,Black/Hispanic/Native American,56,98,16.6,17.2,18.2,17.9,17.7,13,23.2,39,69.6
+600,Maury County,95,Spring Hill High School,Economically Disadvantaged,61,100,16.5,17.4,18.5,17.7,17.7,9,14.8,40,65.6
+600,Maury County,95,Spring Hill High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+600,Maury County,95,Spring Hill High School,Students with Disabilities,19,95,13.1,15.2,15.3,15.9,15.1,1,5.3,16,84.2
+610,Meigs County,25,Meigs County High School,All Students,121,99,20.3,19.3,21,20,20.3,56,46.3,52,43
+610,Meigs County,25,Meigs County High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+610,Meigs County,25,Meigs County High School,Economically Disadvantaged,52,98,17.5,17.9,19.1,18.4,18.4,15,28.8,30,57.7
+610,Meigs County,25,Meigs County High School,Students with Disabilities,15,100,13.3,15.5,15.5,16.2,15.3,**,**,**,**
+620,Monroe County,37,Sequoyah High School,All Students,219,100,17.3,17.8,18.8,18.6,18.3,61,27.9,130,59.4
+620,Monroe County,37,Sequoyah High School,Black/Hispanic/Native American,23,100,14.2,16.1,16.6,16.8,16,2,8.7,19,82.6
+620,Monroe County,37,Sequoyah High School,Economically Disadvantaged,68,100,15.2,16.9,16.8,17.8,16.8,10,14.7,53,77.9
+620,Monroe County,37,Sequoyah High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+620,Monroe County,37,Sequoyah High School,Students with Disabilities,32,100,11.9,14.6,14.6,15.3,14.3,**,**,**,**
+620,Monroe County,40,Sweetwater High School,All Students,144,100,18.4,18.8,19.6,18.9,19.1,51,35.4,73,50.7
+620,Monroe County,40,Sweetwater High School,Black/Hispanic/Native American,22,100,16.8,17.2,17.3,17.5,17.3,4,18.2,14,63.6
+620,Monroe County,40,Sweetwater High School,Economically Disadvantaged,58,100,16.7,17.2,17.8,16.9,17.3,11,19,39,67.2
+620,Monroe County,40,Sweetwater High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+620,Monroe County,40,Sweetwater High School,Students with Disabilities,13,100,12,15.2,14.9,14,14.1,1,7.7,12,92.3
+620,Monroe County,50,Tellico Plains High School,All Students,126,100,18.7,19.3,19.5,19.1,19.3,47,37.3,64,50.8
+620,Monroe County,50,Tellico Plains High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+620,Monroe County,50,Tellico Plains High School,Economically Disadvantaged,33,100,15.3,17.2,16.2,16.3,16.5,7,21.2,25,75.8
+620,Monroe County,50,Tellico Plains High School,Students with Disabilities,23,100,14.3,16,14.9,16.1,15.5,2,8.7,20,87
+630,Montgomery County,19,Kenwood High,All Students,257,97,16.6,17.6,18.8,18.6,18,55,21.4,160,62.3
+630,Montgomery County,19,Kenwood High,Black/Hispanic/Native American,166,97,15.8,16.9,18,17.7,17.2,20,12,118,71.1
+630,Montgomery County,19,Kenwood High,Economically Disadvantaged,131,98,15.6,17.1,17.8,17.7,17.2,22,16.8,90,68.7
+630,Montgomery County,19,Kenwood High,English Learners,13,100,11.3,14.8,13.8,14.8,13.8,**,**,**,**
+630,Montgomery County,19,Kenwood High,Students with Disabilities,29,100,13.1,15.2,15.4,15.7,15,**,**,**,**
+630,Montgomery County,25,Montgomery Central High,All Students,230,97,19.4,19,20.2,19.8,19.8,97,42.2,107,46.5
+630,Montgomery County,25,Montgomery Central High,Black/Hispanic/Native American,41,95,16.3,17.2,17.4,17,17.1,7,17.1,32,78
+630,Montgomery County,25,Montgomery Central High,Economically Disadvantaged,79,96,17.4,17.5,18.1,17.7,17.9,23,29.1,50,63.3
+630,Montgomery County,25,Montgomery Central High,Students with Disabilities,33,94,15.5,17.2,16.1,16.5,16.5,5,15.2,26,78.8
+630,Montgomery County,30,Clarksville High,All Students,313,97,20.6,20.4,22.4,21.7,21.5,168,53.7,101,32.3
+630,Montgomery County,30,Clarksville High,Black/Hispanic/Native American,80,93,18,18.5,20.2,20,19.4,31,38.8,36,45
+630,Montgomery County,30,Clarksville High,Economically Disadvantaged,84,98,17,17.8,19.4,19.3,18.5,26,31,48,57.1
+630,Montgomery County,30,Clarksville High,English Learners,8,*,*,*,*,*,*,*,*,*,*
+630,Montgomery County,30,Clarksville High,Students with Disabilities,36,95,14.4,15.9,16,16.8,16,3,8.3,30,83.3
+630,Montgomery County,68,Northeast High,All Students,306,89,18.2,18.9,19.6,19.6,19.2,118,38.6,156,51
+630,Montgomery County,68,Northeast High,Black/Hispanic/Native American,156,86,17,18.4,18.7,18.7,18.3,49,31.4,92,59
+630,Montgomery County,68,Northeast High,Economically Disadvantaged,77,84,15.4,16.8,16.5,16.8,16.5,10,13,62,80.5
+630,Montgomery County,68,Northeast High,English Learners,6,*,*,*,*,*,*,*,*,*,*
+630,Montgomery County,68,Northeast High,Students with Disabilities,43,88,12.6,14.9,13.8,14.9,14.2,**,**,**,**
+630,Montgomery County,70,Northwest High,All Students,300,97,18.5,18.2,19.6,19.2,19,98,32.7,152,50.7
+630,Montgomery County,70,Northwest High,Black/Hispanic/Native American,152,96,17.3,17.4,18.5,18.4,18,38,25,95,62.5
+630,Montgomery County,70,Northwest High,Economically Disadvantaged,148,96,17.4,17.5,18.5,18.2,18,40,27,92,62.2
+630,Montgomery County,70,Northwest High,English Learners,1,*,*,*,*,*,*,*,*,*,*
+630,Montgomery County,70,Northwest High,Students with Disabilities,33,92,13.9,15.2,15.5,16.1,15.3,2,6.1,28,84.8
+630,Montgomery County,78,Rossview High,All Students,389,96,21.7,21.1,23.4,22.3,22.3,235,60.4,103,26.5
+630,Montgomery County,78,Rossview High,Black/Hispanic/Native American,118,96,19.6,19.3,21.9,20.5,20.5,58,49.2,47,39.8
+630,Montgomery County,78,Rossview High,Economically Disadvantaged,73,96,17.5,18.4,20.2,19.4,19.1,26,35.6,38,52.1
+630,Montgomery County,78,Rossview High,English Learners,6,*,*,*,*,*,*,*,*,*,*
+630,Montgomery County,78,Rossview High,Students with Disabilities,19,63,13.1,15.7,15.9,14.6,14.9,1,5.3,17,89.5
+630,Montgomery County,88,Middle College @ Austin Peay State University,All Students,63,100,26.4,23.7,26.5,25.1,25.5,**,**,**,**
+630,Montgomery County,88,Middle College @ Austin Peay State University,Black/Hispanic/Native American,14,100,24.7,22.5,25,23.9,24.3,**,**,**,**
+630,Montgomery County,88,Middle College @ Austin Peay State University,Economically Disadvantaged,16,100,23.9,22.1,25.3,23.2,23.8,**,**,**,**
+630,Montgomery County,100,West Creek High,All Students,296,93,18,18.6,19.7,19.2,19,98,33.1,159,53.7
+630,Montgomery County,100,West Creek High,Black/Hispanic/Native American,180,94,17.2,17.9,18.9,18.5,18.3,48,26.7,111,61.7
+630,Montgomery County,100,West Creek High,Economically Disadvantaged,87,88,16.2,17.4,18.6,17.8,17.7,19,21.8,57,65.5
+630,Montgomery County,100,West Creek High,English Learners,14,88,13.4,15,15.6,15.4,14.9,1,7.1,13,92.9
+630,Montgomery County,100,West Creek High,Students with Disabilities,30,94,13.9,15.5,16.6,16.1,15.7,2,6.7,27,90
+640,Moore County,15,Moore County High School,All Students,66,99,22,21.1,21.6,21.3,21.7,39,59.1,18,27.3
+640,Moore County,15,Moore County High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+640,Moore County,15,Moore County High School,Economically Disadvantaged,18,95,20.9,19.9,20.8,20.8,20.7,10,55.6,5,27.8
+640,Moore County,15,Moore County High School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+650,Morgan County,15,Central High School,All Students,80,96,17.3,17.4,19.1,18.3,18.1,21,26.3,50,62.5
+650,Morgan County,15,Central High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+650,Morgan County,15,Central High School,Economically Disadvantaged,37,95,16.7,17,18.7,17.4,17.6,9,24.3,27,73
+650,Morgan County,15,Central High School,Students with Disabilities,14,82,11.3,14.8,13.9,14,13.6,**,**,**,**
+650,Morgan County,30,Coalfield School,All Students,39,100,16.7,17.6,17.6,17.4,17.4,8,20.5,25,64.1
+650,Morgan County,30,Coalfield School,Economically Disadvantaged,17,100,15.2,16,15.6,15.3,15.5,1,5.9,15,88.2
+650,Morgan County,30,Coalfield School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+650,Morgan County,46,Morgan County Career and Technical Center,All Students,21,57,14.2,15.1,14.3,14,14.6,**,**,**,**
+650,Morgan County,46,Morgan County Career and Technical Center,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+650,Morgan County,46,Morgan County Career and Technical Center,Economically Disadvantaged,14,52,13.7,15.1,14.5,14.1,14.6,**,**,**,**
+650,Morgan County,46,Morgan County Career and Technical Center,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+650,Morgan County,55,Oakdale School,All Students,36,97,19.6,19,20.6,18.5,19.5,16,44.4,15,41.7
+650,Morgan County,55,Oakdale School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+650,Morgan County,55,Oakdale School,Economically Disadvantaged,14,100,20.2,19.6,21.3,18.9,20.1,6,42.9,6,42.9
+650,Morgan County,55,Oakdale School,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+650,Morgan County,70,Sunbright School,All Students,39,100,17.2,17.8,18.4,17.6,17.8,6,15.4,24,61.5
+650,Morgan County,70,Sunbright School,Economically Disadvantaged,19,100,15.9,17,16.7,17.6,16.9,1,5.3,14,73.7
+650,Morgan County,70,Sunbright School,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+660,Obion County,35,Obion County Central High School,All Students,169,97,19.7,19.1,19.7,19.6,19.7,69,40.8,72,42.6
+660,Obion County,35,Obion County Central High School,Black/Hispanic/Native American,17,89,15.6,17.5,16.4,15.8,16.5,1,5.9,14,82.4
+660,Obion County,35,Obion County Central High School,Economically Disadvantaged,67,97,18,18.2,18.4,18.1,18.3,18,26.9,39,58.2
+660,Obion County,35,Obion County Central High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+660,Obion County,35,Obion County Central High School,Students with Disabilities,18,82,13.6,15.8,15.5,15.6,15.2,1,5.6,15,83.3
+660,Obion County,50,South Fulton Middle / High School,All Students,34,100,21.4,20.5,22.6,21.6,21.8,19,55.9,10,29.4
+660,Obion County,50,South Fulton Middle / High School,Black/Hispanic/Native American,9,*,*,*,*,*,*,*,*,*,*
+660,Obion County,50,South Fulton Middle / High School,Economically Disadvantaged,17,100,19,19.9,20.8,20.6,20.4,9,52.9,6,35.3
+660,Obion County,50,South Fulton Middle / High School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+661,Union City,15,Union City High School,All Students,106,97,23.3,22.2,22.6,22.5,22.8,65,61.3,35,33
+661,Union City,15,Union City High School,Black/Hispanic/Native American,34,94,19.6,19.3,19,19.9,19.6,11,32.4,20,58.8
+661,Union City,15,Union City High School,Economically Disadvantaged,31,94,19.2,19.3,20.2,19.4,19.5,10,32.3,19,61.3
+661,Union City,15,Union City High School,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+670,Overton County,30,Livingston Academy,All Students,200,97,18.3,18.6,19.2,18.3,18.7,68,34,99,49.5
+670,Overton County,30,Livingston Academy,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+670,Overton County,30,Livingston Academy,Economically Disadvantaged,73,96,17.3,17.5,18.3,17.2,17.7,17,23.3,42,57.5
+670,Overton County,30,Livingston Academy,Students with Disabilities,22,92,12.2,14.6,12.9,12.6,13.2,**,**,**,**
+680,Perry County,27,Perry County High School,All Students,66,100,16.2,16.9,18,17.7,17.3,12,18.2,45,68.2
+680,Perry County,27,Perry County High School,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+680,Perry County,27,Perry County High School,Economically Disadvantaged,27,100,14.7,15.8,16.4,16.1,15.9,**,**,**,**
+680,Perry County,27,Perry County High School,Students with Disabilities,10,100,13.2,14.9,13.4,15,14.3,**,**,**,**
+690,Pickett County,5,Pickett Co High School,All Students,39,100,21,19.3,20.6,20.2,20.4,18,46.2,13,33.3
+690,Pickett County,5,Pickett Co High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+690,Pickett County,5,Pickett Co High School,Economically Disadvantaged,11,100,20.5,18.5,19.7,19.6,19.7,5,45.5,5,45.5
+690,Pickett County,5,Pickett Co High School,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+700,Polk County,15,Copper Basin High School,All Students,47,96,19.1,18.4,20,19.4,19.3,18,38.3,24,51.1
+700,Polk County,15,Copper Basin High School,Economically Disadvantaged,18,90,19.1,18.6,19.3,19.2,19.1,8,44.4,9,50
+700,Polk County,15,Copper Basin High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+700,Polk County,53,Polk County High School,All Students,115,99,18.6,18.8,20.1,18.8,19.1,45,39.1,57,49.6
+700,Polk County,53,Polk County High School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+700,Polk County,53,Polk County High School,Economically Disadvantaged,48,98,17.9,17.8,18.8,17.5,18,14,29.2,27,56.3
+700,Polk County,53,Polk County High School,Students with Disabilities,11,100,12.9,16,14.2,15.7,14.9,**,**,**,**
+710,Putnam County,37,Cookeville High School,All Students,467,96,20.1,20.8,21.8,21.1,21.1,235,50.3,176,37.7
+710,Putnam County,37,Cookeville High School,Black/Hispanic/Native American,100,96,15.5,18.2,17.9,17.6,17.5,24,24,70,70
+710,Putnam County,37,Cookeville High School,Economically Disadvantaged,152,94,16.3,18.2,18.4,18.1,17.9,42,27.6,91,59.9
+710,Putnam County,37,Cookeville High School,English Learners,26,100,11.6,15.5,14,14,13.9,**,**,**,**
+710,Putnam County,37,Cookeville High School,Students with Disabilities,63,94,14.6,16.5,15.1,16.1,15.7,8,12.7,51,81
+710,Putnam County,55,Monterey High School,All Students,85,100,17.7,18.1,18.9,18.6,18.5,28,32.9,47,55.3
+710,Putnam County,55,Monterey High School,Black/Hispanic/Native American,23,100,15.5,17.7,15.7,18.1,17,4,17.4,16,69.6
+710,Putnam County,55,Monterey High School,Economically Disadvantaged,45,100,16.8,17.4,18.2,18,17.8,10,22.2,30,66.7
+710,Putnam County,55,Monterey High School,English Learners,7,*,*,*,*,*,*,*,*,*,*
+710,Putnam County,55,Monterey High School,Students with Disabilities,17,100,13.9,15.3,16,15.8,15.4,2,11.8,14,82.4
+710,Putnam County,90,Upperman High School,All Students,173,96,18.6,18.6,20.5,19.6,19.5,60,34.7,84,48.6
+710,Putnam County,90,Upperman High School,Black/Hispanic/Native American,12,100,15,16,16.4,15.8,16.1,1,8.3,10,83.3
+710,Putnam County,90,Upperman High School,Economically Disadvantaged,67,92,17.2,17.7,19.3,18.6,18.3,14,20.9,38,56.7
+710,Putnam County,90,Upperman High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+710,Putnam County,90,Upperman High School,Students with Disabilities,27,90,14.1,16,17,16.9,16.3,3,11.1,19,70.4
+720,Rhea County,32,Rhea County High School,All Students,318,99,18.6,19,19.6,19.4,19.3,113,35.5,157,49.4
+720,Rhea County,32,Rhea County High School,Black/Hispanic/Native American,46,100,14.7,17.2,16.9,16.9,16.5,6,13,35,76.1
+720,Rhea County,32,Rhea County High School,Economically Disadvantaged,161,98,16.9,18.1,18.2,18.3,18,36,22.4,102,63.4
+720,Rhea County,32,Rhea County High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+720,Rhea County,32,Rhea County High School,Students with Disabilities,31,97,12.6,15.8,13.5,14.5,14.3,2,6.5,29,93.5
+730,Roane County,15,Harriman High School,All Students,61,98,18.6,18.9,19.5,18.7,19.1,21,34.4,33,54.1
+730,Roane County,15,Harriman High School,Black/Hispanic/Native American,16,100,16.3,17.9,16.7,17.3,17.2,2,12.5,12,75
+730,Roane County,15,Harriman High School,Economically Disadvantaged,28,100,16.4,17.4,16.6,17.2,17,5,17.9,21,75
+730,Roane County,15,Harriman High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+730,Roane County,15,Harriman High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+730,Roane County,50,Midway High School,All Students,64,100,18.2,19.6,20.4,20.3,19.8,23,35.9,29,45.3
+730,Roane County,50,Midway High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+730,Roane County,50,Midway High School,Economically Disadvantaged,17,100,15.8,18.4,18.7,18.8,18.1,5,29.4,10,58.8
+730,Roane County,50,Midway High School,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+730,Roane County,65,Oliver Springs High School,All Students,79,100,20,18.7,21,20.6,20.2,34,43,31,39.2
+730,Roane County,65,Oliver Springs High School,Economically Disadvantaged,28,100,19.1,18.1,20.5,20,19.5,10,35.7,14,50
+730,Roane County,65,Oliver Springs High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+730,Roane County,80,Roane County High School,All Students,146,100,20.5,19.8,21.7,20.8,20.9,71,48.6,50,34.2
+730,Roane County,80,Roane County High School,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+730,Roane County,80,Roane County High School,Economically Disadvantaged,34,100,18,18,19.6,18.9,18.7,10,29.4,20,58.8
+730,Roane County,80,Roane County High School,Students with Disabilities,10,100,15.4,15.7,15.7,17.9,16.3,2,20,8,80
+730,Roane County,81,Midtown Educational Center,All Students,24,100,14.1,15.6,15,16,15.3,4,16.7,20,83.3
+730,Roane County,81,Midtown Educational Center,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+730,Roane County,81,Midtown Educational Center,Economically Disadvantaged,15,100,15.1,15.9,16.7,17.3,16.4,4,26.7,11,73.3
+730,Roane County,81,Midtown Educational Center,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+730,Roane County,85,Rockwood High School,All Students,102,100,18.4,18.1,20,18.7,19,30,29.4,58,56.9
+730,Roane County,85,Rockwood High School,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+730,Roane County,85,Rockwood High School,Economically Disadvantaged,57,100,17.4,17.6,19,18.2,18.3,14,24.6,37,64.9
+730,Roane County,85,Rockwood High School,Students with Disabilities,12,100,13.3,15.1,14.8,14.7,14.7,1,8.3,11,91.7
+740,Robertson County,32,East Robertson High School,All Students,91,96,18.4,18.9,19.5,19.5,19.2,34,37.4,41,45.1
+740,Robertson County,32,East Robertson High School,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,32,East Robertson High School,Economically Disadvantaged,34,97,17,17.7,18.6,18.9,18.1,10,29.4,18,52.9
+740,Robertson County,32,East Robertson High School,Students with Disabilities,11,85,12.9,15.9,15,15.2,14.8,**,**,**,**
+740,Robertson County,40,Greenbrier High School,All Students,193,95,19,19.5,19.8,19.9,19.7,79,40.9,94,48.7
+740,Robertson County,40,Greenbrier High School,Black/Hispanic/Native American,24,83,15.7,16.7,16.5,16.6,16.5,3,12.5,19,79.2
+740,Robertson County,40,Greenbrier High School,Economically Disadvantaged,54,89,17.1,18.1,18.3,18.2,18,14,25.9,36,66.7
+740,Robertson County,40,Greenbrier High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,40,Greenbrier High School,Students with Disabilities,28,88,13.5,15.8,15.2,15.8,15.3,**,**,**,**
+740,Robertson County,45,Jo Byrns High School,All Students,71,95,18.6,19.1,20.1,19.5,19.5,25,35.2,36,50.7
+740,Robertson County,45,Jo Byrns High School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,45,Jo Byrns High School,Economically Disadvantaged,23,92,16.5,17.5,18.2,17.5,17.6,4,17.4,15,65.2
+740,Robertson County,45,Jo Byrns High School,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,70,Springfield High School,All Students,220,97,17.4,18,18.4,18.6,18.3,59,26.8,127,57.7
+740,Robertson County,70,Springfield High School,Black/Hispanic/Native American,96,97,15.3,16.7,16.9,17.1,16.7,14,14.6,72,75
+740,Robertson County,70,Springfield High School,Economically Disadvantaged,103,100,15.6,16.8,17.3,17.5,17,14,13.6,74,71.8
+740,Robertson County,70,Springfield High School,English Learners,11,85,11.5,14.7,13,14.4,13.5,**,**,**,**
+740,Robertson County,70,Springfield High School,Students with Disabilities,25,100,12.5,14.9,13.5,14,13.8,**,**,**,**
+740,Robertson County,90,White House Heritage High School,All Students,118,94,20.8,20.4,21.9,21.3,21.3,63,53.4,39,33.1
+740,Robertson County,90,White House Heritage High School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,90,White House Heritage High School,Economically Disadvantaged,22,92,18.7,18.8,18.9,19.2,19.1,8,36.4,12,54.5
+740,Robertson County,90,White House Heritage High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,90,White House Heritage High School,Students with Disabilities,14,100,16,17.4,17,17.1,17.1,3,21.4,11,78.6
+740,Robertson County,95,Robertson Co. Virtual School,All Students,9,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,95,Robertson Co. Virtual School,Black/Hispanic/Native American,0,0,,,,,,0,,0,
+740,Robertson County,95,Robertson Co. Virtual School,Economically Disadvantaged,2,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,95,Robertson Co. Virtual School,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,100,Robertson County Alternative Learning Center,All Students,16,94,12,15.9,14.7,15.9,14.7,**,**,**,**
+740,Robertson County,100,Robertson County Alternative Learning Center,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,100,Robertson County Alternative Learning Center,Economically Disadvantaged,9,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,100,Robertson County Alternative Learning Center,English Learners,2,*,*,*,*,*,*,*,*,*,*
+740,Robertson County,100,Robertson County Alternative Learning Center,Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+750,Rutherford County,4,Blackman High School,All Students,540,99,21.3,20.1,21.7,20.9,21.2,295,54.6,163,30.2
+750,Rutherford County,4,Blackman High School,Black/Hispanic/Native American,173,98,18.8,18.3,19.3,18.7,18.9,57,32.9,88,50.9
+750,Rutherford County,4,Blackman High School,Economically Disadvantaged,106,100,18.5,18.2,18.9,18.9,18.8,34,32.1,59,55.7
+750,Rutherford County,4,Blackman High School,English Learners,13,100,11.2,16.4,13.2,14.5,14,**,**,**,**
+750,Rutherford County,4,Blackman High School,Students with Disabilities,31,100,13.6,15.9,14.8,15.6,15.2,2,6.5,29,93.5
+750,Rutherford County,15,Central Magnet School,All Students,198,99,32.6,28.9,31.5,30.2,31,**,**,**,**
+750,Rutherford County,15,Central Magnet School,Black/Hispanic/Native American,22,100,33.4,28.6,30.4,29.9,30.8,**,**,**,**
+750,Rutherford County,15,Central Magnet School,Economically Disadvantaged,15,100,31.9,27.6,29.6,29,29.7,**,**,**,**
+750,Rutherford County,35,Eagleville School,All Students,116,100,19.6,19.4,20.2,20.3,20,48,41.4,46,39.7
+750,Rutherford County,35,Eagleville School,Black/Hispanic/Native American,10,100,16.6,17,17,17.9,17.2,1,10,7,70
+750,Rutherford County,35,Eagleville School,Economically Disadvantaged,14,100,15.9,17.5,16.6,18.2,17.2,2,14.3,9,64.3
+750,Rutherford County,35,Eagleville School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+750,Rutherford County,35,Eagleville School,Students with Disabilities,13,100,14.2,16.6,15,17.3,15.9,**,**,**,**
+750,Rutherford County,37,Holloway High School,All Students,53,90,15.7,16.7,17.1,16,16.5,7,13.2,41,77.4
+750,Rutherford County,37,Holloway High School,Black/Hispanic/Native American,24,89,14,15.7,14.1,15.3,14.8,**,**,**,**
+750,Rutherford County,37,Holloway High School,Economically Disadvantaged,32,89,14.3,15.7,16,15.3,15.3,2,6.3,27,84.4
+750,Rutherford County,37,Holloway High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+750,Rutherford County,37,Holloway High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+750,Rutherford County,63,Lavergne High School,All Students,476,99,17.2,17.7,18.4,18.1,18,117,24.6,288,60.5
+750,Rutherford County,63,Lavergne High School,Black/Hispanic/Native American,314,99,16.4,17.1,17.8,17.5,17.3,57,18.2,209,66.6
+750,Rutherford County,63,Lavergne High School,Economically Disadvantaged,224,99,16.1,17.1,17.5,17.2,17.1,38,17,162,72.3
+750,Rutherford County,63,Lavergne High School,English Learners,54,96,12.4,15.8,14.4,15.3,14.5,**,**,**,**
+750,Rutherford County,63,Lavergne High School,Students with Disabilities,41,93,14.3,14.7,15.4,15.6,15.2,**,**,**,**
+750,Rutherford County,72,Oakland High School,All Students,461,99,19.8,19.5,20.4,20.2,20.1,210,45.6,192,41.6
+750,Rutherford County,72,Oakland High School,Black/Hispanic/Native American,190,98,17.1,17.8,18.1,18,17.9,52,27.4,118,62.1
+750,Rutherford County,72,Oakland High School,Economically Disadvantaged,189,99,17.9,18.3,18.7,18.8,18.5,62,32.8,109,57.7
+750,Rutherford County,72,Oakland High School,English Learners,20,100,14.2,17.8,15,17.6,16.4,3,15,15,75
+750,Rutherford County,72,Oakland High School,Students with Disabilities,52,95,13.4,15.6,14.5,15.8,15,3,5.8,47,90.4
+750,Rutherford County,74,Riverdale High School,All Students,474,99,20.7,19.3,20.9,20.6,20.6,226,47.7,177,37.3
+750,Rutherford County,74,Riverdale High School,Black/Hispanic/Native American,129,99,17.6,17.4,17.9,18.5,18,32,24.8,79,61.2
+750,Rutherford County,74,Riverdale High School,Economically Disadvantaged,122,98,18.3,17.9,18.7,18.9,18.6,34,27.9,66,54.1
+750,Rutherford County,74,Riverdale High School,English Learners,9,*,*,*,*,*,*,*,*,*,*
+750,Rutherford County,74,Riverdale High School,Students with Disabilities,47,98,15.1,16,15.7,17.1,16.1,5,10.6,40,85.1
+750,Rutherford County,98,Smyrna High School,All Students,439,100,18.5,19.2,19.6,19.7,19.4,139,31.7,232,52.8
+750,Rutherford County,98,Smyrna High School,Black/Hispanic/Native American,183,100,16.9,18.2,18.1,18.5,18.1,31,16.9,125,68.3
+750,Rutherford County,98,Smyrna High School,Economically Disadvantaged,181,99,17.4,18.4,18.6,18.7,18.4,43,23.8,119,65.7
+750,Rutherford County,98,Smyrna High School,English Learners,57,98,12.8,15.8,14.2,16.4,14.9,**,**,**,**
+750,Rutherford County,98,Smyrna High School,Students with Disabilities,43,100,14.3,16.3,15.9,17.5,16.2,3,7,40,93
+750,Rutherford County,104,Siegel High School,All Students,431,100,20.8,20.1,21.4,20.7,20.9,212,49.2,157,36.4
+750,Rutherford County,104,Siegel High School,Black/Hispanic/Native American,111,99,18.3,18.3,19.6,19,18.9,40,36,58,52.3
+750,Rutherford County,104,Siegel High School,Economically Disadvantaged,108,100,17.9,18.4,19,18.5,18.6,34,31.5,59,54.6
+750,Rutherford County,104,Siegel High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+750,Rutherford County,104,Siegel High School,Students with Disabilities,39,100,14.6,15.6,16.3,16.1,15.8,3,7.7,34,87.2
+750,Rutherford County,225,Stewarts Creek High School,All Students,527,99,21.2,20.2,21.7,21.3,21.3,281,53.3,175,33.2
+750,Rutherford County,225,Stewarts Creek High School,Black/Hispanic/Native American,156,98,18.8,18.3,19.3,19,19,50,32.1,79,50.6
+750,Rutherford County,225,Stewarts Creek High School,Economically Disadvantaged,124,98,18.2,18.3,18.7,18.9,18.7,38,30.6,65,52.4
+750,Rutherford County,225,Stewarts Creek High School,English Learners,20,95,15.2,16.2,16.3,15.8,16.1,2,10,17,85
+750,Rutherford County,225,Stewarts Creek High School,Students with Disabilities,34,100,14.6,15.7,16.3,16.5,16,2,5.9,29,85.3
+760,Scott County,48,Scott High School,All Students,179,99,18.3,17.9,19.4,18.3,18.6,58,32.4,98,54.7
+760,Scott County,48,Scott High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+760,Scott County,48,Scott High School,Economically Disadvantaged,86,99,17.3,17.3,18.5,17.8,17.9,23,26.7,53,61.6
+760,Scott County,48,Scott High School,Students with Disabilities,10,91,13.7,14.9,13.9,14.3,14.3,**,**,**,**
+761,Oneida,10,Oneida High School,All Students,81,95,18.4,19.1,19.9,20,19.5,34,42,34,42
+761,Oneida,10,Oneida High School,Economically Disadvantaged,28,88,15.5,17.8,16.8,17.4,17,4,14.3,18,64.3
+761,Oneida,10,Oneida High School,Students with Disabilities,10,100,9.8,14.4,12,14.3,12.6,**,**,**,**
+770,Sequatchie County,20,Sequatchie Co High School,All Students,152,99,18.4,18.4,19.7,19.3,19.1,55,36.2,75,49.3
+770,Sequatchie County,20,Sequatchie Co High School,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+770,Sequatchie County,20,Sequatchie Co High School,Economically Disadvantaged,68,100,17.4,18.1,18.8,18.4,18.3,22,32.4,38,55.9
+770,Sequatchie County,20,Sequatchie Co High School,Students with Disabilities,18,100,12.4,14.5,13.7,13.5,13.8,**,**,**,**
+780,Sevier County,20,Gatlinburg Pittman High,All Students,137,98,22.9,21.7,23.9,21.8,22.8,78,56.9,39,28.5
+780,Sevier County,20,Gatlinburg Pittman High,Black/Hispanic/Native American,12,92,16.8,17.3,20.3,16.8,17.8,4,33.3,7,58.3
+780,Sevier County,20,Gatlinburg Pittman High,Economically Disadvantaged,54,98,21.1,20.2,22.6,20.6,21.3,25,46.3,15,27.8
+780,Sevier County,20,Gatlinburg Pittman High,English Learners,7,*,*,*,*,*,*,*,*,*,*
+780,Sevier County,20,Gatlinburg Pittman High,Students with Disabilities,13,100,15.7,16.1,17.8,16.5,16.7,2,15.4,9,69.2
+780,Sevier County,30,Northview Senior Academy,All Students,172,99,18,18.4,19.3,18.6,18.8,53,30.8,91,52.9
+780,Sevier County,30,Northview Senior Academy,Black/Hispanic/Native American,11,100,16.7,19.2,18.3,18.1,18.4,3,27.3,6,54.5
+780,Sevier County,30,Northview Senior Academy,Economically Disadvantaged,58,98,16.2,17.2,18.1,17.3,17.4,8,13.8,38,65.5
+780,Sevier County,30,Northview Senior Academy,English Learners,2,*,*,*,*,*,*,*,*,*,*
+780,Sevier County,30,Northview Senior Academy,Students with Disabilities,12,92,14.7,16.2,16.1,16.3,15.9,2,16.7,9,75
+780,Sevier County,46,Pigeon Forge High School,All Students,148,99,18.9,18.8,19.6,19.4,19.3,56,37.8,78,52.7
+780,Sevier County,46,Pigeon Forge High School,Black/Hispanic/Native American,33,100,14,16,15.1,15.9,15.3,3,9.1,28,84.8
+780,Sevier County,46,Pigeon Forge High School,Economically Disadvantaged,58,100,16.8,17.1,18.3,17.7,17.6,12,20.7,42,72.4
+780,Sevier County,46,Pigeon Forge High School,English Learners,13,100,12.4,14.5,13.1,14.8,13.8,**,**,**,**
+780,Sevier County,46,Pigeon Forge High School,Students with Disabilities,11,100,13.4,14.5,16.5,16.5,15.4,1,9.1,9,81.8
+780,Sevier County,52,Gary Hardin Academy,All Students,72,77,16.2,16.6,17,16.5,16.7,13,18.1,55,76.4
+780,Sevier County,52,Gary Hardin Academy,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+780,Sevier County,52,Gary Hardin Academy,Economically Disadvantaged,36,75,15.4,16.2,15.8,15.6,15.8,4,11.1,31,86.1
+780,Sevier County,52,Gary Hardin Academy,English Learners,5,*,*,*,*,*,*,*,*,*,*
+780,Sevier County,52,Gary Hardin Academy,Students with Disabilities,5,*,*,*,*,*,*,*,*,*,*
+780,Sevier County,55,Sevier County High School,All Students,220,97,20.3,19.8,20.6,20.3,20.4,99,45,92,41.8
+780,Sevier County,55,Sevier County High School,Black/Hispanic/Native American,42,100,15.5,17,17,17.6,16.9,6,14.3,32,76.2
+780,Sevier County,55,Sevier County High School,Economically Disadvantaged,76,96,18.9,18.7,18.9,19.3,19.1,27,35.5,42,55.3
+780,Sevier County,55,Sevier County High School,English Learners,16,100,11.6,15,14,13.7,13.8,**,**,**,**
+780,Sevier County,55,Sevier County High School,Students with Disabilities,24,86,16.4,16,16.8,18,17,5,20.8,17,70.8
+780,Sevier County,70,Seymour High School,All Students,206,99,20.6,20.5,21.7,21.1,21.2,110,53.4,59,28.6
+780,Sevier County,70,Seymour High School,Black/Hispanic/Native American,8,*,*,*,*,*,*,*,*,*,*
+780,Sevier County,70,Seymour High School,Economically Disadvantaged,39,100,19.1,19.5,20.7,19.9,20,17,43.6,10,25.6
+780,Sevier County,70,Seymour High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+780,Sevier County,70,Seymour High School,Students with Disabilities,10,100,13.2,17.1,14.6,17.6,15.8,**,**,**,**
+792,Shelby County,35,Bolton High,All Students,213,100,17.2,17.2,18.3,17.4,17.7,47,22.1,142,66.7
+792,Shelby County,35,Bolton High,Black/Hispanic/Native American,185,100,16.5,16.8,17.6,16.9,17.1,33,17.8,131,70.8
+792,Shelby County,35,Bolton High,Economically Disadvantaged,98,100,15.4,16.4,16.8,16.3,16.4,11,11.2,77,78.6
+792,Shelby County,35,Bolton High,English Learners,2,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,35,Bolton High,Students with Disabilities,21,100,12.2,14.7,13.9,15.3,14.2,**,**,**,**
+792,Shelby County,110,Germantown High,All Students,508,100,19.9,19.7,21.2,20.3,20.4,220,43.3,211,41.5
+792,Shelby County,110,Germantown High,Black/Hispanic/Native American,400,100,18.7,18.7,20.2,19.3,19.4,144,36,189,47.3
+792,Shelby County,110,Germantown High,Economically Disadvantaged,132,100,18.1,18.7,19.8,19.1,19.1,47,35.6,70,53
+792,Shelby County,110,Germantown High,English Learners,24,100,14.7,17,16.3,17.1,16.4,3,12.5,19,79.2
+792,Shelby County,110,Germantown High,Students with Disabilities,45,100,13.6,15.5,15.4,16,15.2,**,**,**,**
+792,Shelby County,178,Southwind High,All Students,340,100,15,16.9,17,17,16.6,52,15.3,253,74.4
+792,Shelby County,178,Southwind High,Black/Hispanic/Native American,336,100,15,16.9,17,17,16.6,51,15.2,250,74.4
+792,Shelby County,178,Southwind High,Economically Disadvantaged,156,100,14.4,16.5,16.3,16.5,16.1,20,12.8,126,80.8
+792,Shelby County,178,Southwind High,English Learners,13,100,11.7,15.6,14.8,14.5,14.3,**,**,**,**
+792,Shelby County,178,Southwind High,Students with Disabilities,30,100,11.3,15.4,13.3,14.7,13.8,**,**,**,**
+792,Shelby County,2030,B. T. Washington High,All Students,67,100,13.3,15.1,15.2,14.7,14.8,**,**,**,**
+792,Shelby County,2030,B. T. Washington High,Black/Hispanic/Native American,67,100,13.3,15.1,15.2,14.7,14.8,**,**,**,**
+792,Shelby County,2030,B. T. Washington High,Economically Disadvantaged,60,100,13.3,15.2,15,14.6,14.7,**,**,**,**
+792,Shelby County,2030,B. T. Washington High,Students with Disabilities,13,100,12,15,13.5,13.5,13.7,**,**,**,**
+792,Shelby County,2090,Central High,All Students,338,99,17.4,17.9,19.2,18.5,18.4,102,30.2,182,53.8
+792,Shelby County,2090,Central High,Black/Hispanic/Native American,305,99,17,17.6,18.8,18.2,18,81,26.6,173,56.7
+792,Shelby County,2090,Central High,Economically Disadvantaged,184,98,15.3,16.9,17,17.1,16.7,28,15.2,128,69.6
+792,Shelby County,2090,Central High,English Learners,12,100,14.4,17.6,17.3,17.3,16.8,2,16.7,8,66.7
+792,Shelby County,2090,Central High,Students with Disabilities,29,97,12.7,15.1,15.4,15.7,14.9,2,6.9,24,82.8
+792,Shelby County,2119,Cordova High School,All Students,535,100,16.1,16.9,17.8,17.3,17.2,106,19.8,368,68.8
+792,Shelby County,2119,Cordova High School,Black/Hispanic/Native American,463,100,15.6,16.5,17.1,16.8,16.7,69,14.9,340,73.4
+792,Shelby County,2119,Cordova High School,Economically Disadvantaged,229,100,15.4,16.2,17,16.9,16.5,31,13.5,174,76
+792,Shelby County,2119,Cordova High School,English Learners,44,100,13.3,15.7,15,15.3,15,3,6.8,40,90.9
+792,Shelby County,2119,Cordova High School,Students with Disabilities,60,100,12.5,14.7,14.4,14.4,14.2,**,**,**,**
+792,Shelby County,2126,Craigmont High,All Students,194,100,15.2,16.2,16.4,16.1,16.1,22,11.3,150,77.3
+792,Shelby County,2126,Craigmont High,Black/Hispanic/Native American,192,100,15,16.2,16.3,16,16,21,10.9,149,77.6
+792,Shelby County,2126,Craigmont High,Economically Disadvantaged,133,100,14.4,16,15.8,15.5,15.5,11,8.3,111,83.5
+792,Shelby County,2126,Craigmont High,English Learners,5,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2126,Craigmont High,Students with Disabilities,14,100,11.1,14.3,12.8,13.8,13.1,**,**,**,**
+792,Shelby County,2160,Douglass High,All Students,113,98,13.5,16,15.2,15.7,15.3,6,5.3,104,92
+792,Shelby County,2160,Douglass High,Black/Hispanic/Native American,113,99,13.5,16,15.2,15.7,15.3,6,5.3,104,92
+792,Shelby County,2160,Douglass High,Economically Disadvantaged,88,100,13.1,15.6,14.9,15.3,14.9,**,**,**,**
+792,Shelby County,2160,Douglass High,English Learners,3,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2160,Douglass High,Students with Disabilities,16,100,10.4,14.5,12.3,12.9,12.7,**,**,**,**
+792,Shelby County,2180,East High,All Students,82,100,14,15.8,16.4,15.9,15.7,9,11,66,80.5
+792,Shelby County,2180,East High,Black/Hispanic/Native American,80,100,13.8,15.8,16.2,15.7,15.5,7,8.8,66,82.5
+792,Shelby County,2180,East High,Economically Disadvantaged,66,100,13.8,15.5,15.9,15.4,15.3,6,9.1,56,84.8
+792,Shelby County,2180,East High,English Learners,6,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2180,East High,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2317,Hamilton High,All Students,118,100,13.1,15.2,14.7,14.1,14.4,**,**,**,**
+792,Shelby County,2317,Hamilton High,Black/Hispanic/Native American,118,100,13.1,15.2,14.7,14.1,14.4,**,**,**,**
+792,Shelby County,2317,Hamilton High,Economically Disadvantaged,102,100,13,15.3,14.8,14.1,14.5,**,**,**,**
+792,Shelby County,2317,Hamilton High,Students with Disabilities,18,100,10.9,14.4,12.8,13.7,13.2,**,**,**,**
+792,Shelby County,2338,Hollis F. Price Middle College,All Students,28,100,19.3,19.6,21.3,19.1,20.1,10,35.7,11,39.3
+792,Shelby County,2338,Hollis F. Price Middle College,Black/Hispanic/Native American,28,100,19.3,19.6,21.3,19.1,20.1,10,35.7,11,39.3
+792,Shelby County,2338,Hollis F. Price Middle College,Economically Disadvantaged,14,100,17.1,18.9,19.4,17.7,18.6,3,21.4,8,57.1
+792,Shelby County,2338,Hollis F. Price Middle College,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2375,Kingsbury High,All Students,282,99,14.1,16.2,16.1,16.2,15.8,28,9.9,231,81.9
+792,Shelby County,2375,Kingsbury High,Black/Hispanic/Native American,253,100,14.1,16.2,16,16,15.7,25,9.9,209,82.6
+792,Shelby County,2375,Kingsbury High,Economically Disadvantaged,171,100,14.4,16.2,16.6,16.4,16,16,9.4,138,80.7
+792,Shelby County,2375,Kingsbury High,English Learners,72,97,11.8,15.1,14,14.8,14.1,**,**,**,**
+792,Shelby County,2375,Kingsbury High,Students with Disabilities,35,100,11.7,15,13.9,14.1,13.9,**,**,**,**
+792,Shelby County,2379,Kirby High,All Students,186,100,13.5,15.9,15.5,15.6,15.3,11,5.9,164,88.2
+792,Shelby County,2379,Kirby High,Black/Hispanic/Native American,186,100,13.5,15.9,15.5,15.6,15.3,11,5.9,164,88.2
+792,Shelby County,2379,Kirby High,Economically Disadvantaged,138,100,13.4,15.9,15.5,15.5,15.3,**,**,**,**
+792,Shelby County,2379,Kirby High,English Learners,10,100,10.5,13.6,11.3,13.5,12.4,**,**,**,**
+792,Shelby County,2379,Kirby High,Students with Disabilities,30,100,11.8,15.1,15,14.5,14.4,**,**,**,**
+792,Shelby County,2480,Manassas High,All Students,112,99,12.6,15.5,14.9,15.1,14.7,6,5.4,100,89.3
+792,Shelby County,2480,Manassas High,Black/Hispanic/Native American,112,99,12.6,15.5,14.9,15.1,14.7,6,5.4,100,89.3
+792,Shelby County,2480,Manassas High,Economically Disadvantaged,91,99,12.7,15.5,14.7,15.2,14.7,**,**,**,**
+792,Shelby County,2480,Manassas High,English Learners,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2480,Manassas High,Students with Disabilities,19,100,8.5,13.9,12.1,13.3,12.2,**,**,**,**
+792,Shelby County,2493,Melrose High,All Students,100,100,14.2,16.6,15.9,16.2,15.9,5,5,84,84
+792,Shelby County,2493,Melrose High,Black/Hispanic/Native American,100,100,14.2,16.6,15.9,16.2,15.9,5,5,84,84
+792,Shelby County,2493,Melrose High,Economically Disadvantaged,95,100,14.2,16.5,16,16.3,15.9,5,5.3,79,83.2
+792,Shelby County,2493,Melrose High,Students with Disabilities,12,100,11.3,14.9,12.8,14.2,13.5,**,**,**,**
+792,Shelby County,2515,Middle College High,All Students,79,100,22.3,22.4,23.9,22.6,22.9,64,81,10,12.7
+792,Shelby County,2515,Middle College High,Black/Hispanic/Native American,73,100,21.6,21.8,23.5,22.1,22.4,58,79.5,10,13.7
+792,Shelby County,2515,Middle College High,Economically Disadvantaged,19,100,21.4,22.9,23.4,22.3,22.6,16,84.2,3,15.8
+792,Shelby County,2515,Middle College High,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2520,Mitchell High,All Students,110,98,14.2,16.3,15.4,15.3,15.4,7,6.4,95,86.4
+792,Shelby County,2520,Mitchell High,Black/Hispanic/Native American,110,98,14.2,16.3,15.4,15.3,15.4,7,6.4,95,86.4
+792,Shelby County,2520,Mitchell High,Economically Disadvantaged,82,99,13.7,15.9,15.1,15,15,**,**,**,**
+792,Shelby County,2520,Mitchell High,Students with Disabilities,10,100,11.4,14.6,12.3,13.1,12.9,**,**,**,**
+792,Shelby County,2535,Northside High School,All Students,2,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2535,Northside High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2535,Northside High School,Economically Disadvantaged,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2545,Oakhaven High,All Students,60,100,12.6,15.5,14.8,14.8,14.6,**,**,**,**
+792,Shelby County,2545,Oakhaven High,Black/Hispanic/Native American,60,100,12.6,15.5,14.8,14.8,14.6,**,**,**,**
+792,Shelby County,2545,Oakhaven High,Economically Disadvantaged,40,100,12.4,15.4,14.9,15,14.5,**,**,**,**
+792,Shelby County,2545,Oakhaven High,English Learners,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2545,Oakhaven High,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2565,Overton High,All Students,233,100,17.8,17.3,18.6,17.7,18,56,24,135,57.9
+792,Shelby County,2565,Overton High,Black/Hispanic/Native American,217,100,17.6,17,18.4,17.5,17.8,47,21.7,129,59.4
+792,Shelby County,2565,Overton High,Economically Disadvantaged,135,100,16.5,16.7,17.7,16.7,17.1,21,15.6,89,65.9
+792,Shelby County,2565,Overton High,English Learners,21,100,12.9,16.1,13.8,15.6,14.7,**,**,**,**
+792,Shelby County,2565,Overton High,Students with Disabilities,25,96,15.5,15.9,17.6,16.4,16.6,4,16,19,76
+792,Shelby County,2598,Raleigh-Egypt High,All Students,129,99,14.6,16.5,16.7,16.6,16.3,11,8.5,105,81.4
+792,Shelby County,2598,Raleigh-Egypt High,Black/Hispanic/Native American,128,99,14.6,16.5,16.7,16.6,16.3,11,8.6,104,81.3
+792,Shelby County,2598,Raleigh-Egypt High,Economically Disadvantaged,102,100,14.8,16.6,16.7,16.7,16.3,10,9.8,83,81.4
+792,Shelby County,2598,Raleigh-Egypt High,English Learners,3,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2598,Raleigh-Egypt High,Students with Disabilities,11,100,14.1,14.6,15.5,15.5,15.1,1,9.1,10,90.9
+792,Shelby County,2615,Ridgeway High,All Students,260,99,15.9,17,17.9,17.3,17.2,51,19.6,179,68.8
+792,Shelby County,2615,Ridgeway High,Black/Hispanic/Native American,253,99,15.8,16.9,17.8,17.2,17.1,48,19,176,69.6
+792,Shelby County,2615,Ridgeway High,Economically Disadvantaged,145,100,14.8,16.3,16.9,16.6,16.3,17,11.7,112,77.2
+792,Shelby County,2615,Ridgeway High,English Learners,7,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2615,Ridgeway High,Students with Disabilities,19,100,12.8,14.7,15.7,15.1,14.8,1,5.3,18,94.7
+792,Shelby County,2660,Sheffield High,All Students,129,96,12.2,15.1,13.8,13.7,13.9,**,**,**,**
+792,Shelby County,2660,Sheffield High,Black/Hispanic/Native American,129,96,12.2,15.1,13.8,13.7,13.9,**,**,**,**
+792,Shelby County,2660,Sheffield High,Economically Disadvantaged,90,94,12.1,15,13.8,13.8,13.8,**,**,**,**
+792,Shelby County,2660,Sheffield High,English Learners,20,100,10,14.8,12.5,12.6,12.7,**,**,**,**
+792,Shelby County,2660,Sheffield High,Students with Disabilities,23,85,10,14.2,11.4,12.2,12,**,**,**,**
+792,Shelby County,2725,Trezevant High,All Students,90,97,12.6,15,14.4,14.4,14.2,**,**,**,**
+792,Shelby County,2725,Trezevant High,Black/Hispanic/Native American,90,97,12.6,15,14.4,14.4,14.2,**,**,**,**
+792,Shelby County,2725,Trezevant High,Economically Disadvantaged,83,97,12.6,15,14.3,14.3,14.2,**,**,**,**
+792,Shelby County,2725,Trezevant High,English Learners,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2725,Trezevant High,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2770,Westwood High,All Students,89,99,15.3,16.2,16.4,16,16.1,9,10.1,72,80.9
+792,Shelby County,2770,Westwood High,Black/Hispanic/Native American,89,99,15.3,16.2,16.4,16,16.1,9,10.1,72,80.9
+792,Shelby County,2770,Westwood High,Economically Disadvantaged,79,100,15.3,16.1,16.5,16,16.1,9,11.4,64,81
+792,Shelby County,2770,Westwood High,Students with Disabilities,15,100,11.6,15.4,13.8,14.2,13.9,**,**,**,**
+792,Shelby County,2780,White Station High,All Students,486,99,23,21.7,23.7,22.2,22.8,290,59.7,155,31.9
+792,Shelby County,2780,White Station High,Black/Hispanic/Native American,276,99,19.5,19.1,20.6,19.6,19.8,115,41.7,132,47.8
+792,Shelby County,2780,White Station High,Economically Disadvantaged,143,100,19.2,18.9,20.6,19.8,19.8,56,39.2,71,49.7
+792,Shelby County,2780,White Station High,English Learners,15,94,14.1,17.1,18.1,17.7,16.9,2,13.3,11,73.3
+792,Shelby County,2780,White Station High,Students with Disabilities,44,98,16.2,17.4,18,17.7,17.5,10,22.7,30,68.2
+792,Shelby County,2790,Whitehaven High,All Students,390,100,16.9,17,18.2,17.4,17.6,77,19.7,252,64.6
+792,Shelby County,2790,Whitehaven High,Black/Hispanic/Native American,390,100,16.9,17,18.2,17.4,17.6,77,19.7,252,64.6
+792,Shelby County,2790,Whitehaven High,Economically Disadvantaged,230,100,16,16.6,17.3,17,16.9,32,13.9,164,71.3
+792,Shelby County,2790,Whitehaven High,English Learners,2,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2790,Whitehaven High,Students with Disabilities,43,100,11.9,14.7,14.2,14.8,14.1,**,**,**,**
+792,Shelby County,2815,Wooddale High,All Students,146,99,14,15.9,15.8,15.1,15.4,**,**,**,**
+792,Shelby County,2815,Wooddale High,Black/Hispanic/Native American,144,99,13.9,15.9,15.8,15.1,15.4,**,**,**,**
+792,Shelby County,2815,Wooddale High,Economically Disadvantaged,106,99,14,15.8,16,15.2,15.4,**,**,**,**
+792,Shelby County,2815,Wooddale High,English Learners,12,100,11.6,15.4,13.8,13.8,13.9,**,**,**,**
+792,Shelby County,2815,Wooddale High,Students with Disabilities,18,95,11.2,15,13.8,14.1,13.7,**,**,**,**
+792,Shelby County,2824,Northwest Prep Academy,All Students,58,100,12.1,14.9,13.7,13.5,13.7,**,**,**,**
+792,Shelby County,2824,Northwest Prep Academy,Black/Hispanic/Native American,57,100,12.1,14.9,13.6,13.4,13.6,**,**,**,**
+792,Shelby County,2824,Northwest Prep Academy,Economically Disadvantaged,47,100,11.9,14.9,13.5,13.4,13.5,**,**,**,**
+792,Shelby County,2824,Northwest Prep Academy,English Learners,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,2824,Northwest Prep Academy,Students with Disabilities,10,100,10.6,14.3,11.8,13.2,12.5,**,**,**,**
+792,Shelby County,2832,Memphis Virtual School,All Students,33,83,17.2,17,19.2,17.6,17.9,7,21.2,20,60.6
+792,Shelby County,2832,Memphis Virtual School,Black/Hispanic/Native American,26,81,16.2,16.7,18,16.9,17.1,3,11.5,18,69.2
+792,Shelby County,2832,Memphis Virtual School,Economically Disadvantaged,23,92,16.7,16.8,19,17.4,17.7,4,17.4,14,60.9
+792,Shelby County,2832,Memphis Virtual School,English Learners,0,0,,,,,,0,,0,
+792,Shelby County,2832,Memphis Virtual School,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8202,KIPP Memphis Collegiate High School,All Students,66,100,15.9,15.8,17.1,16,16.3,9,13.6,53,80.3
+792,Shelby County,8202,KIPP Memphis Collegiate High School,Black/Hispanic/Native American,66,100,15.9,15.8,17.1,16,16.3,9,13.6,53,80.3
+792,Shelby County,8202,KIPP Memphis Collegiate High School,Economically Disadvantaged,52,100,15.5,15.7,16.5,15.3,15.8,5,9.6,45,86.5
+792,Shelby County,8202,KIPP Memphis Collegiate High School,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8204,City University School Of Liberal Arts,All Students,50,100,14.3,15.8,15.8,15.7,15.6,3,6,44,88
+792,Shelby County,8204,City University School Of Liberal Arts,Black/Hispanic/Native American,50,100,14.3,15.8,15.8,15.7,15.6,3,6,44,88
+792,Shelby County,8204,City University School Of Liberal Arts,Economically Disadvantaged,28,100,13.9,15.6,15.8,15.4,15.3,**,**,**,**
+792,Shelby County,8204,City University School Of Liberal Arts,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8205,Memphis Academy Of Science  Engineering Middle/High,All Students,69,100,15.9,16.8,16.9,16.7,16.7,10,14.5,52,75.4
+792,Shelby County,8205,Memphis Academy Of Science  Engineering Middle/High,Black/Hispanic/Native American,69,100,15.9,16.8,16.9,16.7,16.7,10,14.5,52,75.4
+792,Shelby County,8205,Memphis Academy Of Science  Engineering Middle/High,Economically Disadvantaged,47,100,16.3,17.3,17.5,17.3,17.3,9,19.1,33,70.2
+792,Shelby County,8205,Memphis Academy Of Science  Engineering Middle/High,English Learners,3,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8205,Memphis Academy Of Science  Engineering Middle/High,Students with Disabilities,15,100,13.1,14.7,15.3,14.3,14.5,1,6.7,14,93.3
+792,Shelby County,8206,Power Center Academy High School,All Students,122,100,16.2,16.7,17.7,17.9,17.4,19,15.6,80,65.6
+792,Shelby County,8206,Power Center Academy High School,Black/Hispanic/Native American,122,100,16.2,16.7,17.7,17.9,17.4,19,15.6,80,65.6
+792,Shelby County,8206,Power Center Academy High School,Economically Disadvantaged,58,100,14.9,16,16.8,17,16.5,6,10.3,43,74.1
+792,Shelby County,8206,Power Center Academy High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8206,Power Center Academy High School,Students with Disabilities,13,100,11.8,14.3,13.9,15.2,13.9,**,**,**,**
+792,Shelby County,8213,Memphis Academy of Health Sciences High School,All Students,97,99,18,15.7,16.7,17.3,17.1,9,9.3,70,72.2
+792,Shelby County,8213,Memphis Academy of Health Sciences High School,Black/Hispanic/Native American,97,99,18,15.7,16.7,17.3,17.1,9,9.3,70,72.2
+792,Shelby County,8213,Memphis Academy of Health Sciences High School,Economically Disadvantaged,53,100,17.5,15.5,17.1,17.2,16.9,5,9.4,38,71.7
+792,Shelby County,8213,Memphis Academy of Health Sciences High School,Students with Disabilities,10,100,14.2,14.9,13.1,14.6,14.4,**,**,**,**
+792,Shelby County,8217,Memphis Business Academy High School,All Students,86,100,17.5,17.4,17.8,18.1,18,18,20.9,51,59.3
+792,Shelby County,8217,Memphis Business Academy High School,Black/Hispanic/Native American,86,100,17.5,17.4,17.8,18.1,18,18,20.9,51,59.3
+792,Shelby County,8217,Memphis Business Academy High School,Economically Disadvantaged,55,100,17.3,17.2,17.8,17.9,17.8,11,20,34,61.8
+792,Shelby County,8217,Memphis Business Academy High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8217,Memphis Business Academy High School,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8232,Soulsville Charter School,All Students,69,99,17.3,17.2,18.1,17.5,17.8,11,15.9,44,63.8
+792,Shelby County,8232,Soulsville Charter School,Black/Hispanic/Native American,69,99,17.3,17.2,18.1,17.5,17.8,11,15.9,44,63.8
+792,Shelby County,8232,Soulsville Charter School,Economically Disadvantaged,50,98,16.7,16.6,17.6,17.2,17.2,4,8,36,72
+792,Shelby County,8232,Soulsville Charter School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8234,Freedom Preparatory Academy,All Students,86,100,18.8,19.4,19.8,19,19.4,32,37.2,38,44.2
+792,Shelby County,8234,Freedom Preparatory Academy,Black/Hispanic/Native American,86,100,18.8,19.4,19.8,19,19.4,32,37.2,38,44.2
+792,Shelby County,8234,Freedom Preparatory Academy,Economically Disadvantaged,49,100,17.6,18.6,18.9,18.1,18.5,16,32.7,26,53.1
+792,Shelby County,8234,Freedom Preparatory Academy,English Learners,1,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8234,Freedom Preparatory Academy,Students with Disabilities,14,100,14.6,16.5,16.6,17.6,16.6,2,14.3,10,71.4
+792,Shelby County,8252,Memphis School of Excellence,All Students,46,100,18.1,18.3,18.8,18.1,18.5,10,21.7,28,60.9
+792,Shelby County,8252,Memphis School of Excellence,Black/Hispanic/Native American,44,100,18,18.2,18.8,18,18.4,9,20.5,27,61.4
+792,Shelby County,8252,Memphis School of Excellence,Economically Disadvantaged,28,100,17.9,17.8,18.1,17.8,18.1,5,17.9,20,71.4
+792,Shelby County,8252,Memphis School of Excellence,English Learners,3,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8252,Memphis School of Excellence,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8265,City University School of Independence,All Students,16,100,18.1,18.4,19.4,18.1,18.6,3,18.8,9,56.3
+792,Shelby County,8265,City University School of Independence,Black/Hispanic/Native American,16,100,18.1,18.4,19.4,18.1,18.6,3,18.8,9,56.3
+792,Shelby County,8265,City University School of Independence,Economically Disadvantaged,9,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8275,The Excel Center,All Students,7,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8275,The Excel Center,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+792,Shelby County,8275,The Excel Center,Economically Disadvantaged,7,*,*,*,*,*,*,*,*,*,*
+793,Arlington,1,Arlington High,All Students,495,99,22.6,21.4,23.9,22.4,22.8,321,64.8,112,22.6
+793,Arlington,1,Arlington High,Black/Hispanic/Native American,110,99,20.3,19.1,21.4,19.9,20.4,50,45.5,43,39.1
+793,Arlington,1,Arlington High,Economically Disadvantaged,45,98,18.8,19,19.5,19.3,19.4,17,37.8,25,55.6
+793,Arlington,1,Arlington High,English Learners,10,91,14.8,17.2,16.9,16.9,16.7,2,20,7,70
+793,Arlington,1,Arlington High,Students with Disabilities,38,100,15.2,16.9,16.4,17,16.6,7,18.4,29,76.3
+794,Bartlett,25,Bartlett High School,All Students,592,100,21.5,20.5,22,21.2,21.5,318,53.7,181,30.6
+794,Bartlett,25,Bartlett High School,Black/Hispanic/Native American,227,100,19.4,18.8,19.7,19.4,19.5,90,39.6,101,44.5
+794,Bartlett,25,Bartlett High School,Economically Disadvantaged,121,99,18.7,18.6,19.3,19,19,39,32.2,58,47.9
+794,Bartlett,25,Bartlett High School,English Learners,8,*,*,*,*,*,*,*,*,*,*
+794,Bartlett,25,Bartlett High School,Students with Disabilities,60,100,14.9,16.5,16.3,16.9,16.2,5,8.3,52,86.7
+795,Collierville,60,Collierville High School,All Students,613,100,25.3,23.6,25.3,24,24.7,480,78.3,89,14.5
+795,Collierville,60,Collierville High School,Black/Hispanic/Native American,156,99,20.8,20.1,21.4,20.3,20.8,80,51.3,54,34.6
+795,Collierville,60,Collierville High School,Economically Disadvantaged,47,98,17.8,17.9,19,18.2,18.4,14,29.8,24,51.1
+795,Collierville,60,Collierville High School,English Learners,7,*,*,*,*,*,*,*,*,*,*
+795,Collierville,60,Collierville High School,Students with Disabilities,75,100,18.1,18.2,19.5,18.7,18.8,28,37.3,40,53.3
+796,Germantown,111,Houston High School,All Students,413,100,27,24.9,27.2,25.6,26.3,356,86.2,27,6.5
+796,Germantown,111,Houston High School,Black/Hispanic/Native American,70,100,24.2,22.3,25,22.8,23.7,52,74.3,9,12.9
+796,Germantown,111,Houston High School,Economically Disadvantaged,21,100,26,22.7,23.9,24,24.3,16,76.2,3,14.3
+796,Germantown,111,Houston High School,English Learners,7,*,*,*,*,*,*,*,*,*,*
+796,Germantown,111,Houston High School,Students with Disabilities,23,100,19.8,19,20.3,19.3,19.9,9,39.1,10,43.5
+798,Millington Municipal Schools,130,Millington Central High School,All Students,208,100,17.3,18.1,19,18.6,18.4,62,29.8,125,60.1
+798,Millington Municipal Schools,130,Millington Central High School,Black/Hispanic/Native American,123,100,15.9,17,17.6,17.5,17.2,23,18.7,88,71.5
+798,Millington Municipal Schools,130,Millington Central High School,Economically Disadvantaged,101,100,15.8,17.2,17.8,17.9,17.3,20,19.8,71,70.3
+798,Millington Municipal Schools,130,Millington Central High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+798,Millington Municipal Schools,130,Millington Central High School,Students with Disabilities,32,100,13.1,15.2,13.9,14.4,14.3,**,**,**,**
+800,Smith County,25,Gordonsville High School,All Students,75,97,18.9,18.4,21,19.4,19.6,33,44,31,41.3
+800,Smith County,25,Gordonsville High School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+800,Smith County,25,Gordonsville High School,Economically Disadvantaged,22,96,15.8,17,17.7,18,17.3,5,22.7,14,63.6
+800,Smith County,25,Gordonsville High School,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+800,Smith County,45,Smith County High School,All Students,145,97,18,19,19.7,19.8,19.3,45,31,79,54.5
+800,Smith County,45,Smith County High School,Black/Hispanic/Native American,15,94,14.4,16.6,16.6,17.3,16.4,1,6.7,12,80
+800,Smith County,45,Smith County High School,Economically Disadvantaged,55,96,16.2,17.6,18.1,18.4,17.7,8,14.5,39,70.9
+800,Smith County,45,Smith County High School,Students with Disabilities,19,95,12.3,14.9,15.3,16.1,14.8,1,5.3,18,94.7
+810,Stewart County,25,Stewart Co High School,All Students,171,100,19.2,19.7,20.5,20,19.9,83,48.5,74,43.3
+810,Stewart County,25,Stewart Co High School,Black/Hispanic/Native American,10,100,16.2,18.4,18,17.6,17.8,4,40,6,60
+810,Stewart County,25,Stewart Co High School,Economically Disadvantaged,52,100,16.3,17.8,17.8,17.7,17.3,16,30.8,33,63.5
+810,Stewart County,25,Stewart Co High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+810,Stewart County,25,Stewart Co High School,Students with Disabilities,25,100,13,15.7,14.4,15.5,14.8,2,8,23,92
+820,Sullivan County,60,Sullivan Central High School,All Students,174,97,20,19.6,20.9,20.7,20.5,78,44.8,71,40.8
+820,Sullivan County,60,Sullivan Central High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+820,Sullivan County,60,Sullivan Central High School,Economically Disadvantaged,55,95,17.7,18.3,19.1,19.3,18.7,18,32.7,31,56.4
+820,Sullivan County,60,Sullivan Central High School,Students with Disabilities,22,100,13.1,15.7,15.7,15.4,15.1,**,**,**,**
+820,Sullivan County,80,Sullivan East High School,All Students,191,98,19.5,19.5,20.6,20.1,20.1,82,42.9,87,45.5
+820,Sullivan County,80,Sullivan East High School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+820,Sullivan County,80,Sullivan East High School,Economically Disadvantaged,73,97,16.6,17.7,17.8,18.1,17.7,18,24.7,44,60.3
+820,Sullivan County,80,Sullivan East High School,Students with Disabilities,30,97,12.7,15.3,14.9,15.7,14.8,**,**,**,**
+820,Sullivan County,182,Sullivan North High School,All Students,108,98,17.5,18.4,18.7,18.7,18.5,35,32.4,62,57.4
+820,Sullivan County,182,Sullivan North High School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+820,Sullivan County,182,Sullivan North High School,Economically Disadvantaged,50,96,15.3,17.5,16.9,17.7,17,12,24,35,70
+820,Sullivan County,182,Sullivan North High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+820,Sullivan County,182,Sullivan North High School,Students with Disabilities,18,95,11.4,15.4,13.7,15.4,14.2,**,**,**,**
+820,Sullivan County,183,Sullivan South High School,All Students,229,99,20.5,20.3,21.6,21.3,21.1,117,51.1,73,31.9
+820,Sullivan County,183,Sullivan South High School,Black/Hispanic/Native American,5,*,*,*,*,*,*,*,*,*,*
+820,Sullivan County,183,Sullivan South High School,Economically Disadvantaged,61,95,18.3,18.7,20,19.5,19.3,18,29.5,29,47.5
+820,Sullivan County,183,Sullivan South High School,Students with Disabilities,24,96,13.8,15.4,15.4,17.3,15.6,**,**,**,**
+821,Bristol,45,Tennessee High School,All Students,262,98,20.9,20.2,21.8,21.1,21.2,135,51.5,86,32.8
+821,Bristol,45,Tennessee High School,Black/Hispanic/Native American,27,100,18.3,18.2,19.9,19.3,19.1,11,40.7,10,37
+821,Bristol,45,Tennessee High School,Economically Disadvantaged,97,98,17.9,18.1,19.3,18.9,18.8,27,27.8,52,53.6
+821,Bristol,45,Tennessee High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+821,Bristol,45,Tennessee High School,Students with Disabilities,17,94,13.9,14.9,15.4,14.7,15.1,**,**,**,**
+821,Bristol,50,Tennessee Online Public School,All Students,59,95,22.6,19.6,22.7,20.8,21.6,35,59.3,11,18.6
+821,Bristol,50,Tennessee Online Public School,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+821,Bristol,50,Tennessee Online Public School,Economically Disadvantaged,10,100,20.5,17,20.7,20.3,19.7,4,40,3,30
+821,Bristol,50,Tennessee Online Public School,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+822,Kingsport,10,Dobyns - Bennett High School,All Students,497,98,21.3,21.7,22.2,21.8,21.9,283,56.9,158,31.8
+822,Kingsport,10,Dobyns - Bennett High School,Black/Hispanic/Native American,68,100,16.9,18.5,18.5,18.9,18.4,22,32.4,37,54.4
+822,Kingsport,10,Dobyns - Bennett High School,Economically Disadvantaged,177,97,17.2,18.7,18.8,18.5,18.4,55,31.1,92,52
+822,Kingsport,10,Dobyns - Bennett High School,English Learners,7,*,*,*,*,*,*,*,*,*,*
+822,Kingsport,10,Dobyns - Bennett High School,Students with Disabilities,75,99,13.2,15.4,15.3,15.8,15.1,6,8,64,85.3
+830,Sumner County,7,Beech Sr High School,All Students,240,100,20.7,19.6,22.1,20.7,21,118,49.2,93,38.8
+830,Sumner County,7,Beech Sr High School,Black/Hispanic/Native American,53,100,17.9,17.7,19.4,18.5,18.6,13,24.5,28,52.8
+830,Sumner County,7,Beech Sr High School,Economically Disadvantaged,37,100,17,17.2,19.1,18.1,18.1,10,27,25,67.6
+830,Sumner County,7,Beech Sr High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,7,Beech Sr High School,Students with Disabilities,33,100,15.7,16.4,16.5,17.3,16.6,4,12.1,27,81.8
+830,Sumner County,25,Gallatin Senior High School,All Students,318,92,18.5,19,19.3,19.2,19.1,114,35.8,165,51.9
+830,Sumner County,25,Gallatin Senior High School,Black/Hispanic/Native American,133,93,16,17.3,16.9,17.6,17.1,23,17.3,93,69.9
+830,Sumner County,25,Gallatin Senior High School,Economically Disadvantaged,144,94,16.5,17.7,17.4,17.9,17.6,29,20.1,97,67.4
+830,Sumner County,25,Gallatin Senior High School,English Learners,9,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,25,Gallatin Senior High School,Students with Disabilities,47,84,13.6,15.7,15.3,15.4,15.1,3,6.4,42,89.4
+830,Sumner County,40,Hendersonville High School,All Students,354,99,21.9,20.7,22.8,21.3,21.9,202,57.1,93,26.3
+830,Sumner County,40,Hendersonville High School,Black/Hispanic/Native American,69,99,18.7,18.5,19.9,19,19.2,26,37.7,35,50.7
+830,Sumner County,40,Hendersonville High School,Economically Disadvantaged,65,98,18.4,17.7,20.5,18.1,18.8,22,33.8,33,50.8
+830,Sumner County,40,Hendersonville High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,40,Hendersonville High School,Students with Disabilities,41,100,15,16.2,16.1,16,16,7,17.1,32,78
+830,Sumner County,53,Merrol Hyde Magnet School,All Students,57,100,32,27.9,31.3,29.5,30.3,**,**,**,**
+830,Sumner County,53,Merrol Hyde Magnet School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,53,Merrol Hyde Magnet School,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,85,Portland High School,All Students,225,98,18.5,18.4,19.6,19.5,19.2,73,32.4,107,47.6
+830,Sumner County,85,Portland High School,Black/Hispanic/Native American,30,94,16.2,16.6,16.4,17.8,16.9,4,13.3,21,70
+830,Sumner County,85,Portland High School,Economically Disadvantaged,79,98,17.3,17.9,18.5,18.4,18.2,20,25.3,49,62
+830,Sumner County,85,Portland High School,English Learners,0,0,,,,,,0,,0,
+830,Sumner County,85,Portland High School,Students with Disabilities,26,100,13,15.6,15.4,15.9,15.1,2,7.7,21,80.8
+830,Sumner County,93,E B Wilson,All Students,52,100,18.7,17.9,20.9,18.4,19.1,18,34.6,24,46.2
+830,Sumner County,93,E B Wilson,Black/Hispanic/Native American,9,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,93,E B Wilson,Economically Disadvantaged,11,100,17,16.5,17.5,16.7,17,1,9.1,8,72.7
+830,Sumner County,93,E B Wilson,Students with Disabilities,2,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,102,Station Camp High School,All Students,419,99,21.2,21.1,22.3,21.8,21.7,235,56.1,111,26.5
+830,Sumner County,102,Station Camp High School,Black/Hispanic/Native American,64,100,17.7,18.2,19.4,18.6,18.7,20,31.3,36,56.3
+830,Sumner County,102,Station Camp High School,Economically Disadvantaged,53,98,18.1,19.2,20.2,19.6,19.4,20,37.7,28,52.8
+830,Sumner County,102,Station Camp High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,102,Station Camp High School,Students with Disabilities,43,100,15.3,16.4,16.6,16.4,16.4,4,9.3,30,69.8
+830,Sumner County,120,Westmoreland High School,All Students,109,100,20.3,19.7,21,20.1,20.4,52,47.7,40,36.7
+830,Sumner County,120,Westmoreland High School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,120,Westmoreland High School,Economically Disadvantaged,36,100,19.8,19,20.3,19.9,19.9,16,44.4,16,44.4
+830,Sumner County,120,Westmoreland High School,Students with Disabilities,11,100,12.9,15.4,12.4,13.9,13.7,**,**,**,**
+830,Sumner County,125,White House High School,All Students,191,100,20.7,20,21.7,21.1,21,97,50.8,69,36.1
+830,Sumner County,125,White House High School,Black/Hispanic/Native American,18,100,17.2,18.6,18.9,19.5,18.6,8,44.4,9,50
+830,Sumner County,125,White House High School,Economically Disadvantaged,45,100,18.4,18.2,20,18.8,18.9,14,31.1,22,48.9
+830,Sumner County,125,White House High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,125,White House High School,Students with Disabilities,20,100,17.9,18.1,17.8,18.7,18.3,5,25,13,65
+830,Sumner County,155,Sumner County Middle College High School,All Students,26,93,27.2,24.7,28.2,26.5,26.8,**,**,**,**
+830,Sumner County,155,Sumner County Middle College High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,155,Sumner County Middle College High School,Economically Disadvantaged,1,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,1010,Sumner County Middle Technical College High School at Portland,All Students,10,100,15.1,17.2,15.4,15.8,15.9,1,10,9,90
+830,Sumner County,1010,Sumner County Middle Technical College High School at Portland,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,1010,Sumner County Middle Technical College High School at Portland,Economically Disadvantaged,2,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,1010,Sumner County Middle Technical College High School at Portland,English Learners,1,*,*,*,*,*,*,*,*,*,*
+830,Sumner County,1010,Sumner County Middle Technical College High School at Portland,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+840,Tipton County,11,Brighton High School,All Students,297,96,20.7,19.6,20.4,20.3,20.3,136,45.8,128,43.1
+840,Tipton County,11,Brighton High School,Black/Hispanic/Native American,66,94,16.7,16.8,17.4,17.9,17.3,13,19.7,47,71.2
+840,Tipton County,11,Brighton High School,Economically Disadvantaged,78,93,18,18.1,18.7,18.8,18.5,21,26.9,49,62.8
+840,Tipton County,11,Brighton High School,Students with Disabilities,24,89,13.1,15.7,14.4,16,14.9,2,8.3,22,91.7
+840,Tipton County,15,Covington High School,All Students,172,97,19.3,18.7,19,18.4,19,57,33.1,90,52.3
+840,Tipton County,15,Covington High School,Black/Hispanic/Native American,78,94,16.2,17.1,16,15.7,16.4,8,10.3,60,76.9
+840,Tipton County,15,Covington High School,Economically Disadvantaged,84,94,16.9,17.5,16.9,16.5,17.1,16,19,61,72.6
+840,Tipton County,15,Covington High School,Students with Disabilities,14,88,13.1,15,14,14,14.1,**,**,**,**
+840,Tipton County,50,Munford High School,All Students,279,96,21.7,20.7,22,21.8,21.7,167,59.9,70,25.1
+840,Tipton County,50,Munford High School,Black/Hispanic/Native American,44,92,20.6,19.7,21.6,20.3,20.7,22,50,15,34.1
+840,Tipton County,50,Munford High School,Economically Disadvantaged,73,96,20.3,19,20.7,20.5,20.3,33,45.2,30,41.1
+840,Tipton County,50,Munford High School,Students with Disabilities,22,71,15.3,16,15.4,17,16,**,**,**,**
+850,Trousdale County,10,Trousdale Co High School,All Students,87,98,20.6,20.2,21.1,21.2,21,35,40.2,35,40.2
+850,Trousdale County,10,Trousdale Co High School,Black/Hispanic/Native American,16,94,16.7,17.1,17.5,17.9,17.5,1,6.3,12,75
+850,Trousdale County,10,Trousdale Co High School,Economically Disadvantaged,31,100,17.6,17.7,18.5,18.6,18.2,4,12.9,18,58.1
+850,Trousdale County,10,Trousdale Co High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+850,Trousdale County,10,Trousdale Co High School,Students with Disabilities,10,83,14.2,15.3,17.9,17.5,16.5,1,10,8,80
+860,Unicoi County,35,Unicoi Co High School,All Students,178,95,19.3,19.3,20.2,19.5,19.7,71,39.9,83,46.6
+860,Unicoi County,35,Unicoi Co High School,Black/Hispanic/Native American,23,88,17.3,18.9,18.7,18.7,18.5,8,34.8,13,56.5
+860,Unicoi County,35,Unicoi Co High School,Economically Disadvantaged,78,95,17.4,18.3,18.6,18.1,18.3,24,30.8,46,59
+860,Unicoi County,35,Unicoi Co High School,English Learners,8,*,*,*,*,*,*,*,*,*,*
+860,Unicoi County,35,Unicoi Co High School,Students with Disabilities,26,93,12.7,15.4,13.6,15.5,14.4,**,**,**,**
+870,Union County,55,Union County High School,All Students,185,99,15.8,16.8,17.2,17.2,16.9,38,20.5,128,69.2
+870,Union County,55,Union County High School,Black/Hispanic/Native American,6,*,*,*,*,*,*,*,*,*,*
+870,Union County,55,Union County High School,Economically Disadvantaged,98,99,15.1,16.6,17,16.8,16.5,23,23.5,69,70.4
+870,Union County,55,Union County High School,Students with Disabilities,18,95,11.1,14.8,13.3,14.9,13.6,1,5.6,17,94.4
+880,Van Buren County,35,Van Buren Co High School,All Students,58,100,17.7,18.5,19.9,19,18.9,20,34.5,26,44.8
+880,Van Buren County,35,Van Buren Co High School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+880,Van Buren County,35,Van Buren Co High School,Economically Disadvantaged,27,100,17.1,18.1,19.1,18.3,18.3,7,25.9,16,59.3
+880,Van Buren County,35,Van Buren Co High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+880,Van Buren County,35,Van Buren Co High School,Students with Disabilities,9,*,*,*,*,*,*,*,*,*,*
+890,Warren County,80,Warren County High School,All Students,415,100,18.1,18,18.9,19,18.7,124,29.9,226,54.5
+890,Warren County,80,Warren County High School,Black/Hispanic/Native American,96,100,16.2,17.3,17.9,18.1,17.5,21,21.9,63,65.6
+890,Warren County,80,Warren County High School,Economically Disadvantaged,192,100,17,17.3,17.7,18.1,17.7,43,22.4,122,63.5
+890,Warren County,80,Warren County High School,English Learners,16,100,12.6,15,15.3,15.6,14.8,**,**,**,**
+890,Warren County,80,Warren County High School,Students with Disabilities,41,100,12.2,14.9,14.1,15,14.2,**,**,**,**
+900,Washington County,37,Daniel Boone High School,All Students,315,98,20.3,19.6,21.1,20.2,20.4,143,45.4,129,41
+900,Washington County,37,Daniel Boone High School,Black/Hispanic/Native American,18,100,17.8,18.1,18.7,19.2,18.6,5,27.8,10,55.6
+900,Washington County,37,Daniel Boone High School,Economically Disadvantaged,80,95,17.2,17.6,18.4,17.8,17.8,18,22.5,52,65
+900,Washington County,37,Daniel Boone High School,Students with Disabilities,37,97,13.9,15.3,14.2,15.2,14.8,3,8.1,33,89.2
+900,Washington County,38,David Crockett High School,All Students,304,97,19,18.7,19.3,19.2,19.2,105,34.5,149,49
+900,Washington County,38,David Crockett High School,Black/Hispanic/Native American,22,92,16.5,18.5,17.5,17.1,17.5,5,22.7,14,63.6
+900,Washington County,38,David Crockett High School,Economically Disadvantaged,102,94,16.7,17.5,17.8,17.7,17.6,22,21.6,63,61.8
+900,Washington County,38,David Crockett High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+900,Washington County,38,David Crockett High School,Students with Disabilities,40,98,13.7,15,15.1,15.5,15,2,5,35,87.5
+900,Washington County,105,University School,All Students,63,100,27.2,25.9,26.9,26.8,26.9,**,**,**,**
+900,Washington County,105,University School,Black/Hispanic/Native American,4,*,*,*,*,*,*,*,*,*,*
+900,Washington County,105,University School,Economically Disadvantaged,6,*,*,*,*,*,*,*,*,*,*
+900,Washington County,105,University School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+900,Washington County,105,University School,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+900,Washington County,115,Tennessee Virtual Learning Academy,All Students,8,*,*,*,*,*,*,*,*,*,*
+900,Washington County,115,Tennessee Virtual Learning Academy,Economically Disadvantaged,2,*,*,*,*,*,*,*,*,*,*
+900,Washington County,115,Tennessee Virtual Learning Academy,Students with Disabilities,1,*,*,*,*,*,*,*,*,*,*
+901,Johnson City,45,Science Hill High School,All Students,471,97,22.4,22.2,23.4,22.4,22.7,293,62.2,125,26.5
+901,Johnson City,45,Science Hill High School,Black/Hispanic/Native American,107,97,18.4,19.7,20.3,19.9,19.7,43,40.2,46,43
+901,Johnson City,45,Science Hill High School,Economically Disadvantaged,141,95,18.2,19,20.1,19.5,19.4,54,38.3,67,47.5
+901,Johnson City,45,Science Hill High School,English Learners,9,*,*,*,*,*,*,*,*,*,*
+901,Johnson City,45,Science Hill High School,Students with Disabilities,49,94,14,16.3,15.7,16.7,15.9,5,10.2,39,79.6
+910,Wayne County,10,Collinwood High School,All Students,73,97,18,17.9,19.3,19.1,18.8,27,37,32,43.8
+910,Wayne County,10,Collinwood High School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+910,Wayne County,10,Collinwood High School,Economically Disadvantaged,23,92,17.2,18.1,17.8,18.3,18,9,39.1,11,47.8
+910,Wayne County,10,Collinwood High School,Students with Disabilities,10,91,13.3,14.6,12.5,14.3,13.8,**,**,**,**
+910,Wayne County,25,Frank Hughes School,All Students,22,96,16.5,16.4,17.8,16.3,17,3,13.6,15,68.2
+910,Wayne County,25,Frank Hughes School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+910,Wayne County,25,Frank Hughes School,Economically Disadvantaged,10,100,16.9,17.1,19,16.5,17.6,1,10,6,60
+910,Wayne County,25,Frank Hughes School,Students with Disabilities,11,92,12.7,15.4,14.5,14.8,14.5,**,**,**,**
+910,Wayne County,35,Wayne County High School,All Students,66,97,17.7,17.6,18.9,18.4,18.3,18,27.3,36,54.5
+910,Wayne County,35,Wayne County High School,Economically Disadvantaged,33,97,16.6,16.6,17.2,17.6,17.2,7,21.2,22,66.7
+910,Wayne County,35,Wayne County High School,Students with Disabilities,11,85,13.6,15.6,14.6,15.6,15.1,1,9.1,10,90.9
+920,Weakley County,10,Dresden High School,All Students,77,100,20.5,20.4,21.3,21.1,21,41,53.2,26,33.8
+920,Weakley County,10,Dresden High School,Black/Hispanic/Native American,6,*,*,*,*,*,*,*,*,*,*
+920,Weakley County,10,Dresden High School,Economically Disadvantaged,27,100,18.2,19.2,19.6,19.9,19.3,11,40.7,13,48.1
+920,Weakley County,10,Dresden High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+920,Weakley County,15,Gleason School,All Students,29,97,20.9,19.6,21.3,21.1,20.8,12,41.4,9,31
+920,Weakley County,15,Gleason School,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+920,Weakley County,15,Gleason School,Economically Disadvantaged,9,*,*,*,*,*,*,*,*,*,*
+920,Weakley County,15,Gleason School,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+920,Weakley County,25,Greenfield School,All Students,45,96,21.6,21.6,22.4,22.4,22.1,29,64.4,10,22.2
+920,Weakley County,25,Greenfield School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+920,Weakley County,25,Greenfield School,Economically Disadvantaged,18,90,18.6,18.5,19.9,20,19.3,9,50,8,44.4
+920,Weakley County,25,Greenfield School,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+920,Weakley County,40,Westview High School,All Students,125,100,20.4,19.4,21.4,20.9,20.7,69,55.2,45,36
+920,Weakley County,40,Westview High School,Black/Hispanic/Native American,24,100,16.5,17.4,18.6,18.2,17.9,7,29.2,12,50
+920,Weakley County,40,Westview High School,Economically Disadvantaged,35,100,17.6,17.3,19.5,19,18.5,15,42.9,18,51.4
+920,Weakley County,40,Westview High School,Students with Disabilities,7,*,*,*,*,*,*,*,*,*,*
+930,White County,40,White County High School,All Students,266,99,19.2,19.6,20.1,19.7,19.8,108,40.6,117,44
+930,White County,40,White County High School,Black/Hispanic/Native American,14,100,17.6,17.8,18.4,17.9,18,5,35.7,7,50
+930,White County,40,White County High School,Economically Disadvantaged,118,99,17.7,18.4,18.8,18.5,18.4,31,26.3,68,57.6
+930,White County,40,White County High School,Students with Disabilities,33,100,14.6,15.6,15.9,16.4,15.8,4,12.1,28,84.8
+940,Williamson County,12,Brentwood High School,All Students,440,100,27.9,26.4,28.3,26.4,27.5,**,**,**,**
+940,Williamson County,12,Brentwood High School,Black/Hispanic/Native American,33,100,25.6,24,25.8,24.1,25.1,**,**,**,**
+940,Williamson County,12,Brentwood High School,Economically Disadvantaged,8,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,12,Brentwood High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,12,Brentwood High School,Students with Disabilities,37,100,21.4,21.2,22.3,21.7,21.9,20,54.1,9,24.3
+940,Williamson County,17,Centennial High School,All Students,416,100,22.4,21.8,23.7,22.4,22.8,253,60.8,116,27.9
+940,Williamson County,17,Centennial High School,Black/Hispanic/Native American,144,100,18.1,18.8,19.8,19.2,19.2,48,33.3,75,52.1
+940,Williamson County,17,Centennial High School,Economically Disadvantaged,49,100,17.2,18.4,19.3,19.3,18.7,18,36.7,28,57.1
+940,Williamson County,17,Centennial High School,English Learners,14,100,12.2,15.8,14,15.4,14.5,1,7.1,13,92.9
+940,Williamson County,17,Centennial High School,Students with Disabilities,39,100,15.1,16.5,16.3,16.9,16.3,4,10.3,32,82.1
+940,Williamson County,35,Fairview High School,All Students,175,100,21.5,21.5,22.7,21.8,22,112,64,37,21.1
+940,Williamson County,35,Fairview High School,Black/Hispanic/Native American,22,100,21.3,21,22.5,21.5,21.6,12,54.5,6,27.3
+940,Williamson County,35,Fairview High School,Economically Disadvantaged,41,100,20.1,20.3,21.6,21.1,20.9,20,48.8,11,26.8
+940,Williamson County,35,Fairview High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,35,Fairview High School,Students with Disabilities,20,100,16.1,17.7,17.5,18.9,17.6,4,20,13,65
+940,Williamson County,40,Franklin High School,All Students,439,100,27.2,26.2,27.8,26.6,27.1,**,**,**,**
+940,Williamson County,40,Franklin High School,Black/Hispanic/Native American,51,100,24.7,24.6,26.1,25,25.2,39,76.5,6,11.8
+940,Williamson County,40,Franklin High School,Economically Disadvantaged,19,100,22.9,23.3,24.2,23.8,23.7,15,78.9,2,10.5
+940,Williamson County,40,Franklin High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,40,Franklin High School,Students with Disabilities,18,100,20.4,20.4,23.7,23.3,22.2,11,61.1,6,33.3
+940,Williamson County,42,Fred J Page High School,All Students,275,100,26,24.5,26.3,25.1,25.6,230,83.6,23,8.4
+940,Williamson County,42,Fred J Page High School,Black/Hispanic/Native American,14,100,22.9,21.6,23.2,22.5,22.9,9,64.3,3,21.4
+940,Williamson County,42,Fred J Page High School,Economically Disadvantaged,4,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,42,Fred J Page High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,42,Fred J Page High School,Students with Disabilities,15,100,14.7,16.7,18.9,19.3,17.4,2,13.3,11,73.3
+940,Williamson County,52,Independence High School,All Students,390,100,24.6,23.5,25.1,24.2,24.5,302,77.4,42,10.8
+940,Williamson County,52,Independence High School,Black/Hispanic/Native American,58,100,22.1,21.2,22.9,21.5,22.1,36,62.1,14,24.1
+940,Williamson County,52,Independence High School,Economically Disadvantaged,16,100,21.9,20.4,23.6,22.2,22.2,9,56.3,3,18.8
+940,Williamson County,52,Independence High School,English Learners,3,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,52,Independence High School,Students with Disabilities,37,100,19.8,20,21.1,21.2,20.8,17,45.9,13,35.1
+940,Williamson County,63,Renaissance High School,All Students,42,100,26,22.6,26.4,24.3,25,33,78.6,4,9.5
+940,Williamson County,63,Renaissance High School,Black/Hispanic/Native American,3,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,63,Renaissance High School,Economically Disadvantaged,5,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,63,Renaissance High School,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,66,Nolensville High School,All Students,226,100,23.8,22.8,24.5,23.6,23.8,169,74.8,33,14.6
+940,Williamson County,66,Nolensville High School,Black/Hispanic/Native American,27,100,21.7,20.6,24.2,21.9,22.3,19,70.4,6,22.2
+940,Williamson County,66,Nolensville High School,Economically Disadvantaged,20,100,18.9,18.4,20.7,19.8,19.6,11,55,6,30
+940,Williamson County,66,Nolensville High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,66,Nolensville High School,Students with Disabilities,30,100,17.7,17.4,20.7,19.3,19,10,33.3,17,56.7
+940,Williamson County,74,Ravenwood High School,All Students,367,100,27.9,26.6,28,26.6,27.5,**,**,**,**
+940,Williamson County,74,Ravenwood High School,Black/Hispanic/Native American,45,100,25.8,24.3,27,25,25.7,39,86.7,3,6.7
+940,Williamson County,74,Ravenwood High School,Economically Disadvantaged,5,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,74,Ravenwood High School,English Learners,10,100,16.9,22.3,17.1,20.9,19.4,4,40,4,40
+940,Williamson County,74,Ravenwood High School,Students with Disabilities,19,100,21.6,21.2,24.6,22.6,22.6,13,68.4,5,26.3
+940,Williamson County,79,Summit High School,All Students,326,100,24,22.6,24.4,23.6,23.8,242,74.2,49,15
+940,Williamson County,79,Summit High School,Black/Hispanic/Native American,51,100,21.9,21.7,22.6,21.9,22.3,33,64.7,14,27.5
+940,Williamson County,79,Summit High School,Economically Disadvantaged,26,100,22,20.4,21.4,21.3,21.4,12,46.2,11,42.3
+940,Williamson County,79,Summit High School,English Learners,2,*,*,*,*,*,*,*,*,*,*
+940,Williamson County,79,Summit High School,Students with Disabilities,30,100,18.2,16.8,17.9,17.1,17.6,5,16.7,20,66.7
+950,Wilson County,25,Lebanon High School,All Students,462,99,18.8,18.2,19.6,19.3,19.1,154,33.3,234,50.6
+950,Wilson County,25,Lebanon High School,Black/Hispanic/Native American,137,99,15.3,16.4,16.8,16.5,16.4,12,8.8,110,80.3
+950,Wilson County,25,Lebanon High School,Economically Disadvantaged,154,97,16.3,16.6,17.4,17.4,17,22,14.3,108,70.1
+950,Wilson County,25,Lebanon High School,English Learners,23,100,12.8,16.6,15,15.7,15.2,3,13,18,78.3
+950,Wilson County,25,Lebanon High School,Students with Disabilities,36,97,13.2,15.7,15.6,16.1,15.3,**,**,**,**
+950,Wilson County,30,Mt. Juliet High School,All Students,532,100,23,21.4,23.5,22.9,22.9,342,64.3,113,21.2
+950,Wilson County,30,Mt. Juliet High School,Black/Hispanic/Native American,62,100,19.6,19,20.6,20.5,20.1,26,41.9,28,45.2
+950,Wilson County,30,Mt. Juliet High School,Economically Disadvantaged,71,99,19.5,18.9,20.5,20.1,19.8,25,35.2,35,49.3
+950,Wilson County,30,Mt. Juliet High School,English Learners,6,*,*,*,*,*,*,*,*,*,*
+950,Wilson County,30,Mt. Juliet High School,Students with Disabilities,45,98,17.5,18,19.5,19,18.6,10,22.2,25,55.6
+950,Wilson County,60,Watertown High School,All Students,136,98,19.4,18.9,20.1,20.4,19.9,55,40.4,61,44.9
+950,Wilson County,60,Watertown High School,Black/Hispanic/Native American,12,100,17.8,17.3,16.6,18.1,17.6,3,25,7,58.3
+950,Wilson County,60,Watertown High School,Economically Disadvantaged,45,100,17.7,17.6,18.7,18.9,18.4,11,24.4,29,64.4
+950,Wilson County,60,Watertown High School,English Learners,4,*,*,*,*,*,*,*,*,*,*
+950,Wilson County,60,Watertown High School,Students with Disabilities,19,100,13.3,15.3,15.1,15.7,15.1,**,**,**,**
+950,Wilson County,73,Wilson Central High School,All Students,440,100,20.2,19.6,21.1,20.9,20.6,209,47.5,159,36.1
+950,Wilson County,73,Wilson Central High School,Black/Hispanic/Native American,69,100,17.8,17.7,18.9,19,18.5,17,24.6,42,60.9
+950,Wilson County,73,Wilson Central High School,Economically Disadvantaged,93,98,18.3,18.4,19.3,19.5,19,28,30.1,50,53.8
+950,Wilson County,73,Wilson Central High School,English Learners,15,100,15,17.2,15.8,16.7,16.2,1,6.7,13,86.7
+950,Wilson County,73,Wilson Central High School,Students with Disabilities,39,98,13.7,16.3,15.7,17,15.8,4,10.3,34,87.2
+950,Wilson County,87,Tennessee Virtual On-Line School,All Students,16,100,22.4,19.5,25.6,21,22.3,10,62.5,4,25
+950,Wilson County,87,Tennessee Virtual On-Line School,Economically Disadvantaged,3,*,*,*,*,*,*,*,*,*,*
+961,Alvin C York Institute,5,Alvin C. York Institute,All Students,123,98,18.5,19.3,19.5,19.1,19.3,49,39.8,62,50.4
+961,Alvin C York Institute,5,Alvin C. York Institute,Economically Disadvantaged,43,96,16.4,18,17.5,17.5,17.5,9,20.9,29,67.4
+961,Alvin C York Institute,5,Alvin C. York Institute,Students with Disabilities,16,100,13.4,14.9,13.7,14,14,**,**,**,**
+963,Tennessee School for Blind,5,Tenn School For Blind,All Students,3,*,*,*,*,*,*,*,*,*,*
+963,Tennessee School for Blind,5,Tenn School For Blind,Black/Hispanic/Native American,2,*,*,*,*,*,*,*,*,*,*
+963,Tennessee School for Blind,5,Tenn School For Blind,Economically Disadvantaged,1,*,*,*,*,*,*,*,*,*,*
+963,Tennessee School for Blind,5,Tenn School For Blind,English Learners,1,*,*,*,*,*,*,*,*,*,*
+963,Tennessee School for Blind,5,Tenn School For Blind,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+964,Tennessee School for the Deaf,10,Tennessee School for the Deaf Upper School,All Students,6,*,*,*,*,*,*,*,*,*,*
+964,Tennessee School for the Deaf,10,Tennessee School for the Deaf Upper School,Black/Hispanic/Native American,1,*,*,*,*,*,*,*,*,*,*
+964,Tennessee School for the Deaf,10,Tennessee School for the Deaf Upper School,Economically Disadvantaged,4,*,*,*,*,*,*,*,*,*,*
+964,Tennessee School for the Deaf,10,Tennessee School for the Deaf Upper School,Students with Disabilities,6,*,*,*,*,*,*,*,*,*,*
+970,Department Of Children's Services Education Division,25,Gateway to Independence,All Students,0,0,,,,,,0,,0,
+970,Department Of Children's Services Education Division,25,Gateway to Independence,Economically Disadvantaged,0,0,,,,,,0,,0,
+970,Department Of Children's Services Education Division,25,Gateway to Independence,Students with Disabilities,0,0,,,,,,0,,0,
+970,Department Of Children's Services Education Division,45,Wilder Youth Development Center,All Students,11,65,12.8,15.1,13.4,14.1,14,1,9.1,10,90.9
+970,Department Of Children's Services Education Division,45,Wilder Youth Development Center,Black/Hispanic/Native American,7,*,*,*,*,*,*,*,*,*,*
+970,Department Of Children's Services Education Division,45,Wilder Youth Development Center,Economically Disadvantaged,11,65,12.8,15.1,13.4,14.1,14,1,9.1,10,90.9
+970,Department Of Children's Services Education Division,45,Wilder Youth Development Center,Students with Disabilities,3,*,*,*,*,*,*,*,*,*,*
+970,Department Of Children's Services Education Division,140,DCS Affiliated Schools,All Students,27,36,15.5,16.6,16.1,16.6,16.3,2,7.4,21,77.8
+970,Department Of Children's Services Education Division,140,DCS Affiliated Schools,Black/Hispanic/Native American,9,*,*,*,*,*,*,*,*,*,*
+970,Department Of Children's Services Education Division,140,DCS Affiliated Schools,Economically Disadvantaged,22,32,15.3,16.3,15.7,15.9,16,**,**,**,**
+970,Department Of Children's Services Education Division,140,DCS Affiliated Schools,English Learners,2,*,*,*,*,*,*,*,*,*,*
+970,Department Of Children's Services Education Division,140,DCS Affiliated Schools,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,35,GRAD Academy Memphis,All Students,0,0,,,,,,0,,0,
+985,Achievement School District,35,GRAD Academy Memphis,Economically Disadvantaged,0,0,,,,,,0,,0,
+985,Achievement School District,35,GRAD Academy Memphis,English Learners,0,0,,,,,,0,,0,
+985,Achievement School District,45,Pathways in Education - TN,All Students,11,92,13.2,15.2,14.3,15.1,14.6,1,9.1,10,90.9
+985,Achievement School District,45,Pathways in Education - TN,Black/Hispanic/Native American,11,92,13.2,15.2,14.3,15.1,14.6,1,9.1,10,90.9
+985,Achievement School District,45,Pathways in Education - TN,Economically Disadvantaged,9,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,45,Pathways in Education - TN,English Learners,1,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,45,Pathways in Education - TN,Students with Disabilities,4,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,50,Pathways in Education - Whitehaven,All Students,6,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,50,Pathways in Education - Whitehaven,Black/Hispanic/Native American,6,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,50,Pathways in Education - Whitehaven,Economically Disadvantaged,6,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,8055,Fairley High School,All Students,97,73,11.3,14.5,12.9,13.5,13.2,**,**,**,**
+985,Achievement School District,8055,Fairley High School,Black/Hispanic/Native American,97,73,11.3,14.5,12.9,13.5,13.2,**,**,**,**
+985,Achievement School District,8055,Fairley High School,Economically Disadvantaged,82,75,11.2,14.4,12.7,13,13,**,**,**,**
+985,Achievement School District,8055,Fairley High School,Students with Disabilities,12,50,9,14,13,11.5,12,**,**,**,**
+985,Achievement School District,8065,Martin Luther King Preparatory High School,All Students,94,87,14.7,15.8,15.7,15.9,15.7,6,6.4,77,81.9
+985,Achievement School District,8065,Martin Luther King Preparatory High School,Black/Hispanic/Native American,93,87,14.7,15.8,15.8,15.9,15.7,6,6.5,76,81.7
+985,Achievement School District,8065,Martin Luther King Preparatory High School,Economically Disadvantaged,78,86,14.4,15.6,15.5,15.9,15.5,4,5.1,66,84.6
+985,Achievement School District,8065,Martin Luther King Preparatory High School,English Learners,1,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,8065,Martin Luther King Preparatory High School,Students with Disabilities,8,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,8140,Hillcrest High School,All Students,86,96,14.2,15.7,16,15.4,15.5,5,5.8,75,87.2
+985,Achievement School District,8140,Hillcrest High School,Black/Hispanic/Native American,85,96,14.3,15.8,16,15.5,15.5,5,5.9,74,87.1
+985,Achievement School District,8140,Hillcrest High School,Economically Disadvantaged,69,96,14,15.7,15.8,15.2,15.3,**,**,**,**
+985,Achievement School District,8140,Hillcrest High School,English Learners,5,*,*,*,*,*,*,*,*,*,*
+985,Achievement School District,8140,Hillcrest High School,Students with Disabilities,16,100,12,15,13.8,13.3,13.5,**,**,**,**
