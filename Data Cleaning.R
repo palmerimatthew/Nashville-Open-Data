@@ -1,12 +1,10 @@
 require(tidyverse)
 require(readr)
 
+#ACT ----
 ACT_Clean <- read.csv('Data/ACT_School_Scores_2019.csv') %>%
   filter(Valid.Tests >= 10) %>%
-  mutate(District.Name = as.character(District.Name),
-         School.Name = as.character(School.Name),
-         Subgroup = as.character(Subgroup),
-         Participation.Rate = as.numeric(as.character(Participation.Rate)),
+  mutate(Participation.Rate = as.numeric(as.character(Participation.Rate)),
          Average.English.Score = as.numeric(as.character(Average.English.Score)),
          Average.Math.Score = as.numeric(as.character(Average.Math.Score)),
          Average.Reading.Score = as.numeric(as.character(Average.Reading.Score)),
@@ -17,8 +15,8 @@ ACT_Clean <- read.csv('Data/ACT_School_Scores_2019.csv') %>%
   select(-Percent.Scoring.21.or.Higher, -Percent.Scoring.Below.19)
 
 
-
-MNPD_Incidents_Clean <- read.csv('Data/MNPD_Incidents_2019.csv') %>%
+#Police Incidence ----
+Police_Incidents_Clean <- read.csv('Data/MNPD_Incidents_2019.csv') %>%
   mutate(Primary.Key = as.character(Primary.Key),
          Report.Type.Description = case_when(Report.Type == 'D' ~ 'DISPATCHED',
                                              Report.Type == 'O' ~ 'OTHER',
@@ -26,12 +24,8 @@ MNPD_Incidents_Clean <- read.csv('Data/MNPD_Incidents_2019.csv') %>%
                                              Report.Type == 'T' ~ 'TELESERVE',
                                              Report.Type == 'W' ~ 'WALK-IN',
                                              T ~ as.character(Report.Type.Description)),
-         Incident.Status.Description = as.character(Incident.Status.Description),
-         Investigation.Status = as.character(Investigation.Status),
-         Incident.Occurred = as.character(Incident.Occurred),
-         Incident.Reported = as.character(Incident.Reported),
-         Incident.Location = as.character(Incident.Location),
-         Location.Description = as.character(Location.Description),
+         Incident.Occurred = as.POSIXct(Incident.Occurred, format = '%m/%d/%Y %I:%M:%S %p'),
+         Incident.Reported = as.POSIXct(Incident.Reported, format = '%m/%d/%Y %I:%M:%S %p'),
          Offense.NIBRS = as.character(Offense.NIBRS),
          Offense.Description = case_when(Offense.NIBRS == '09A' ~ 'Murder and Non-negligent Manslaughter',
                                          Offense.NIBRS == '09B' ~ 'Negligent Manslaughter',
@@ -147,7 +141,6 @@ MNPD_Incidents_Clean <- read.csv('Data/MNPD_Incidents_2019.csv') %>%
                                         Weapon.Primary == '17' ~ 'None',
                                         Weapon.Primary == '18' ~ 'Bondage',
                                         T ~ 'Unknown'),
-         Domestic.Related = as.character(Domestic.Related),
          Victim.Type = as.character(Victim.Type),
          Victim.Description = case_when(Victim.Type == 'B' ~ 'Business',
                                         Victim.Type == 'F' ~ 'Financial Institution',
@@ -159,7 +152,6 @@ MNPD_Incidents_Clean <- read.csv('Data/MNPD_Incidents_2019.csv') %>%
                                         Victim.Type == 'S' ~ 'Society',
                                         Victim.Type == 'U' ~ 'Unknown',
                                         T ~ 'Unknown'),
-         Victim.Description = as.character(Victim.Description),
          Victim.Gender = as.character(Victim.Gender),
          Victim.Gender = if_else(Victim.Gender == 'W', 'F', Victim.Gender),
          Victim.Race = case_when(Victim.Ethnicity == 'Hispanic' ~ 'Hispanic',
@@ -175,24 +167,86 @@ MNPD_Incidents_Clean <- read.csv('Data/MNPD_Incidents_2019.csv') %>%
          Victim.County.Resident = if_else(grepl('Resident', Victim.County.Resident),
                                           as.character(Victim.County.Resident),
                                           'UNKNOWN')) %>%
-  #formatting for Incident Occurred Time
-  separate(Incident.Occurred, into = c('Occ.Date', 'Occ.Time', 'Occ.Noon'), sep = ' ') %>%
-  separate(Occ.Time, into = c('Occ.Hour', 'Occ.Minute', 'Occ.Second'), sep = ':') %>%
-  mutate(Occ.Hour = as.numeric(Occ.Hour),
-         Occ.Hour = if_else(Occ.Noon == 'AM', Occ.Hour, Occ.Hour + 12),
-         Occ.Time = paste(Occ.Hour, Occ.Minute, Occ.Second, sep = ':'),
-         Incident.Occurred = as.POSIXct(paste(Occ.Date, Occ.Time), format = '%m/%d/%Y %H:%M:%S')) %>%
-  #formatting for Incident Reported Time
-  separate(Incident.Reported, into = c('Rep.Date', 'Rep.Time', 'Rep.Noon'), sep = ' ') %>%
-  separate(Rep.Time, into = c('Rep.Hour', 'Rep.Minute', 'Rep.Second'), sep = ':') %>%
-  mutate(Rep.Hour = as.numeric(Rep.Hour),
-         Rep.Hour = if_else(Rep.Noon == 'AM', Rep.Hour, Rep.Hour + 12),
-         Rep.Time = paste(Rep.Hour, Rep.Minute, Rep.Second, sep = ':'),
-         Incident.Reported = as.POSIXct(paste(Rep.Date, Rep.Time), format = '%m/%d/%Y %H:%M:%S')) %>%
   #removing unnecessary columns
-  select(-Report.Type, -Incident.Status.Code, -Location.Code, -Offense.NIBRS, -Weapon.Primary, -Victim.Type, -Victim.Ethnicity, -Mapped.Location) %>%
-  #reformatting columns
-  select(Primary.Key:Investigation.Status, Incident.Occurred, Incident.Reported, Incident.Location:Longitude)
+  select(-Report.Type, -Incident.Status.Code, -Location.Code, -Offense.NIBRS, -Weapon.Primary, -Victim.Type, -Victim.Ethnicity, -Mapped.Location)
+
+#Nashville School Attendance ----
+Nashville_School_Attendance_Clean <- read.csv('Data/MNPS_Attendance_Data_May20.csv') %>%
+  rename(School.ID = SchoolID,
+         Active.Enrollment = ActiveEnrollment) %>%
+  mutate(School.Name = as.character(SchoolName),
+         Chronically.Absent.Count = as.numeric(as.character(ChronicallyAbsentCount))) %>%
+  select(School.ID, School.Name, Active.Enrollment, Chronically.Absent.Count)
 
 
+#Nashville School Behavior ----
+Fix_Percents <- function(Col, Total) {
+  Less = grepl('<', Col)
+  More = grepl('>', Col)
+  Percent = grepl('%', Col)
+  Col = case_when(More & Percent ~ 0.95,
+                  Less & Percent ~ 0.05,
+                  Less ~ 10/Total,
+                  Percent ~ as.numeric(gsub('%', '', Col))/100,
+                  T ~ 0)
+  Col = case_when(Less & Percent ~ as.character(ceiling(Total*Col)),
+                  More & Percent ~ as.character(floor(Total*Col)),
+                  T ~ as.character(round(Total*Col)))
+  Col = case_when(Less ~ paste('<', Col),
+                  More ~ paste('>', Col),
+                  T ~ Col)
+  return(Col)
+}
 
+Nashville_School_Behavior_Clean <- read.csv('Data/MNPS_Behavior_Data_May20.csv') %>%
+  rename(Total.Subgroup.Enrollment = TotalSubgroupEnrollment) %>%
+  mutate(School.Name = as.character(SCHOOL),
+         Subgroup = if_else(DataValue == 'Y', 
+                            as.character(Subgroup),
+                            as.character(DataValue)),
+         Suspension = as.character(Suspension),
+         Suspension = Fix_Percents(Suspension, Total.Subgroup.Enrollment),
+         Expulsion = as.character(Expulsion),
+         Expulsion = Fix_Percents(Expulsion, Total.Subgroup.Enrollment),
+         Remandment = as.character(Remandment),
+         Remandment = Fix_Percents(Remandment, Total.Subgroup.Enrollment)) %>%
+  select(School.Name, Total.Subgroup.Enrollment:Subgroup, Suspension:Remandment)
+
+
+#Nashville School Enrollment ----
+Nashville_School_Enrollment_Clean <- read.csv('Data/MNPS_Enrollment_Data_Apr20.csv') %>%
+  rename(Native.American = American.Indian.or.Alaska.Native,
+         Pacific.Islander = Native.Hawaiian.or.Other.Pacific.Islander,
+         Black = Black.or.African.American,
+         Hispanic = Hispanic.Latino) %>%
+  mutate(Native.American = as.character(Native.American),
+         Native.American = Fix_Percents(Native.American, Total.Enrollment),
+         Asian = as.character(Asian),
+         Asian = Fix_Percents(Asian, Total.Enrollment),
+         Black = as.character(Black),
+         Black = Fix_Percents(Black, Total.Enrollment),
+         Hispanic = as.character(Hispanic),
+         Hispanic = Fix_Percents(Hispanic, Total.Enrollment),
+         Pacific.Islander = as.character(Pacific.Islander),
+         Pacific.Islander = Fix_Percents(Pacific.Islander, Total.Enrollment),
+         White = as.character(White),
+         White = Fix_Percents(White, Total.Enrollment),
+         Male = as.character(Male),
+         Male = Fix_Percents(Male, Total.Enrollment),
+         Female = as.character(Female),
+         Female = Fix_Percents(Female, Total.Enrollment),
+         Economically.Disadvantaged = as.character(Economically.Disadvantaged),
+         Economically.Disadvantaged = Fix_Percents(Economically.Disadvantaged, Total.Enrollment),
+         Students.with.Disabilities = as.character(Students.with.Disabilities),
+         Students.with.Disabilities = Fix_Percents(Students.with.Disabilities, Total.Enrollment),
+         Limited.English.Proficiency = as.character(Limited.English.Proficiency),
+         Limited.English.Proficiency = Fix_Percents(Limited.English.Proficiency, Total.Enrollment)) %>%
+  select(School.Level:Total.Enrollment, Native.American:Limited.English.Proficiency)
+
+
+#311 Service Requests ----
+Request_311_Clean <- read.csv('Data/Nashville_311_Service_Requests.csv') %>%
+  rename(Request.Num = Request..) %>%
+  mutate(Time.Opened = as.POSIXct(Date...Time.Opened, format = '%m/%d/%Y %I:%M:%S %p'),
+         Time.Closed = as.POSIXct(Date...Time.Closed, format = '%m/%d/%Y %I:%M:%S %p')) %>%
+  select(Request.Num:Additional.Subrequest.Type, Time.Opened, Time.Closed, Request.Origin:Longitude)
