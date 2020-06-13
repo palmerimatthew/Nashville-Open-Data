@@ -280,7 +280,7 @@ Request_311_Clean <- read.csv('Data/Nashville_311_Service_Requests.csv') %>%
 
 
 #Nashville Budget ----
-Nashville_Budget <- read.csv('Data/Nashville_Budget.csv') %>%
+Nashville_Budget_Clean <- read.csv('Data/Nashville_Budget.csv') %>%
   select(Fund.Description, Department.Description, Business.Unit.Description, 
          Object.Account.Description:FY19.Actual.Expenses) %>%
   pivot_longer(names_to = 'Column', values_to = 'Budget', cols = FY14.Budgeted.Expenses:FY19.Actual.Expenses) %>%
@@ -290,7 +290,7 @@ Nashville_Budget <- read.csv('Data/Nashville_Budget.csv') %>%
 
 
 #Nashville Government Demographics ----
-Nashville_Government_Demographics <- read.csv('Data/Nashville_Gov_Demographics.csv') %>%
+Nashville_Government_Demographics_Clean <- read.csv('Data/Nashville_Gov_Demographics.csv') %>%
   mutate(Ethnic.Code.Description = as.character(Ethnic.Code.Description),
          Ethnic.Code.Description = case_when(grepl('Indian', Ethnic.Code.Description) ~ 'Native American',
                                              grepl('^Black', Ethnic.Code.Description) ~ 'Black',
@@ -302,6 +302,93 @@ Nashville_Government_Demographics <- read.csv('Data/Nashville_Gov_Demographics.c
   select(-Pay.Grade...Step, -Class)
 
 
-#Property Violations ----
-Property_Standard_Violations
+#Metro Art Grantees ----
+Metro_Art_School_Grantees_Clean <- read.csv('Data/Schools_Served_by_Metro_Arts_Grantees.csv') %>%
+  rename(School.Category = Category) %>%
+  mutate(School.Category = as.character(School.Category),
+         School.Category = case_when(School.Category == 'Home schooled' ~ 'Home Schooled',
+                                     grepl('^MNP', School.Category) ~ 'Public',
+                                     T ~ School.Category),
+         City = as.character(City),
+         City = if_else(grepl('^Nash', City), 'Nashville', City)) %>%
+  select(School.Name:City, ZIP.Code:Fiscal.Year)
 
+
+#Nashville Traffic Accidents ----
+Traffic_Accidents_Clean <- read.csv('Data/Traffic_Accidents_2019_.csv') %>%
+  rename(Date.Time = Date.and.Time) %>%
+  mutate(Date.Time = as.POSIXct(Date.Time, format = '%m/%d/%Y %I:%M:%S %p'),
+         Property.Damage = Property.Damage == 'Y',
+         Hit.and.Run = Hit.and.Run == 'Y') %>%
+  select(Accident.Number:Hit.and.Run, Collision.Type.Description, Weather.Description, 
+         Illumination.Description, Harmful.Code.Description, City, ZIP:Longitude)
+
+
+#Tennessee Educator Survey ----
+TEN_Educator_Survey_Clean <- read.csv('Data/Tennessee_Educator_Survey_2019.csv') %>%
+  rename(District.Num = District.No,
+         School.Num = School.No,
+         Response.Rate = ResponseRate) %>%
+  mutate(Response.Rate = gsub('%', '', Response.Rate),
+         Response.Rate = as.numeric(Response.Rate)/100,
+         Question = if_else(Prompt == '',
+                            as.character(FullQuestion),
+                            as.character(Prompt))) %>%
+  pivot_longer(names_to = 'Answer', values_to = 'Percent', cols = Selected:More.than.25.percent) %>%
+  filter(Percent != '') %>%
+  mutate(Answer = gsub('\\.', ' ', Answer),
+         Percent = as.character(Percent),
+         Percent = gsub('%', '', Percent),
+         Percent = as.numeric(Percent)/100) %>%
+  select(District.Num:Item, Topic, Question:Percent)
+
+
+#Tennessee School Assessment ----
+TEN_School_Assessment_Clean <- read.csv('Data/Tennessee_School_Assessment_2019.csv') %>%
+  rename(District.Num = system,
+         District.Name = system_name,
+         School.Num = school,
+         School.Name = school_name) %>%
+  mutate(n_below = as.character(n_below),
+         n_below = if_else(grepl('\\*', n_below), NA_character_, n_below),
+         n_below = as.numeric(n_below),
+         n_approaching = as.character(n_approaching),
+         n_approaching = if_else(grepl('\\*', n_approaching), NA_character_, n_approaching),
+         n_approaching = as.numeric(n_approaching),
+         n_on_track = as.character(n_on_track),
+         n_on_track = if_else(grepl('\\*', n_on_track), NA_character_, n_on_track),
+         n_on_track = as.numeric(n_on_track),
+         n_mastered = as.character(n_mastered),
+         n_mastered = if_else(grepl('\\*', n_mastered), NA_character_, n_mastered),
+         n_mastered = as.numeric(n_mastered)) %>%
+  select(District.Num:n_mastered)
+
+
+#Tennessee School Enrollment ----
+TEN_School_Enrollment_Clean <- read.csv('Data/Tennessee_School_Enrollment_2019.csv') %>%
+  rename(District.Num = DISTRICT_ID,
+         District.Name = DISTRICT_NAME,
+         School.Num = SCHOOL_ID,
+         School.Name = SCHOOL_NAME,
+         Grades.Served = GRADES_SERVED,
+         Average.Daily.Attendance = AVERAGE_DAILY_MEMBERSHIP,
+         Total = TOTAL,
+         Economically.Disadvantaged = ECONOMICALLY_DISADVANTAGED,
+         Limited.English.Proficiency = LIMITED_ENGLISH_PROFICIENT,
+         Students.with.Disabilities = STUDENTS_WITH_DISABILITIES,
+         Black.Female = AFRICAN_AMERICAN_FEMALE,
+         Black.Male = AFRICAN_AMERICAN_MALE,
+         Asian.Female = ASIAN_FEMALE,
+         Asian.Male = ASIAN_MALE,
+         Asian.Female = ASIAN_FEMALE,
+         Pacific.Islander.Female = HAWAIIAN_PACISLD_FEMALE,
+         Pacific.Islander.Male = HAWAIIAN_PACISLD_MALE,
+         Hispanic.Female = HISPANIC_FEMALE,
+         Hispanic.Male = HISPANIC_MALE,
+         Native.American.Female = NATIVE_AMERICAN_FEMALE,
+         Native.American.Male = NATIVE_AMERICAN_MALE,
+         White.Female = WHITE_FEMALE,
+         White.Male = WHITE_MALE) %>%
+  mutate() %>%
+  select(District.Num:Grades.Served, Average.Daily.Attendance, Total, Economically.Disadvantaged,
+         Limited.English.Proficiency, Students.with.Disabilities, Black.Female:White.Male)
