@@ -248,5 +248,60 @@ Nashville_School_Enrollment_Clean <- read.csv('Data/MNPS_Enrollment_Data_Apr20.c
 Request_311_Clean <- read.csv('Data/Nashville_311_Service_Requests.csv') %>%
   rename(Request.Num = Request..) %>%
   mutate(Time.Opened = as.POSIXct(Date...Time.Opened, format = '%m/%d/%Y %I:%M:%S %p'),
-         Time.Closed = as.POSIXct(Date...Time.Closed, format = '%m/%d/%Y %I:%M:%S %p')) %>%
-  select(Request.Num:Additional.Subrequest.Type, Time.Opened, Time.Closed, Request.Origin:Longitude)
+         Time.Closed = as.POSIXct(Date...Time.Closed, format = '%m/%d/%Y %I:%M:%S %p'),
+         State.Issue = grepl('T', State.Issue),
+         Closed.When.Created = grepl('T', Closed.When.Created),
+         Address = as.character(Address),
+         City = as.character(City),
+         ZIP = as.character(ZIP),
+         ZIP = case_when(City == '37214' ~ 37214,
+                         ZIP == '0' ~ NA_real_,
+                         ZIP == '00000' ~ NA_real_,
+                         ZIP == 'TN' ~ NA_real_,
+                         ZIP == '' ~ NA_real_,
+                         T ~ as.numeric(ZIP)),
+         City = toupper(City),
+         City = case_when(City == '37214' ~ '',
+                          grepl('ANTIOCH', City) ~ 'ANTIOCH',
+                          grepl('ASHLAND CITY', City) ~ 'ASHLAND CITY',
+                          grepl('BRIGHTON', City) ~ 'BRIGHTON',
+                          grepl('FRANKLIN', City) ~ 'FRANKLIN',
+                          grepl('^HERM', City) ~ 'HERMITAGE',
+                          grepl('^LA', City) ~ 'LA VERGNE',
+                          grepl('^MAD', City) ~ 'MADISON',
+                          City == 'MASHVILLE TN' ~ 'NASHVILLE',
+                          grepl('JULIET$', City) ~ 'MT. JULIET',
+                          grepl('^NASH', City) ~ 'NASHVILLE',
+                          grepl('OLD HICKORY', City) ~ 'OLD HICKORY',
+                          City == 'UNKNOWN' ~ '',
+                          T ~ City)) %>%
+  select(Request.Num:Additional.Subrequest.Type, Time.Opened, Time.Closed, Request.Origin, 
+         Contact.Type, State.Issue:Longitude)
+
+
+#Nashville Budget ----
+Nashville_Budget <- read.csv('Data/Nashville_Budget.csv') %>%
+  select(Fund.Description, Department.Description, Business.Unit.Description, 
+         Object.Account.Description:FY19.Actual.Expenses) %>%
+  pivot_longer(names_to = 'Column', values_to = 'Budget', cols = FY14.Budgeted.Expenses:FY19.Actual.Expenses) %>%
+  separate(Column, into = c('Year', 'Budget_Type'), sep = '\\.', extra = 'drop') %>%
+  mutate(Year = gsub('FY', '20', Year),
+         Year = as.numeric(Year))
+
+
+#Nashville Government Demographics ----
+Nashville_Government_Demographics <- read.csv('Data/Nashville_Gov_Demographics.csv') %>%
+  mutate(Ethnic.Code.Description = as.character(Ethnic.Code.Description),
+         Ethnic.Code.Description = case_when(grepl('Indian', Ethnic.Code.Description) ~ 'Native American',
+                                             grepl('^Black', Ethnic.Code.Description) ~ 'Black',
+                                             grepl('^Hispanic', Ethnic.Code.Description) ~ 'Hispanic',
+                                             grepl('Hawaiian', Ethnic.Code.Description) ~ 'Pacific Islander',
+                                             T ~ Ethnic.Code.Description),
+         Data.Started = as.character(Date.Started),
+         Date.Started = as.Date(Date.Started, format = '%m/%d/%Y')) %>%
+  select(-Pay.Grade...Step, -Class)
+
+
+#Property Violations ----
+Property_Standard_Violations
+
