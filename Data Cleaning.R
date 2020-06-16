@@ -285,20 +285,30 @@ Nashville_Budget_Clean <- read.csv('Data/Nashville_Budget.csv') %>%
          Object.Account.Description:FY19.Actual.Expenses) %>%
   pivot_longer(names_to = 'Column', values_to = 'Budget', cols = FY14.Budgeted.Expenses:FY19.Actual.Expenses) %>%
   separate(Column, into = c('Year', 'Budget_Type'), sep = '\\.', extra = 'drop') %>%
-  mutate(Year = gsub('FY', '20', Year),
+  mutate(Fund.Description = as.character(Fund.Description),
+         Department.Description = as.character(Department.Description),
+         Business.Unit.Description = as.character(Business.Unit.Description),
+         Object.Account.Description = as.character(Object.Account.Description),
+         Year = gsub('FY', '20', Year),
          Year = as.numeric(Year))
 
 
 #Nashville Government Demographics ----
 Nashville_Government_Demographics_Clean <- read.csv('Data/Nashville_Gov_Demographics.csv') %>%
-  mutate(Ethnic.Code.Description = as.character(Ethnic.Code.Description),
+  mutate(Title = as.character(Title),
+         Current.Department = as.character(Current.Department),
+         Employment.Status = as.character(Employment.Status),
+         EEO.Job.Category.Description = as.character(EEO.Job.Category.Description),
+         Gender = as.character(Gender),
+         Ethnic.Code.Description = as.character(Ethnic.Code.Description),
          Ethnic.Code.Description = case_when(grepl('Indian', Ethnic.Code.Description) ~ 'Native American',
                                              grepl('^Black', Ethnic.Code.Description) ~ 'Black',
                                              grepl('^Hispanic', Ethnic.Code.Description) ~ 'Hispanic',
                                              grepl('Hawaiian', Ethnic.Code.Description) ~ 'Pacific Islander',
                                              T ~ Ethnic.Code.Description),
          Data.Started = as.character(Date.Started),
-         Date.Started = as.Date(Date.Started, format = '%m/%d/%Y')) %>%
+         Date.Started = as.Date(Date.Started, format = '%m/%d/%Y'),
+         County = as.character(County)) %>%
   select(-Pay.Grade...Step, -Class)
 
 
