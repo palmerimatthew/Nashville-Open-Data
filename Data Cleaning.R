@@ -306,7 +306,7 @@ Nashville_Government_Demographics_Clean <- read.csv('Data/Nashville_Gov_Demograp
                                              grepl('^Hispanic', Ethnic.Code.Description) ~ 'Hispanic',
                                              grepl('Hawaiian', Ethnic.Code.Description) ~ 'Pacific Islander',
                                              T ~ Ethnic.Code.Description),
-         Data.Started = as.character(Date.Started),
+         Date.Started = as.character(Date.Started),
          Date.Started = as.Date(Date.Started, format = '%m/%d/%Y'),
          County = as.character(County)) %>%
   select(-Pay.Grade...Step, -Class)
@@ -329,9 +329,15 @@ Traffic_Accidents_Clean <- read.csv('Data/Traffic_Accidents_2019_.csv') %>%
   rename(Date.Time = Date.and.Time) %>%
   mutate(Date.Time = as.POSIXct(Date.Time, format = '%m/%d/%Y %I:%M:%S %p'),
          Property.Damage = Property.Damage == 'Y',
-         Hit.and.Run = Hit.and.Run == 'Y') %>%
-  select(Accident.Number:Hit.and.Run, Collision.Type.Description, Weather.Description, 
-         Illumination.Description, Harmful.Code.Description, City, ZIP:Longitude)
+         Hit.and.Run = Hit.and.Run == 'Y',
+         Collision.Type = as.character(Collision.Type.Description),
+         Weather = as.character(Weather.Description),
+         Illumination = as.character(Illumination.Description),
+         Harmful.Code = as.character(Harmful.Code.Description),
+         City = as.character(City),
+         Precinct = as.character(Precinct)) %>%
+  select(Accident.Number:Hit.and.Run, Collision.Type, Weather, 
+         Illumination, Harmful.Code, City, ZIP:Longitude)
 
 
 #Tennessee Educator Survey ----
